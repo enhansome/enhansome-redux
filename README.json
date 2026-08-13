@@ -64,7 +64,7 @@
             "last_commit": "2026-04-12T05:35:52Z",
             "owner": "FormidableLabs",
             "repo": "spectacle",
-            "stars": 10154
+            "stars": 10155
           }
         },
         {
@@ -1332,7 +1332,7 @@
                 "last_commit": "2026-08-10T15:07:34Z",
                 "owner": "reduxjs",
                 "repo": "reselect",
-                "stars": 19021
+                "stars": 19020
               }
             },
             {
@@ -1346,7 +1346,7 @@
                 "last_commit": "2025-03-16T00:36:10Z",
                 "owner": "reduxjs",
                 "repo": "redux-thunk",
-                "stars": 17681
+                "stars": 17680
               }
             },
             {
@@ -2356,7 +2356,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-12T22:05:21Z",
+                "last_commit": "2026-08-13T17:16:01Z",
                 "owner": "infinitered",
                 "repo": "reactotron",
                 "stars": 15582
@@ -2384,7 +2384,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T03:33:48Z",
+                "last_commit": "2026-08-13T17:12:16Z",
                 "owner": "reduxjs",
                 "repo": "redux-devtools",
                 "stars": 14363
@@ -2541,7 +2541,7 @@
                 "last_commit": "2019-09-05T07:58:05Z",
                 "owner": "indexiatech",
                 "repo": "redux-immutablejs",
-                "stars": 678
+                "stars": 679
               }
             },
             {
@@ -3620,7 +3620,7 @@
                 "last_commit": "2025-08-06T04:38:43Z",
                 "owner": "dvajs",
                 "repo": "dva",
-                "stars": 16151
+                "stars": 16150
               }
             },
             {
@@ -3648,7 +3648,7 @@
                 "last_commit": "2021-07-13T15:18:34Z",
                 "owner": "relax",
                 "repo": "relax",
-                "stars": 8097
+                "stars": 8096
               }
             },
             {
@@ -3676,7 +3676,7 @@
                 "last_commit": "2026-06-30T13:33:53Z",
                 "owner": "ctrlplusb",
                 "repo": "easy-peasy",
-                "stars": 5038
+                "stars": 5037
               }
             },
             {
@@ -4159,7 +4159,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-13T00:39:28Z",
+            "last_commit": "2026-08-13T13:20:48Z",
             "owner": "shakacode",
             "repo": "react_on_rails",
             "stars": 5190
@@ -4285,7 +4285,7 @@
                 "last_commit": "2024-04-22T14:51:58Z",
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7595
+                "stars": 7594
               }
             },
             {
@@ -4299,7 +4299,7 @@
                 "last_commit": "2024-04-22T14:51:58Z",
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7595
+                "stars": 7594
               }
             },
             {
@@ -4350,7 +4350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:22:12.825Z",
+    "last_updated": "2026-08-13T17:28:57.855Z",
     "original_repository": "xgrommx/awesome-redux",
     "original_repository_sha": "5b472a5d2e7968a74c5e7db9c68b21cf4fb5b0d8",
     "enhanced_repository": "enhansome/enhansome-redux",
