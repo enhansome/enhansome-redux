@@ -1,0 +1,4360 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Redux"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Documentation of Redux"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Documentation of Redux(Simplified Chinese version)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Documentation of Redux(Russian version) (Work in progress)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Documentation of Redux(Traditional Chinese version)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Documentation of Redux(Portuguese version) (Work in progress)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Documentation of Redux(Spanish version) (Work in progress)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Documentation of Redux(Korean version)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Documentation of Redux(Sinhala|සිංහල version) (Work in progress)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Documentation of Redux(Japanese|日本語 version) (Work in progress)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spectacle - ReactJS based Presentation Library",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-12T05:35:52Z",
+            "owner": "FormidableLabs",
+            "repo": "spectacle",
+            "stars": 10154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A categorized list of Redux-related addons, libraries, and utilities",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-06-16T09:09:48Z",
+            "owner": "markerikson",
+            "repo": "redux-ecosystem-links",
+            "stars": 5205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sound Redux - a simple Soundcloud client",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T17:12:26Z",
+            "owner": "andrewngu",
+            "repo": "sound-redux",
+            "stars": 4981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notes (and partial transcription) of Dan Abramov's Redux course videos on http://egghead.io",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-08T13:24:37Z",
+            "owner": "tayiorbeii",
+            "repo": "egghead.io_redux_course_notes",
+            "stars": 2564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flux challenge",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-04-30T20:21:47Z",
+            "owner": "staltz",
+            "repo": "flux-challenge",
+            "stars": 1642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Favesound Redux - SoundCloud Client for Artists",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-12T08:20:09Z",
+            "owner": "rwieruch",
+            "repo": "favesound-redux",
+            "stars": 1588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Redux Workflow - Graphical Cheat Sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-09-09T19:16:06Z",
+            "owner": "uanders",
+            "repo": "react-redux-cheatsheet",
+            "stars": 1473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Elm Architecture in JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-05-30T09:53:42Z",
+            "owner": "salsita",
+            "repo": "prism",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Comprehensive Notes for Learning (how to use) Redux to manage state in your Web/Mobile Apps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-06-28T09:38:02Z",
+            "owner": "dwyl",
+            "repo": "learn-redux",
+            "stars": 444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redux offline docs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-01-04T10:52:46Z",
+            "owner": "paulkoegel",
+            "repo": "redux-offline-docs",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generator-redux - CLI tools for Redux: next-gen functional Flux/React with devtools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-29T06:06:11Z",
+            "owner": "banderson",
+            "repo": "generator-redux",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generator-reactapp - Yeoman generator for react app with redux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-31T07:12:57Z",
+            "owner": "Jackong",
+            "repo": "generator-reactapp",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Structor - a user interface builder for React",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A proposal for bundling reducers, action types and actions when using Redux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-31T03:42:20Z",
+            "owner": "erikras",
+            "repo": "ducks-modular-redux",
+            "stars": 9552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "深入浅出 Redux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-20T03:32:54Z",
+            "owner": "berwin",
+            "repo": "Blog",
+            "stars": 4157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learn how to use Redux step by step",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-01T06:20:18Z",
+            "owner": "happypoulp",
+            "repo": "redux-tutorial",
+            "stars": 3729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redux Chinese Document",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-20T16:14:21Z",
+            "owner": "nefe",
+            "repo": "redux-in-chinese",
+            "stars": 3454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React+Redux系列教程",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-01T04:52:03Z",
+            "owner": "lewis617",
+            "repo": "react-redux-tutorial",
+            "stars": 2207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Full-Stack Redux Tutorial - A Comprehensive Guide to Test-First Development with Redux, React, and Immutable",
+          "description": "Source Server + Client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-26T18:11:57Z",
+            "owner": "teropa",
+            "repo": "redux-voting-server",
+            "stars": 579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redux Document (Traditional Chinese)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-06T08:00:35Z",
+            "owner": "chentsulin",
+            "repo": "redux",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Building a boilerplate for a Koa, Redux, React application including Webpack, Mocha and SASS",
+          "description": "This article explains in detail how this koa-redux-react-boilerplate was built and the technologies it uses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-04T00:12:49Z",
+            "owner": "mezod",
+            "repo": "boilerplate-koa-redux-react",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AngularJS to React/Redux, a Guide for AngularJS Experts Looking to Learn React/Redux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-03-28T03:06:11Z",
+            "owner": "GoTeamEpsilon",
+            "repo": "angular-to-react-redux",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redux example using 500px API (with ES6)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-02T03:14:53Z",
+            "owner": "yildizberkay",
+            "repo": "redux-example",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Several videos about Redux + Falcor",
+          "description": "and Example code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-08-30T22:35:31Z",
+            "owner": "ekosz",
+            "repo": "postcard-sender",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "Articles And Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-boilerplate - Performance orientated, offline-first boilerplate feat. hot-reloading, PostCSS and the best developer experience.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-23T21:35:09Z",
+            "owner": "react-boilerplate",
+            "repo": "react-boilerplate",
+            "stars": 29490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-redux-universal-hot-example - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-hot-loader",
+          "description": "metal:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-02T08:38:52Z",
+            "owner": "erikras",
+            "repo": "react-redux-universal-hot-example",
+            "stars": 12089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-production-starter - React boilerplate with isomorphic rendering, async react-router routes, async redux reducers, async data fetching, and code-splitting.",
+          "description": "metal: :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-11T08:45:43Z",
+            "owner": "jaredpalmer",
+            "repo": "razzle",
+            "stars": 11029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-redux-starter-kit - Get started with React, Redux, and React-Router.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-06-03T17:30:08Z",
+            "owner": "dvdzkwsk",
+            "repo": "react-redux-starter-kit",
+            "stars": 10223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-slingshot - React Redux Starter Kit with hot reloading, tests and example app",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-26T00:25:23Z",
+            "owner": "coryhouse",
+            "repo": "react-slingshot",
+            "stars": 9638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mern.io - Simple full-stack boilerplate to get started with building isomorphic/universal apps, handles api part and also offers a cli to generate the boilerplate",
+          "description": "metal: :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-02T18:12:11Z",
+            "owner": "Hashnode",
+            "repo": "mern-starter",
+            "stars": 5142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-webpack-node - Boilerplate for an universal React + Redux/alt Flux application using Webpack running on a node express server",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-09-24T12:01:24Z",
+            "owner": "reactGo",
+            "repo": "reactGo",
+            "stars": 2790
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StarHackIt - An React/Redux Node full-stack starter kit with authentication and authorization code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-16T22:03:42Z",
+            "owner": "FredericHeem",
+            "repo": "starhackit",
+            "stars": 1272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simplest-redux-example - Simplest Redux + React example for beginners",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-20T09:41:21Z",
+            "owner": "jackielii",
+            "repo": "simplest-redux-example",
+            "stars": 1171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redux-blog-example - Redux-Webpack-Babel Blog Platform boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-26T21:23:28Z",
+            "owner": "olegakbarov",
+            "repo": "react-redux-starter-kit",
+            "stars": 993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3ree - Boilerplate & Demo for Universal Realtime Apps built with React + Redux + RethinkDB + Express",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-06T14:58:31Z",
+            "owner": "GordyD",
+            "repo": "3ree",
+            "stars": 840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vortigern - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-06-13T11:11:24Z",
+            "owner": "barbar",
+            "repo": "vortigern",
+            "stars": 635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redux-easy-boilerplate - React Redux easy boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-02-05T16:17:38Z",
+            "owner": "anorudes",
+            "repo": "redux-easy-boilerplate",
+            "stars": 631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modern and Scalable React/Redux Boilerplate - Flexible starter kit using Webpack 2 (tree-shaking) / React Hot Loader v3 / Code Splitting for React Router / PostCSS / CSS Modules / custom Ducks pattern app architecture / best practices / Sentry error tracking / Enzyme test environment",
+          "description": "rocket:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-03-07T18:16:00Z",
+            "owner": "nicksp",
+            "repo": "redux-webpack-es6-boilerplate",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "browser-redux - Building Chrome apps and cross-browser extensions with Redux and Webpack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-31T18:38:36Z",
+            "owner": "zalmoxisus",
+            "repo": "crossbuilder",
+            "stars": 482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Universal Redux Template - A clean, extensible react + redux boilerplate with universal rendering, testing and more",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-27T09:23:27Z",
+            "owner": "mz026",
+            "repo": "universal-redux-template",
+            "stars": 458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "starter-kit - Project boilerplate using React, Redux and Uniloc http://unicornstandard.com/packages/boilerplate.html",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-02-25T11:44:03Z",
+            "owner": "jamesknelson",
+            "repo": "starter-kit",
+            "stars": 457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple-redux-boilerplate - Simple and guided React, Redux boilerplate w/ Transform HMR! :fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-14T10:38:15Z",
+            "owner": "tsaiDavid",
+            "repo": "simple-redux-boilerplate",
+            "stars": 427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "isomorphic-redux-app - Redux Isomorphic App (with async content)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-30T17:19:38Z",
+            "owner": "caljrimmer",
+            "repo": "isomorphic-redux-app",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-hot-redux-firebase-starter - Starter boilerplate for using React/Redux with Firebase 3.0 API, include the new React Hot Loader 3.0 :fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-04-29T22:39:20Z",
+            "owner": "douglascorrea",
+            "repo": "react-hot-redux-firebase-starter",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Redux Starter Kit - Yet another React and Redux based web application starter kit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-06T22:26:44Z",
+            "owner": "cloudmu",
+            "repo": "react-redux-starter-kit",
+            "stars": 347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Redux Firebase Boilerplate - Designed for quickly spin up your apps with Firebase, using bunch of awesome new front-end technologies includes webpack build system, hot reloading, routing & sass support. :fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-01T21:51:11Z",
+            "owner": "bekatom",
+            "repo": "react-redux-firebase-boilerplate",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redux-demo - Redux port of SurviveJS - Webpack and React Kanban app",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-09T08:11:24Z",
+            "owner": "survivejs-demos",
+            "repo": "redux-demo",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Redux SoundCloud Client - Seed Project for a SoundCloud Client with working Login + Extension Seed Projects",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-25T04:57:23Z",
+            "owner": "rwieruch",
+            "repo": "react-redux-soundcloud",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "express-redux-sample - Express-Redux-PassportJs-MySQL Boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-09-08T01:01:09Z",
+            "owner": "aybmab",
+            "repo": "express-redux-sample",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Universal Saga - Universal React Starter Kit ft. Redux Saga",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-05-02T14:17:21Z",
+            "owner": "xkawi",
+            "repo": "react-universal-saga",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hapi React Starter Kit - Universal, Redux, Redis, Socket.io, Intl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-18T01:58:47Z",
+            "owner": "Dindaleon",
+            "repo": "hapi-react-starter-kit",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Redux Universal Boilerplate - An Universal ReactJS/Redux Boilerplate.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-30T15:42:42Z",
+            "owner": "kiki-le-singe",
+            "repo": "react-redux-universal-boilerplate",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Documented Koa Redux React Webpack boilerplate",
+          "description": "The building process of this boilerplate is deeply documented from 0 for learning purposes. You can find the docs here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-04T00:12:49Z",
+            "owner": "mezod",
+            "repo": "boilerplate-koa-redux-react",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "breko-hub - Babel React Koa Hot Universal Boilerplate -- A simple, clean and consistent boilerplate for creating universal webapps with universal data fetching and SocketIO integration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-23T20:37:15Z",
+            "owner": "tomatau",
+            "repo": "breko-hub",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fast-redux - Redux extension with O(1) speed and dynamic importing of reducers/actions.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-24T18:50:15Z",
+            "owner": "dogada",
+            "repo": "fast-redux",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redux-undo-boilerplate - a magical boilerplate with hot reloading and awesome error handling",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-01-02T10:51:07Z",
+            "owner": "omnidan",
+            "repo": "redux-undo-boilerplate",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "universal-react-redux - Opinionated Universal React/Redux/Webpack with HMR. Continually updated.",
+          "description": "metal: :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-15T22:45:42Z",
+            "owner": "combine",
+            "repo": "universal-react-redux",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "loopback-redux-react-boilerplate - A boilerplate for a Redux-React application using LoopBack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-20T04:39:30Z",
+            "owner": "tngan",
+            "repo": "loopback-redux-react-boilerplate",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-redux-scaffold - Combination of redux, react-router and ES6+ support",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-03-22T18:02:37Z",
+            "owner": "lcjnil",
+            "repo": "react-redux-scaffold",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-redux-boilerplate - React Redux Boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-07-28T08:18:47Z",
+            "owner": "knowbody",
+            "repo": "react-redux-boilerplate",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redux universal boilerplate - boilerplate for react universal application building on flux architecture based on redux implementation.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-10-07T02:36:37Z",
+            "owner": "ufocoder",
+            "repo": "redux-universal-boilerplate",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-workflow - A large SPA boilerplate for web development built on top of Facebook's React library,use redux architecture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-12-23T06:41:08Z",
+            "owner": "cloudfroster",
+            "repo": "react-workflow",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReacToGo - A simple ES6 boilerplate with Redux architecture and ImmutableJS: Hot Reload, React UI Comp, Firebase, Router",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-24T16:47:05Z",
+            "owner": "PBRT",
+            "repo": "reactogo",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker + React/Redux + Node + PostgreSQL - full stack boilerplate with fully dockerized workflows for development, deployment, testing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-09-12T15:21:05Z",
+            "owner": "Producters",
+            "repo": "docker-node-react-starter",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-redux-contact-list - Simple contact list built with Angular, Immutable.js and Redux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-10T20:18:09Z",
+            "owner": "housseindjirdeh",
+            "repo": "angular2-redux-contact-list",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reduxible - The Fast and Easy way to make a React + Redux apps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-05-31T21:40:50Z",
+            "owner": "pitzcarraldo",
+            "repo": "reduxible",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redux-boilerplate - Boilerplate for Redux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-25T13:28:00Z",
+            "owner": "ellbee",
+            "repo": "redux-boilerplate",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cra-template-redux-auth-starter - A Redux auth starter boilerplate for CRA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-27T09:30:18Z",
+            "owner": "Nilanth",
+            "repo": "cra-template-redux-auth-starter",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-boilerplate - React + Typescript + Sass boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2015-08-19T18:05:53Z",
+            "owner": "Keats",
+            "repo": "react-ts-boilerplate",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redux-react-material-boilerplate - Simple boilerplate inc. React, Redux, Hot reload and Material-ui",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-27T16:19:47Z",
+            "owner": "wapgear",
+            "repo": "redux-react-material-boilerplate",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react_scaffolding - React + React Router 1.0 + Redux + Webpack & Hot Module Replacement",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-08-14T06:53:31Z",
+            "owner": "rafaelchiti",
+            "repo": "react_scaffolding",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React/Redux simple CRUD with persistent state and local async actions (add a manifest file and you get an offline webapp)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-04-01T05:16:52Z",
+            "owner": "cristianszwarc",
+            "repo": "react_crud_localStorage",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React/Redux with Auth boilerplate - Very simple boilerplate, good for fast creating admin panels / dashboard. Included: React, Redux, ReduxForm, React-Router, Simple Authenticate, Hot Reload and Webpack (with babel) :fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2016-05-03T21:28:39Z",
+            "owner": "wapgear",
+            "repo": "react-redux-template-system-boilerplate",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stapp - A Frontend boilerplate for High productivity :fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-06T14:08:45Z",
+            "owner": "theaidem",
+            "repo": "stapp",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rde - Reactive Live Programming Environment",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-09T01:23:33Z",
+            "owner": "levjj",
+            "repo": "rde",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-for-hipsters-boilerplate - Fresh boilerplate with brand new hot reloading confing and other hipster stuff",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-04-18T22:07:18Z",
+            "owner": "chicoxyzzy",
+            "repo": "react-for-hipsters-boilerplate",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Redux Cordova Boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-12-05T19:37:53Z",
+            "owner": "inderps",
+            "repo": "react-redux-cordova-boilerplate",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zero-boilerplate-redux - An example real-world Redux CRUD application with no boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-05T17:05:41Z",
+            "owner": "jamesplease",
+            "repo": "zero-boilerplate-redux",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Seed - A barebones scalable directory structure and package.json for facilitating new React + Redux projects. No fat to trim here!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-06-20T01:11:04Z",
+            "owner": "andrewcoelho",
+            "repo": "react-seed",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "edux - fast Redux without constants and switches. Actions and reducers are generated from single source.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-25T20:12:29Z",
+            "owner": "dogada",
+            "repo": "edux",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skeleton - A simple project-stub to show the basic ideas. Also serves you as a quick start for your project (Mori + Redux)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2015-10-24T20:58:52Z",
+            "owner": "mightyaleksey",
+            "repo": "skeleton",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-redux-seed - 使用 React 与 Redux 实现 Universal 渲染的种子工程",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-12T14:15:46Z",
+            "owner": "lewis617",
+            "repo": "react-redux-seed",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reactv - React Redux example",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "dicty-redux - Starter kit to bootstrap React and Redux (Flux) based web application",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "redux500 - The Redux version of isomorphic500",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "err - Electron, React, Redux-devtools boilerplate for building cross-platform apps.",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "friends-app-redux - React Redux Universal Hot Example",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "universal-js - A universal Javascript starter kit inc. React, Redux, Redux Dev Tools, Universal Redux Router, CSS Modules, hot module reloading, Babel for ES2015+ and ESLint",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "react-redux-starter - React Redux Starter",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Boilerplate"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Containers",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "reapop - A React & Redux notifications system",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T00:30:15Z",
+                "owner": "LouisBarranqueiro",
+                "repo": "reapop",
+                "stars": 1560
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-redux-modal-provider - Redux-powered abstract React modal state manager",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2019-08-09T14:28:26Z",
+                "owner": "mayask",
+                "repo": "react-redux-modal-provider",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-redux-modal-flex - Accessible modal dialog component for React, easy to install and use with Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2021-04-15T12:08:57Z",
+                "owner": "nghiepdev",
+                "repo": "react-redux-modal-flex",
+                "stars": 15
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Middlewares",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "react-redux - React bindings for Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T15:12:37Z",
+                "owner": "reduxjs",
+                "repo": "react-redux",
+                "stars": 23455
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reselect - Selector library for Redux like in NuclearJS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-10T15:07:34Z",
+                "owner": "reduxjs",
+                "repo": "reselect",
+                "stars": 19021
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-thunk - Thunk middleware for Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2025-03-16T00:36:10Z",
+                "owner": "reduxjs",
+                "repo": "redux-thunk",
+                "stars": 17681
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-persist-store - Persist and rehydrate a redux store",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2024-05-01T18:49:34Z",
+                "owner": "rt2zz",
+                "repo": "redux-persist",
+                "stars": 12962
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-observable - RxJS 5-based middleware for Redux. Compose and cancel actions as epics.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T12:57:00Z",
+                "owner": "redux-observable",
+                "repo": "redux-observable",
+                "stars": 7807
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-actions - Flux Standard Action utilities for Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-07-21T16:45:27Z",
+                "owner": "redux-utilities",
+                "repo": "redux-actions",
+                "stars": 6454
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-logger - Logger middleware for Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-08-20T16:46:14Z",
+                "owner": "LogRocket",
+                "repo": "redux-logger",
+                "stars": 5719
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-undo - Simple undo/redo functionality for redux state containers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2026-01-02T10:39:38Z",
+                "owner": "omnidan",
+                "repo": "redux-undo",
+                "stars": 2903
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-promise - FSA-compliant promise middleware for Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-01-21T15:40:28Z",
+                "owner": "redux-utilities",
+                "repo": "redux-promise",
+                "stars": 2645
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-react-router - Redux bindings for React Router – keep your router state inside your Redux store",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2021-07-07T15:13:36Z",
+                "owner": "acdlite",
+                "repo": "redux-router",
+                "stars": 2282
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-promise-middleware - Redux middleware for resolving and rejecting promises",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-06-29T16:51:07Z",
+                "owner": "pburtchaell",
+                "repo": "redux-promise-middleware",
+                "stars": 1971
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-act - An opinionated lib to create actions and reducers for Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-09-27T20:37:00Z",
+                "owner": "pauldijou",
+                "repo": "redux-act",
+                "stars": 1474
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-api-middleware - Redux API middleware based on the real-world example",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-01-03T18:59:46Z",
+                "owner": "agraboso",
+                "repo": "redux-api-middleware",
+                "stars": 1472
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-localstorage - Store enhancer that syncs (a subset) of your Redux store state to localstorage.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-01-23T11:23:42Z",
+                "owner": "elgerlambert",
+                "repo": "redux-localstorage",
+                "stars": 1301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-rx - RxJS utilities for Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-01-24T16:42:10Z",
+                "owner": "acdlite",
+                "repo": "redux-rx",
+                "stars": 1006
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-ignore - Ignore redux actions by array or filter function",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2026-01-02T10:44:29Z",
+                "owner": "omnidan",
+                "repo": "redux-ignore",
+                "stars": 837
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-cycles - Handle async actions with functional and reactive programming.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-01-15T00:02:41Z",
+                "owner": "cyclejs-community",
+                "repo": "redux-cycles",
+                "stars": 739
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "adrenaline - React bindings for Redux with Relay in mind",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2017-02-14T14:11:42Z",
+                "owner": "gyzerok",
+                "repo": "adrenaline",
+                "stars": 712
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-storage - Persistence layer for redux with flexible backends",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2017-04-12T13:41:56Z",
+                "owner": "michaelcontento",
+                "repo": "redux-storage",
+                "stars": 668
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-batched-subscribe - Batch calls to subscribe handlers with a custom function, including debouncing or React batched updates.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-07-15T05:44:43Z",
+                "owner": "tappleby",
+                "repo": "redux-batched-subscribe",
+                "stars": 501
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-analytics - Trigger analytics events based on your event metadata",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-10-11T12:17:17Z",
+                "owner": "markdalgleish",
+                "repo": "redux-analytics",
+                "stars": 485
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-falcor - Connect your redux front-end to your falcor back-end",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-09-23T05:42:12Z",
+                "owner": "ekosz",
+                "repo": "redux-falcor",
+                "stars": 362
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-requests - Avoid issuing duplicate HTTP requests",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2015-10-12T21:25:06Z",
+                "owner": "idolize",
+                "repo": "redux-requests",
+                "stars": 241
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-raven-middleware - Redux middleware for sending error reports to Sentry through raven-js",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-05-30T14:47:21Z",
+                "owner": "ngokevin",
+                "repo": "redux-raven-middleware",
+                "stars": 226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-batched-updates - Batch React updates that occur as a result of Redux dispatches, to prevent cascading renders.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-06-01T05:19:30Z",
+                "owner": "acdlite",
+                "repo": "redux-batched-updates",
+                "stars": 224
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-pouchdb - sync store state to pouchdb",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-01-04T21:41:24Z",
+                "owner": "vicentedealencar",
+                "repo": "redux-pouchdb",
+                "stars": 221
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-callbag - Redux middleware for action side effects with callbag + Extremely lightweight and highly scalable",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-06-29T14:25:44Z",
+                "owner": "janryWang",
+                "repo": "redux-callbag",
+                "stars": 180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-diff-logger - Diff logger between states for Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-05-09T14:20:44Z",
+                "owner": "imevro",
+                "repo": "redux-diff-logger",
+                "stars": 175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-combine-actions - Redux middleware that allows you to easy combine actions and dispatch them sequentially",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2015-11-09T20:31:07Z",
+                "owner": "itsmepetrov",
+                "repo": "redux-combine-actions",
+                "stars": 162
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-await - Manage async redux actions sanely",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-02-17T15:18:28Z",
+                "owner": "kolodny",
+                "repo": "redux-await",
+                "stars": 153
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "re-notif",
+              "description": "A notification center based on React & Redux.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-12-07T01:05:03Z",
+                "owner": "indexiatech",
+                "repo": "re-notif",
+                "stars": 148
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-catch - Error catcher middleware for Redux reducers and middlewares",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-12-10T05:17:40Z",
+                "owner": "PlatziDev",
+                "repo": "redux-catch",
+                "stars": 147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-elm-middleware - Elm middleware for redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-02-20T08:45:56Z",
+                "owner": "stoeffel",
+                "repo": "redux-elm-middleware",
+                "stars": 147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-recycle - Reset the redux state on certain actions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2026-01-02T10:38:33Z",
+                "owner": "omnidan",
+                "repo": "redux-recycle",
+                "stars": 146
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-transduce - Transducer utilities for Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2015-10-30T16:39:54Z",
+                "owner": "acdlite",
+                "repo": "redux-transducers",
+                "stars": 132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-act-async - Reducing boilerplate when creating asynchronous actions in Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2019-09-01T20:54:06Z",
+                "owner": "FredericHeem",
+                "repo": "redux-act-async",
+                "stars": 125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-async-initial-state - Set initial Redux state asynchronously",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-11-04T03:57:50Z",
+                "owner": "KELiON",
+                "repo": "redux-async-initial-state",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-async-queue - Manage queues of thunk actions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-09-06T16:03:48Z",
+                "owner": "zackargyle",
+                "repo": "redux-async-queue",
+                "stars": 112
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "socket.io-redux - Redux middleware to emit action via socket.io",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-04-08T20:20:49Z",
+                "owner": "PlatziDev",
+                "repo": "socket.io-redux",
+                "stars": 105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-task - A simple Side Effects manager for redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-10-11T06:54:29Z",
+                "owner": "sskyy",
+                "repo": "redux-task",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-mediaquery - Redux ActionCreator to put responsive-design breakpoints in your store",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-07-24T12:02:22Z",
+                "owner": "Yaska",
+                "repo": "redux-mediaquery",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-cookies-middleware - a Redux middleware which syncs a subset of your Redux store state with cookies.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-04-09T05:46:42Z",
+                "owner": "grofers",
+                "repo": "redux-cookies-middleware",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-pagan - internationalization via redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-09-11T12:05:58Z",
+                "owner": "alexkuz",
+                "repo": "redux-pagan",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rn-redux-mixpanel - Configurable Redux middleware that sends your actions & user profile data to Mixpanel",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2017-10-27T17:31:39Z",
+                "owner": "danscan",
+                "repo": "rn-redux-mixpanel",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-catch-promise - Extended replacement of redux-thunk middleware to supporting async-await functions and implement server-side rendering for React components with async state",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-03-24T01:25:50Z",
+                "owner": "DenisIzmaylov",
+                "repo": "redux-catch-promise",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-io - FSA-compliant io monad middleware for redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2016-01-30T09:34:05Z",
+                "owner": "stoeffel",
+                "repo": "redux-io",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-routing - Universal routing built on top of redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-09-21T08:50:47Z",
+                "owner": "callum",
+                "repo": "redux-routing",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-observable-middleware - Redux middleware for subscribing to observables",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-02-24T18:19:54Z",
+                "owner": "d6u",
+                "repo": "redux-observable-middleware",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-simple-promise - FSA-compliant promise middleware for Redux with simple behaviour with minimal boilerplate declarations",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-05-10T20:17:12Z",
+                "owner": "alanrubin",
+                "repo": "redux-simple-promise",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-future - FSA-compliant future monad middleware for redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2018-05-25T16:26:48Z",
+                "owner": "stoeffel",
+                "repo": "redux-future",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-gen - Generator based middleware for redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-03-05T07:47:52Z",
+                "owner": "weo-edu",
+                "repo": "redux-gen",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-debug - debug(...) middleware for Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2015-11-09T19:42:56Z",
+                "owner": "lapwinglabs",
+                "repo": "redux-debug",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-async - FSA-compliant promise property middleware for Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2015-12-03T19:49:41Z",
+                "owner": "nwwells",
+                "repo": "redux-async",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "routex - Simple router for Redux universal applications. Can be used with React too",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2016-05-04T19:49:58Z",
+                "owner": "michalkvasnicak",
+                "repo": "routex",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-authentication - Authentication component for Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-03-27T15:53:05Z",
+                "owner": "Jackong",
+                "repo": "redux-authentication",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-fetch-middleware - Redux middleware that help user to treat simple request via fetch api",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-10-29T16:09:17Z",
+                "owner": "zslucky",
+                "repo": "redux-fetch-middleware",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-amrc - Redux async middleware and reducer creator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-03-20T02:37:52Z",
+                "owner": "lewis617",
+                "repo": "redux-amrc",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-lunr - Make your redux store searchable with Lunr.js",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-01-06T18:51:46Z",
+                "owner": "swennemans",
+                "repo": "redux-lunr",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-timeout - Trigger actions based on timeouts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-03-15T15:55:08Z",
+                "owner": "gpfunk",
+                "repo": "redux-timeout",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-node-logger - A Redux Logger for Node Environments",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-10-20T12:41:10Z",
+                "owner": "low-ghost",
+                "repo": "redux-node-logger",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-either - FSA-compliant either monad middleware for redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-01-08T21:07:53Z",
+                "owner": "stoeffel",
+                "repo": "redux-either",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-reporter - Report actions & metadata to 3rd party providers, extremely useful for analytics and error handling (New Relic, Sentry, Adobe DTM, Keen, etc.)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-06-09T16:19:32Z",
+                "owner": "ezekielchentnik",
+                "repo": "redux-reporter",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-ensure-fsa - Development middleware to check for FSA-compliant actions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-03-01T23:28:02Z",
+                "owner": "meadow",
+                "repo": "redux-ensure-fsa",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-redux-persist-sentry-middleware - Redux middleware for sending error reports along with persisted data as payload to Sentry through raven-js",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-05-03T14:04:33Z",
+                "owner": "rishantagarwal",
+                "repo": "react-redux-persist-sentry-middleware",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-owl - Redux One Way Linking",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2015-08-15T06:51:58Z",
+                "owner": "rt2zz",
+                "repo": "redux-owl",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-url - A Redux middleware for synchronizing the URL with the state",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-01-06T01:57:06Z",
+                "owner": "jedirandy",
+                "repo": "redux-url",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-cheerio - Make HTTP requests and then parse the responses with jQuery selectors using Cheerio",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-07-30T11:02:25Z",
+                "owner": "therewillbecode",
+                "repo": "redux-cheerio",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eslint-plugin-redux-reselect - Eslint rules for Selector library",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-11-01T09:30:51Z",
+                "owner": "viktor-ku",
+                "repo": "eslint-plugin-redux-reselect",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-create-store",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2022-12-07T20:17:56Z",
+                "owner": "phated",
+                "repo": "redux-create-store",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-sync-promise - Middleware for writing asynchronous actions in synchronous style",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-09-16T07:36:17Z",
+                "owner": "shanhaichik",
+                "repo": "redux-sync-promise",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-deferred - Redux middleware for jQuery Deferred Object",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-11-16T06:05:39Z",
+                "owner": "longtian",
+                "repo": "redux-deferred",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-vstack-router - Helpers to bind vstack-router to redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2015-07-30T10:17:50Z",
+                "owner": "vslinko",
+                "repo": "redux-vstack-router",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-delegator - Compose redux reducers in a structured way",
+              "description": null,
+              "children": []
+            },
+            {
+              "node_type": "item",
+              "title": "redux-most - Most.js based middleware for Redux. Handle async actions with monadic streams & reactive programming.",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Tools",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "redux-saga - An alternative side effect model for Redux apps",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-12T14:46:28Z",
+                "owner": "redux-saga",
+                "repo": "redux-saga",
+                "stars": 22425
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reactotron - Control, monitor, and instrument your React Native apps from the comfort of your TTY",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T22:05:21Z",
+                "owner": "infinitered",
+                "repo": "reactotron",
+                "stars": 15582
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "recompose - A microcomponentization toolkit for React",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2022-09-10T03:59:05Z",
+                "owner": "acdlite",
+                "repo": "recompose",
+                "stars": 14791
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T03:33:48Z",
+                "owner": "reduxjs",
+                "repo": "redux-devtools",
+                "stars": 14363
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-devtools-extension - Redux DevTools Extension",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-11-07T11:04:59Z",
+                "owner": "zalmoxisus",
+                "repo": "redux-devtools-extension",
+                "stars": 13457
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-form - An ES7 decorator for forms using Redux and React",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-06-13T12:17:05Z",
+                "owner": "redux-form",
+                "repo": "redux-form",
+                "stars": 12485
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-router-redux - Ruthlessly simple bindings to keep react-router and redux in sync",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2018-10-26T15:42:15Z",
+                "owner": "reactjs",
+                "repo": "react-router-redux",
+                "stars": 7747
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-orm - A small, simple and immutable ORM to manage data in your Redux store",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-01-16T06:23:05Z",
+                "owner": "redux-orm",
+                "repo": "redux-orm",
+                "stars": 2931
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-loop - Sequence your effects naturally and purely by returning them from your reducers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-03-19T18:42:21Z",
+                "owner": "redux-loop",
+                "repo": "redux-loop",
+                "stars": 1953
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-immutable - Streamlines use of Immutable.js with Redux reducers.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2022-03-28T21:47:31Z",
+                "owner": "gajus",
+                "repo": "redux-immutable",
+                "stars": 1869
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "remote-redux-devtools - Use Redux DevTools remotely for React Native, hybrid, desktop and server side Redux apps",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-04-25T11:18:31Z",
+                "owner": "zalmoxisus",
+                "repo": "remote-redux-devtools",
+                "stars": 1798
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "updeep - Easily update nested frozen objects and arrays in a declarative and immutable manner",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-02-21T15:41:55Z",
+                "owner": "substantial",
+                "repo": "updeep",
+                "stars": 1180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-cli - An opinionated CLI for building redux/react apps quicker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-03-25T10:41:58Z",
+                "owner": "SpencerCDixon",
+                "repo": "redux-cli",
+                "stars": 876
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-optimist - Optimistically apply actions that can be later commited or reverted.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-05-03T22:47:45Z",
+                "owner": "ForbesLindesay",
+                "repo": "redux-optimist",
+                "stars": 773
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Redux & ImmutableJs - Integration of Redux & ImmutableJs that 100% conforms Redux standards",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2019-09-05T07:58:05Z",
+                "owner": "indexiatech",
+                "repo": "redux-immutablejs",
+                "stars": 678
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Generate standard action creators and reducers for CRUD applications",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2018-09-19T23:32:24Z",
+                "owner": "Versent",
+                "repo": "redux-crud",
+                "stars": 618
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-ship - Composable, testable and typable side effects",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-01-20T10:06:20Z",
+                "owner": "clarus",
+                "repo": "redux-ship",
+                "stars": 606
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-bees - A nice, declarative way of managing JSON API calls with Redux.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-07-25T17:32:12Z",
+                "owner": "cantierecreativo",
+                "repo": "redux-bees",
+                "stars": 589
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-api - Flux REST API for redux infrastructure",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-01-04T21:41:56Z",
+                "owner": "lexich",
+                "repo": "redux-api",
+                "stars": 494
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-test-recorder - Redux test recorder is a redux middleware + included component for automagically generating tests for your reducers based on the actions in your app",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-10-11T13:53:26Z",
+                "owner": "conorhastings",
+                "repo": "redux-test-recorder",
+                "stars": 491
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "subdivide - User defined UI layout: Every pane can be subdivided and any widget assigned to any pane",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-11-20T22:41:16Z",
+                "owner": "philholden",
+                "repo": "subdivide",
+                "stars": 435
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "multireducer - A utility to wrap many copies of a single Redux reducer into a single key-based reducer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-05-04T06:44:58Z",
+                "owner": "erikras",
+                "repo": "multireducer",
+                "stars": 421
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-saga-requests - Redux-Saga addon to simplify handling of AJAX requests. It supports Axios and Fetch API.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-11T22:46:55Z",
+                "owner": "klis87",
+                "repo": "redux-requests",
+                "stars": 366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "immu - A tiny, fail-fast, lazy, immutable Javascript objects library",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2019-03-06T22:54:05Z",
+                "owner": "scottcorgan",
+                "repo": "immu",
+                "stars": 355
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "blue-chip - Accepts payloads from GraphQL or JsonAPI servers, normalizes them into your store and provides an ORM like syntax for retrieving the data for use",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-07-10T03:09:01Z",
+                "owner": "blue-chip-js",
+                "repo": "blue-chip",
+                "stars": 330
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-store-visualizer - Visualize Redux store in real time",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-06-28T09:37:35Z",
+                "owner": "romseguy",
+                "repo": "redux-store-visualizer",
+                "stars": 327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-watch - Watch/monitor for state changes on an object path",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-05-12T23:05:23Z",
+                "owner": "ExodusOSS",
+                "repo": "redux-watch",
+                "stars": 314
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "generator-redux - CLI tools for Redux: next-gen functional Flux/React with devtools",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2019-03-29T06:06:11Z",
+                "owner": "banderson",
+                "repo": "generator-redux",
+                "stars": 249
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "generator-redux - CLI tools for Redux: next-gen functional Flux/React with devtools",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2019-03-29T06:06:11Z",
+                "owner": "banderson",
+                "repo": "generator-redux",
+                "stars": 249
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-devtools-inspector - Another Redux DevTools Monitor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2018-12-22T00:45:12Z",
+                "owner": "alexkuz",
+                "repo": "redux-devtools-inspector",
+                "stars": 235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-resource - Lightweight remote resource management for Redux.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2021-03-16T21:59:30Z",
+                "owner": "jamesplease",
+                "repo": "redux-resource",
+                "stars": 232
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-tcomb - Immutable and type-checked state and actions for Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2016-08-24T12:23:29Z",
+                "owner": "gcanti",
+                "repo": "redux-tcomb",
+                "stars": 211
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-slider-monitor - A custom monitor for Redux DevTools to replay recorded Redux actions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-12-07T07:24:10Z",
+                "owner": "calesce",
+                "repo": "redux-slider-monitor",
+                "stars": 204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "actionware - Redux with less boilerplate + error/busy status for every action",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2018-03-15T18:39:20Z",
+                "owner": "wellguimaraes",
+                "repo": "actionware",
+                "stars": 200
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-actions-assertions - Assertions for redux actions testing",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-01-18T12:19:28Z",
+                "owner": "redux-things",
+                "repo": "redux-actions-assertions",
+                "stars": 184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-rest - Automatically create Flux action constants, action creators and Redux reducers for your REST API",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-03-27T13:55:48Z",
+                "owner": "Kvoti",
+                "repo": "redux-rest",
+                "stars": 178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-devtools-diff-monitor - Redux DevTools – Diff Monitor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-07-03T17:01:33Z",
+                "owner": "whetstone",
+                "repo": "redux-devtools-diff-monitor",
+                "stars": 176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-inline-grid - Predictable flexbox based grid for React using Redux and Immutable-js.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-07-15T19:54:40Z",
+                "owner": "broucz",
+                "repo": "react-inline-grid",
+                "stars": 167
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-react-router-transitions - Attach react-router transitions to arbitrary actions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-06-03T20:41:09Z",
+                "owner": "johanneslumpe",
+                "repo": "redux-history-transitions",
+                "stars": 166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rereduce - Reducer library for Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-12-14T19:03:41Z",
+                "owner": "slorber",
+                "repo": "rereduce",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-devtools-filterable-log-monitor - Filterable tree view monitor for Redux DevTools",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-12-10T21:42:38Z",
+                "owner": "bvaughn",
+                "repo": "redux-devtools-filterable-log-monitor",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "firedux - Firebase + Redux for ReactJS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-01-12T06:33:51Z",
+                "owner": "AndersDJohnson",
+                "repo": "firedux",
+                "stars": 150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-devtools-dispatch - Dispatch your actions manually to test if your app reacts well",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-05-16T07:01:36Z",
+                "owner": "YoruNoHikage",
+                "repo": "redux-devtools-dispatch",
+                "stars": 140
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-reach - A library to communicate with Graphql through Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2019-10-30T21:42:50Z",
+                "owner": "kennetpostigo",
+                "repo": "react-reach",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-multi - Dispatch multiple actions from one action creator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-10-24T22:22:28Z",
+                "owner": "ashaffer",
+                "repo": "redux-multi",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-tiny-router - A Router made for Redux, stop using the router as a controller it's just state!",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-01-06T17:15:13Z",
+                "owner": "Agamennon",
+                "repo": "redux-tiny-router",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-devtools-gentest-plugin - Generate mocha like tests from redux-devtools session",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2017-05-27T04:59:59Z",
+                "owner": "sergey-lapin",
+                "repo": "redux-devtools-gentest-plugin",
+                "stars": 125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-saga-rxjs - RxJS implementation of Saga pattern for redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-06-28T09:03:29Z",
+                "owner": "salsita",
+                "repo": "redux-saga-rxjs",
+                "stars": 112
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-autoform - Create Redux-Forms dynamically out of metadata",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-10-16T22:36:53Z",
+                "owner": "redux-autoform",
+                "repo": "redux-autoform",
+                "stars": 112
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redoodle - Enhances Redux integration with TypeScript with Typed Actions and typesafe reducers.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-04-01T11:50:25Z",
+                "owner": "palantir",
+                "repo": "redoodle",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-decorators - A ridiculously good syntax for working with Redux and TypeScript. Currently limited to Angular but could potentially be used elsewhere",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2016-08-08T07:17:22Z",
+                "owner": "KarlPurk",
+                "repo": "redux-decorators",
+                "stars": 89
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-router5 - router5 integration with Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": null,
+                "last_commit": "2017-06-26T07:49:56Z",
+                "owner": "router5",
+                "repo": "redux-router5",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yax - Yet another store using redux and inspired by vuex",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-06-01T01:23:35Z",
+                "owner": "d-band",
+                "repo": "yax",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "actiontyper - Helper to create less verbose action types for Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-12-12T20:17:55Z",
+                "owner": "alnorris",
+                "repo": "redux-actiontyper",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "generator-redux-app - Scaffold out a redux app with counter example and react-router",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-12-12T04:31:16Z",
+                "owner": "chentsulin",
+                "repo": "generator-redux-app",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-flash-notification - A flash notification component for Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-05-09T13:43:49Z",
+                "owner": "posabsolute",
+                "repo": "redux-flash-notification",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-data-fx - Declarative side effects for Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2017-12-23T15:26:36Z",
+                "owner": "mt-bt",
+                "repo": "redux-data-fx",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vstack-router - Universal router",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "TypeScript",
+                "last_commit": "2023-01-06T06:45:23Z",
+                "owner": "vslinko",
+                "repo": "vstack-router",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "icedam - Just-in-time immutability: freezes data sent to views.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2015-08-13T11:16:15Z",
+                "owner": "winkler1",
+                "repo": "icedam",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-easy-actions - Sugar library for creating Redux or Flux actions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-03-29T12:03:25Z",
+                "owner": "grigory-leonenko",
+                "repo": "redux-easy-actions",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-immutable-reducer - Immutable reducer states with Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-04-28T16:16:10Z",
+                "owner": "zackargyle",
+                "repo": "redux-immutable-reducer",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-loader - A high order component for Redux. This components loads resources and passes them to the child components via props",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-02-17T04:22:42Z",
+                "owner": "Versent",
+                "repo": "redux-loader",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-form-validation - Form validation for controlled & uncontrolled inputs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-02-29T17:28:36Z",
+                "owner": "posabsolute",
+                "repo": "redux-form-validator",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reswitch — Write reducers with less boilerplate",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-03-13T13:52:30Z",
+                "owner": "chiefGui",
+                "repo": "reswitch",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-import-export-monitor - A monitor for copying your serialized action log to the clipboard, as well as pasting it in from somewhere else",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2017-05-15T16:17:06Z",
+                "owner": "sergey-lapin",
+                "repo": "redux-import-export-monitor",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-dispatch-cli - A CLI tool for Redux remote dispatch. Used in remote-redux-devtools",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-05-03T21:36:15Z",
+                "owner": "jhen0409",
+                "repo": "redux-dispatch-cli",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-viewmodel - ViewModel wrapping for Redux & React",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2015-10-28T10:11:35Z",
+                "owner": "tdzl2003",
+                "repo": "redux-viewmodel",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-store-validator - Add validation to your Redux reducers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2017-02-19T02:18:32Z",
+                "owner": "alixander",
+                "repo": "redux-store-validator",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "replux - Self contained components and enhancements for Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2016-08-01T10:32:43Z",
+                "owner": "gregthebusker",
+                "repo": "replux",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "entman - A simple library to manage normalizr entities in a Redux store",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-03-16T09:01:25Z",
+                "owner": "Drawbotics",
+                "repo": "entman",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "generator-reactapp - Yeoman generator for react app with redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-10-31T07:12:57Z",
+                "owner": "Jackong",
+                "repo": "generator-reactapp",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "generator-reactapp - Yeoman generator for react app with redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-10-31T07:12:57Z",
+                "owner": "Jackong",
+                "repo": "generator-reactapp",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-reducer-async - Create redux reducers for async behaviors of multiple actions.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-01-12T09:52:42Z",
+                "owner": "AndersDJohnson",
+                "repo": "redux-reducer-async",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "simple-redux-form - A tiny redux-form alternative Higher Order Component for forms",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-02-15T08:44:05Z",
+                "owner": "mihirsoni",
+                "repo": "simple-redux-form",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-test-reducer - Simple and clean testing mechanism for Redux reducers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-05-07T17:12:12Z",
+                "owner": "amsardesai",
+                "repo": "redux-test-reducer",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "asyncdataloader-react -AsyncDataLoader is a React Higher Order Component which takes responsibility of fetching data of the Wrapped Component and offers many options like showing an interface preview of the Wrapped Component while data is being fetched, refetch data after specified time.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-09-03T12:49:45Z",
+                "owner": "harshitkumar31",
+                "repo": "asyncdataloader-react",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-ecommerce - E-commerce flux with redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2015-08-24T03:00:54Z",
+                "owner": "Tom-Alexander",
+                "repo": "redux-ecommerce",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-duck - Helper function to create Redux modules using the ducks-modular-redux proposal",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "TypeScript",
+                "last_commit": "2022-05-25T15:50:04Z",
+                "owner": "sergiodxa",
+                "repo": "redux-duck",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-lift - Lifting for Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-01-20T10:23:30Z",
+                "owner": "izaakschroeder",
+                "repo": "redux-lift",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "listate - Library to listen/observe/watch changes of Redux store state",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2021-03-30T20:31:07Z",
+                "owner": "gamtiq",
+                "repo": "listate",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-browser-extension-sync - Redux state synchronization between browser extension components (background/popup etc.). Works in Chrome, Firefox and Opera.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2024-06-11T09:54:22Z",
+                "owner": "perry-mitchell",
+                "repo": "redux-browser-extension-sync",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-autoreducers - Redux Auto reducers generator.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2019-01-06T07:29:57Z",
+                "owner": "oxyno-zeta",
+                "repo": "redux-autoreducers",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "entities-reducer - High order reducer to handle updates to entities from normalizr actions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-12-15T05:12:50Z",
+                "owner": "kwelch",
+                "repo": "entities-reducer",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-mount - Mount state data and change its state values on the fly",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2016-07-26T20:30:22Z",
+                "owner": "apisurfer",
+                "repo": "redux-mount",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-bacon - Utilities for attaching Bacon.js to Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2015-12-21T14:25:06Z",
+                "owner": "aparticka",
+                "repo": "redux-bacon",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-immutable-utils - Utilities for using Immutable with Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2015-10-11T18:31:42Z",
+                "owner": "aparticka",
+                "repo": "redux-immutable-utils",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-director - Redux bindings to director router",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-12-04T12:52:26Z",
+                "owner": "mandeepbrar",
+                "repo": "redux-director",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "encaps - a library to create independent, reusable and extensible modules for redux applications.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2023-04-26T11:07:36Z",
+                "owner": "megazazik",
+                "repo": "encaps",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-utils - Utility functions for Redux",
+              "description": null,
+              "children": []
+            },
+            {
+              "node_type": "item",
+              "title": "universal-redux-router - A very simple router for Redux and React that works on both server and client",
+              "description": null,
+              "children": []
+            },
+            {
+              "node_type": "item",
+              "title": "redux-ava - Helpers for writing Redux tests in AVA",
+              "description": null,
+              "children": []
+            },
+            {
+              "node_type": "item",
+              "title": "redux-bootstrap - configure React + React-Router + Redux + Immutable.js with one function!",
+              "description": null,
+              "children": []
+            },
+            {
+              "node_type": "item",
+              "title": "redux-q - Provides a way to queue callbacks until an action is dispatched",
+              "description": null,
+              "children": []
+            },
+            {
+              "node_type": "item",
+              "title": "redux-apist - Creator API actions for redux-thunk",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Frameworks",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dva - Front-end framework based on react, redux, react-redux, react-router and redux-saga.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2025-08-06T04:38:43Z",
+                "owner": "dvajs",
+                "repo": "dva",
+                "stars": 16151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rematch - Redux best practices without the boilerplate",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "TypeScript",
+                "last_commit": "2023-09-27T10:20:18Z",
+                "owner": "rematch",
+                "repo": "rematch",
+                "stars": 8407
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "relax - New generation CMS on top of React, Redux and GraphQL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2021-07-13T15:18:34Z",
+                "owner": "relax",
+                "repo": "relax",
+                "stars": 8097
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Este - The most complete minimal dev stack / boilerplate for React & Redux universal web apps",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "TypeScript",
+                "last_commit": "2019-09-03T21:39:46Z",
+                "owner": "este",
+                "repo": "este",
+                "stars": 5325
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Easy Peasy - Easy peasy redux-powered state management",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-06-30T13:33:53Z",
+                "owner": "ctrlplusb",
+                "repo": "easy-peasy",
+                "stars": 5038
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "meatier - Like meteor, but meatier",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-03-16T12:08:37Z",
+                "owner": "mattkrick",
+                "repo": "meatier",
+                "stars": 3015
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kea - Well-readable, self-documenting and easily refactorable framework that brings your data to life! Comes with scaffolding tools",
+              "description": "bird:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-07-15T09:53:20Z",
+                "owner": "keajs",
+                "repo": "kea",
+                "stars": 1993
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mirror - A simple and powerful React framework with minimal API and zero boilerplate",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-01-03T15:14:55Z",
+                "owner": "mirrorjs",
+                "repo": "mirror",
+                "stars": 1430
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jumpsuit - A powerful & efficient React framework. Jump in. Zip up. Build great apps.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2022-06-22T05:41:56Z",
+                "owner": "jsonmaur",
+                "repo": "jumpsuit",
+                "stars": 1381
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Redux-Box - Modular and easy-to-grasp redux container",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-05-09T22:25:10Z",
+                "owner": "anish000kumar",
+                "repo": "redux-box",
+                "stars": 703
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lovli.js - A boilerplate for developing react+redux applications with rethinkdb/horizon as realtime database and express for the server",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-08-29T07:23:57Z",
+                "owner": "flipace",
+                "repo": "lovli.js",
+                "stars": 553
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reactuate — A React/Redux stack (not a boilerplate!) with a focus on Domain-Driven Design",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-07-22T09:25:14Z",
+                "owner": "reactuate",
+                "repo": "reactuate",
+                "stars": 482
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jumpstate - Simple and powerful state management for Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-05-15T15:47:16Z",
+                "owner": "jumpsuit",
+                "repo": "jumpstate",
+                "stars": 424
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Keo - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as compose, memoize, etc... for free",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-01-24T22:39:42Z",
+                "owner": "Wildhoney",
+                "repo": "Keo",
+                "stars": 227
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Conventional-Redux - A wrapper for react-redux which provides API based on convention over configuration pattern.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2019-05-22T14:09:14Z",
+                "owner": "mjaneczek",
+                "repo": "conventional-redux",
+                "stars": 173
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vdux - World's smallest framework. Stateless Virtual DOM <-> Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-07-19T18:45:54Z",
+                "owner": "vdux",
+                "repo": "vdux",
+                "stars": 137
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ripster",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2019-11-02T13:34:31Z",
+                "owner": "vslinko",
+                "repo": "ripster",
+                "stars": 137
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Feeble - A framework built on top of React/Redux/redux-saga which aims to make building React/Redux applications easier and better.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2017-02-07T02:54:02Z",
+                "owner": "feeblejs",
+                "repo": "feeble",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-react-i18n - An i18n solution for redux/react✌🏿✊🏽🤘🏻",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-10-27T01:41:05Z",
+                "owner": "derzunov",
+                "repo": "redux-react-i18n",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-ts-utils - Everything you need to create type-safe applications with Redux with a strong emphasis on simplicity",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "TypeScript",
+                "last_commit": "2020-02-02T21:18:30Z",
+                "owner": "knpwrs",
+                "repo": "redux-ts-utils",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "plait - A minimal JavaScript framework for building reactive web components",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-01-13T16:06:27Z",
+                "owner": "wildlyinaccurate",
+                "repo": "plait",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Esex - Full-stack Universal JavaScript Framework (Redux+RxJs)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2015-10-03T18:35:23Z",
+                "owner": "vslinko",
+                "repo": "esex",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nux - A Push-Based Functional Reactive Web Application Framework",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-01-05T18:59:06Z",
+                "owner": "marknutter",
+                "repo": "nux",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rechyons - makes redux no longer verbose, allows you use redux without writing actions and reducers, and still keep immutable",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2020-04-18T07:53:06Z",
+                "owner": "ZhouHansen",
+                "repo": "rechyons",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stardux - Functional DOM containers based on starplate, IncrementalDOM, and redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-01-27T17:41:51Z",
+                "owner": "littlstar",
+                "repo": "stardux",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-action-host - Redux middleware to add the hostname of the originating computer to action metadata",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-04-02T11:25:10Z",
+                "owner": "sabrehagen",
+                "repo": "redux-action-host",
+                "stars": 0
+              }
+            }
+          ]
+        }
+      ],
+      "title": "React - A JavaScript library for building user interfaces"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Examples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mobx - Simple, scalable state management",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T05:31:17Z",
+            "owner": "mobxjs",
+            "repo": "mobx",
+            "stars": 28201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rx-redux - A reimplementation of redux using RxJS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-08-06T09:20:13Z",
+            "owner": "jas-chen",
+            "repo": "rx-redux",
+            "stars": 415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fluxette - Minimalist, functional, and concise Flux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-09-10T18:28:34Z",
+            "owner": "alkhe",
+            "repo": "fluxette",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bobflux - Bobflux is pure functional implementation of FLUX pattern and is fitted to Bobril",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-10-04T08:21:41Z",
+            "owner": "karelsteinmetz",
+            "repo": "bobflux",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "refer - Redux-like library for handling global state on functional style",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-25T11:50:58Z",
+            "owner": "Lucifier129",
+            "repo": "refer",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "understate - A simple state manager",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-24T21:09:20Z",
+            "owner": "johnhenry",
+            "repo": "understate",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chopped-redux - A very small Flux implementation based on Redux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-08-26T09:01:24Z",
+            "owner": "acstll",
+            "repo": "chopped-redux",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flux-ts - A small flux implementation heavily inspired by redux",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Similar libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React Chrome Extension Boilerplate (Webpack + Redux + Babel and etc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-03-20T17:50:19Z",
+            "owner": "jhen0409",
+            "repo": "react-chrome-extension-boilerplate",
+            "stars": 2139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redux Chrome Extension",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-04-18T01:38:45Z",
+            "owner": "ladas-larry",
+            "repo": "redux-chrome-extension",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Examples",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pumgrana Plugin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-05-23T19:24:39Z",
+                "owner": "Pumgrana",
+                "repo": "plugin",
+                "stars": 0
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Chrome Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react_on_rails gem",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T00:39:28Z",
+            "owner": "shakacode",
+            "repo": "react_on_rails",
+            "stars": 5190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Webpack Rails Tutorial Using Redux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T08:32:18Z",
+            "owner": "shakacode",
+            "repo": "react-webpack-rails-tutorial",
+            "stars": 1718
+          }
+        }
+      ],
+      "title": "Ruby on Rails Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": ".NET",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/GuillaumeSalles/redux.NET",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2021-07-28T06:19:20Z",
+                "owner": "GuillaumeSalles",
+                "repo": "redux.NET",
+                "stars": 709
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/pshomov/reducto",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C#",
+                "last_commit": "2022-07-28T15:55:24Z",
+                "owner": "pshomov",
+                "repo": "reducto",
+                "stars": 75
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Java",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/glung/redux-java",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Java",
+                "last_commit": "2018-07-16T11:41:42Z",
+                "owner": "glung",
+                "repo": "redux-java",
+                "stars": 327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/trikita/jedux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2017-09-28T20:17:21Z",
+                "owner": "trikita",
+                "repo": "jedux",
+                "stars": 275
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/izumin5210/Droidux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2018-01-16T12:22:47Z",
+                "owner": "izumin5210",
+                "repo": "Droidux",
+                "stars": 157
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Swift",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/Swift-Flow/Swift-Flow",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Swift",
+                "last_commit": "2024-04-22T14:51:58Z",
+                "owner": "ReSwift",
+                "repo": "ReSwift",
+                "stars": 7595
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ReSwift/ReSwift",
+              "description": "and docs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Swift",
+                "last_commit": "2024-04-22T14:51:58Z",
+                "owner": "ReSwift",
+                "repo": "ReSwift",
+                "stars": 7595
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ReSwift/reduxSwift",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Swift",
+                "last_commit": "2016-01-20T14:01:30Z",
+                "owner": "ReduxKit",
+                "repo": "ReduxKit",
+                "stars": 601
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Purescript",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/brakmic/purescript-redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2019-02-27T05:41:18Z",
+                "owner": "brakmic",
+                "repo": "purescript-redux",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/faber/purescript-purdux",
+              "description": null,
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "Other languages"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:22:12.825Z",
+    "original_repository": "xgrommx/awesome-redux",
+    "original_repository_sha": "5b472a5d2e7968a74c5e7db9c68b21cf4fb5b0d8",
+    "enhanced_repository": "enhansome/enhansome-redux",
+    "enhanced_repository_description": null,
+    "title": "Awesome Redux with stars"
+  }
+}
