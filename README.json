@@ -418,7 +418,7 @@
             "last_commit": "2024-08-02T08:38:52Z",
             "owner": "erikras",
             "repo": "react-redux-universal-hot-example",
-            "stars": 12089
+            "stars": 12075
           }
         },
         {
@@ -502,7 +502,7 @@
             "last_commit": "2023-12-16T22:03:42Z",
             "owner": "FredericHeem",
             "repo": "starhackit",
-            "stars": 1272
+            "stars": 1271
           }
         },
         {
@@ -1315,10 +1315,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-12T15:12:37Z",
+                "last_commit": "2026-08-16T04:07:18Z",
                 "owner": "reduxjs",
                 "repo": "react-redux",
-                "stars": 23455
+                "stars": 23453
               }
             },
             {
@@ -1329,10 +1329,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T03:22:26Z",
+                "last_commit": "2026-08-16T05:02:35Z",
                 "owner": "reduxjs",
                 "repo": "reselect",
-                "stars": 19021
+                "stars": 19022
               }
             },
             {
@@ -1360,7 +1360,7 @@
                 "last_commit": "2024-05-01T18:49:34Z",
                 "owner": "rt2zz",
                 "repo": "redux-persist",
-                "stars": 12961
+                "stars": 12960
               }
             },
             {
@@ -2342,7 +2342,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-12T14:46:28Z",
+                "last_commit": "2026-08-16T14:13:15Z",
                 "owner": "redux-saga",
                 "repo": "redux-saga",
                 "stars": 22426
@@ -2359,7 +2359,7 @@
                 "last_commit": "2026-08-13T22:50:44Z",
                 "owner": "infinitered",
                 "repo": "reactotron",
-                "stars": 15583
+                "stars": 15580
               }
             },
             {
@@ -2373,7 +2373,7 @@
                 "last_commit": "2022-09-10T03:59:05Z",
                 "owner": "acdlite",
                 "repo": "recompose",
-                "stars": 14791
+                "stars": 14776
               }
             },
             {
@@ -2384,7 +2384,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T04:37:17Z",
+                "last_commit": "2026-08-15T20:25:55Z",
                 "owner": "reduxjs",
                 "repo": "redux-devtools",
                 "stars": 14364
@@ -3634,7 +3634,7 @@
                 "last_commit": "2023-09-27T10:20:18Z",
                 "owner": "rematch",
                 "repo": "rematch",
-                "stars": 8407
+                "stars": 8406
               }
             },
             {
@@ -4159,10 +4159,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-15T14:55:38Z",
+            "last_commit": "2026-08-16T16:29:04Z",
             "owner": "shakacode",
             "repo": "react_on_rails",
-            "stars": 5190
+            "stars": 5191
           }
         },
         {
@@ -4285,7 +4285,7 @@
                 "last_commit": "2024-04-22T14:51:58Z",
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7593
+                "stars": 7592
               }
             },
             {
@@ -4299,7 +4299,7 @@
                 "last_commit": "2024-04-22T14:51:58Z",
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7593
+                "stars": 7592
               }
             },
             {
@@ -4350,7 +4350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:50:01.107Z",
+    "last_updated": "2026-08-16T16:50:33.994Z",
     "original_repository": "xgrommx/awesome-redux",
     "original_repository_sha": "5b472a5d2e7968a74c5e7db9c68b21cf4fb5b0d8",
     "enhanced_repository": "enhansome/enhansome-redux",
