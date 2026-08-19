@@ -204,7 +204,7 @@
                 "last_commit": "2022-01-31T03:42:20Z",
                 "owner": "erikras",
                 "repo": "ducks-modular-redux",
-                "stars": 9551
+                "stars": 9550
               }
             },
             {
@@ -376,7 +376,7 @@
                 "last_commit": "2023-03-23T21:35:09Z",
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29493
+                "stars": 29492
               }
             },
             {
@@ -1310,7 +1310,7 @@
                     "last_commit": "2026-08-17T02:53:51Z",
                     "owner": "reduxjs",
                     "repo": "react-redux",
-                    "stars": 23450
+                    "stars": 23449
                   }
                 },
                 {
@@ -1325,7 +1325,7 @@
                     "last_commit": "2026-08-16T05:02:35Z",
                     "owner": "reduxjs",
                     "repo": "reselect",
-                    "stars": 19021
+                    "stars": 19019
                   }
                 },
                 {
@@ -1370,7 +1370,7 @@
                     "last_commit": "2026-08-11T12:57:00Z",
                     "owner": "redux-observable",
                     "repo": "redux-observable",
-                    "stars": 7806
+                    "stars": 7805
                   }
                 },
                 {
@@ -1385,7 +1385,7 @@
                     "last_commit": "2024-07-21T16:45:27Z",
                     "owner": "redux-utilities",
                     "repo": "redux-actions",
-                    "stars": 6454
+                    "stars": 6453
                   }
                 },
                 {
@@ -1505,7 +1505,7 @@
                     "last_commit": "2022-01-23T11:23:42Z",
                     "owner": "elgerlambert",
                     "repo": "redux-localstorage",
-                    "stars": 1301
+                    "stars": 1300
                   }
                 },
                 {
@@ -2412,7 +2412,7 @@
                     "last_commit": "2026-08-13T22:50:44Z",
                     "owner": "infinitered",
                     "repo": "reactotron",
-                    "stars": 15579
+                    "stars": 15578
                   }
                 },
                 {
@@ -2439,10 +2439,10 @@
                     "archived": false,
                     "id": 38565895,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T06:46:08Z",
+                    "last_commit": "2026-08-19T13:04:54Z",
                     "owner": "reduxjs",
                     "repo": "redux-devtools",
-                    "stars": 14365
+                    "stars": 14364
                   }
                 },
                 {
@@ -2457,7 +2457,7 @@
                     "last_commit": "2023-11-07T11:04:59Z",
                     "owner": "zalmoxisus",
                     "repo": "redux-devtools-extension",
-                    "stars": 13456
+                    "stars": 13455
                   }
                 },
                 {
@@ -3784,7 +3784,7 @@
                     "last_commit": "2026-06-30T13:33:53Z",
                     "owner": "ctrlplusb",
                     "repo": "easy-peasy",
-                    "stars": 5037
+                    "stars": 5038
                   }
                 },
                 {
@@ -3994,7 +3994,7 @@
                     "last_commit": "2023-10-27T01:41:05Z",
                     "owner": "derzunov",
                     "repo": "redux-react-i18n",
-                    "stars": 64
+                    "stars": 65
                   }
                 },
                 {
@@ -4120,7 +4120,7 @@
                 "archived": false,
                 "id": 32215970,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T11:21:09Z",
+                "last_commit": "2026-08-19T15:59:33Z",
                 "owner": "mobxjs",
                 "repo": "mobx",
                 "stars": 28203
@@ -4310,7 +4310,7 @@
             "archived": false,
             "id": 41117523,
             "language": "Ruby",
-            "last_commit": "2026-08-19T04:28:37Z",
+            "last_commit": "2026-08-19T16:54:12Z",
             "owner": "shakacode",
             "repo": "react_on_rails",
             "stars": 5191
@@ -4505,7 +4505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:54:08.139Z",
+    "last_updated": "2026-08-19T16:56:00.380Z",
     "original_repository": "xgrommx/awesome-redux",
     "original_repository_id": 38588153,
     "original_repository_sha": "5b472a5d2e7968a74c5e7db9c68b21cf4fb5b0d8",
