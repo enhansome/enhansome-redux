@@ -49,7 +49,7 @@
 
 > List of repositories which use Redux
 
-## [Redux](https://github.com/reactjs/redux) ⭐ 61,509 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-20
+## [Redux](https://github.com/reactjs/redux) ⭐ 61,508 | 🐛 50 | 🌐 TypeScript | 📅 2026-08-20
 
 ## [Documentation of Redux](http://redux.js.org)
 
@@ -92,8 +92,8 @@
 
 ### Resources
 
-* [Spectacle - ReactJS based Presentation Library](https://github.com/FormidableLabs/spectacle) ⭐ 10,156 | 🐛 75 | 🌐 TypeScript | 📅 2026-04-12
-* [A categorized list of Redux-related addons, libraries, and utilities](https://github.com/markerikson/redux-ecosystem-links) ⭐ 5,205 | 🐛 31 | 📅 2023-06-16
+* [Spectacle - ReactJS based Presentation Library](https://github.com/FormidableLabs/spectacle) ⭐ 10,155 | 🐛 75 | 🌐 TypeScript | 📅 2026-04-12
+* [A categorized list of Redux-related addons, libraries, and utilities](https://github.com/markerikson/redux-ecosystem-links) ⭐ 5,204 | 🐛 31 | 📅 2023-06-16
 * [Sound Redux - a simple Soundcloud client](https://github.com/andrewngu/sound-redux) ⭐ 4,980 | 🐛 71 | 🌐 JavaScript | 📅 2022-12-10
 * [Notes (and partial transcription) of Dan Abramov's Redux course videos on http://egghead.io](https://github.com/tayiorbeii/egghead.io_redux_course_notes) ⭐ 2,564 | 🐛 7 | 📅 2023-10-08
 * [Flux challenge](https://github.com/staltz/flux-challenge) ⚠️ Archived
@@ -294,12 +294,12 @@
 
 * Middlewares
 
-  * [**react-redux** - React bindings for Redux](https://github.com/rackt/react-redux) ⭐ 23,448 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-17
-  * [**reselect** - Selector library for Redux like in NuclearJS](https://github.com/reactjs/reselect) ⭐ 19,020 | 🐛 39 | 🌐 TypeScript | 📅 2026-08-16
+  * [**react-redux** - React bindings for Redux](https://github.com/rackt/react-redux) ⭐ 23,447 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-22
+  * [**reselect** - Selector library for Redux like in NuclearJS](https://github.com/reactjs/reselect) ⭐ 19,020 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-22
   * [**redux-thunk** - Thunk middleware for Redux](https://github.com/gaearon/redux-thunk) ⭐ 17,680 | 🐛 2 | 🌐 TypeScript | 📅 2025-03-16
   * [**redux-persist-store** - Persist and rehydrate a redux store](https://github.com/rt2zz/redux-persist-store) ⭐ 12,959 | 🐛 593 | 🌐 TypeScript | 📅 2024-05-01
   * [**redux-observable** - RxJS 5-based middleware for Redux. Compose and cancel actions as epics.](https://github.com/redux-observable/redux-observable) ⭐ 7,805 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-11
-  * [**redux-actions** - Flux Standard Action utilities for Redux](https://github.com/acdlite/redux-actions) ⭐ 6,453 | 🐛 50 | 🌐 JavaScript | 📅 2024-07-21
+  * [**redux-actions** - Flux Standard Action utilities for Redux](https://github.com/acdlite/redux-actions) ⭐ 6,453 | 🐛 49 | 🌐 JavaScript | 📅 2024-07-21
   * [**redux-logger** - Logger middleware for Redux](https://github.com/fcomb/redux-logger) ⭐ 5,719 | 🐛 58 | 🌐 JavaScript | 📅 2020-08-20
   * [**redux-undo** - Simple undo/redo functionality for redux state containers](https://github.com/omnidan/redux-undo) ⚠️ Archived
   * [**redux-promise** - FSA-compliant promise middleware for Redux](https://github.com/acdlite/redux-promise) ⭐ 2,644 | 🐛 41 | 🌐 JavaScript | 📅 2023-01-21
@@ -376,7 +376,7 @@
   * [**redux-saga** - An alternative side effect model for Redux apps](https://github.com/yelouafi/redux-saga) ⭐ 22,424 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-16
   * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron) ⭐ 15,580 | 🐛 154 | 🌐 TypeScript | 📅 2026-08-13
   * [**recompose** - A microcomponentization toolkit for React](https://github.com/acdlite/recompose) ⚠️ Archived
-  * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools) ⭐ 14,365 | 🐛 231 | 🌐 TypeScript | 📅 2026-08-21
+  * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools) ⭐ 14,365 | 🐛 231 | 🌐 TypeScript | 📅 2026-08-22
   * [**redux-devtools-extension** - Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,456 | 🐛 265 | 🌐 JavaScript | 📅 2023-11-07
   * [**redux-form** - An ES7 decorator for forms using Redux and React](https://github.com/erikras/redux-form) ⭐ 12,484 | 🐛 497 | 🌐 JavaScript | 📅 2024-06-13
   * [**react-router-redux** - Ruthlessly simple bindings to keep react-router and redux in sync](https://github.com/rackt/react-router-redux) ⚠️ Archived
@@ -629,7 +629,7 @@
 
 ### [A-Frame - A web framework for building VR experiences](https://aframe.io)
 
-* [aframe-redux-component](https://github.com/ngokevin/kframe/tree/master/components/redux) ⭐ 1,411 | 🐛 91 | 🌐 JavaScript | 📅 2026-05-29
+* [aframe-redux-component](https://github.com/ngokevin/kframe/tree/master/components/redux) ⭐ 1,412 | 🐛 92 | 🌐 JavaScript | 📅 2026-05-29
 
 ***
 
@@ -669,4 +669,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._

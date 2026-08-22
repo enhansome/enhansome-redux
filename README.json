@@ -17,7 +17,7 @@
                 "last_commit": "2026-04-12T05:35:52Z",
                 "owner": "FormidableLabs",
                 "repo": "spectacle",
-                "stars": 10156
+                "stars": 10155
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2023-06-16T09:09:48Z",
                 "owner": "markerikson",
                 "repo": "redux-ecosystem-links",
-                "stars": 5205
+                "stars": 5204
               }
             },
             {
@@ -1307,10 +1307,10 @@
                     "archived": false,
                     "id": 38934449,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-17T02:53:51Z",
+                    "last_commit": "2026-08-22T06:12:06Z",
                     "owner": "reduxjs",
                     "repo": "react-redux",
-                    "stars": 23448
+                    "stars": 23447
                   }
                 },
                 {
@@ -1322,7 +1322,7 @@
                     "archived": false,
                     "id": 38366638,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-16T05:02:35Z",
+                    "last_commit": "2026-08-22T02:10:49Z",
                     "owner": "reduxjs",
                     "repo": "reselect",
                     "stars": 19020
@@ -2439,7 +2439,7 @@
                     "archived": false,
                     "id": 38565895,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T04:47:45Z",
+                    "last_commit": "2026-08-22T13:40:31Z",
                     "owner": "reduxjs",
                     "repo": "redux-devtools",
                     "stars": 14365
@@ -4310,7 +4310,7 @@
             "archived": false,
             "id": 41117523,
             "language": "Ruby",
-            "last_commit": "2026-08-21T15:29:57Z",
+            "last_commit": "2026-08-21T18:51:30Z",
             "owner": "shakacode",
             "repo": "react_on_rails",
             "stars": 5191
@@ -4505,7 +4505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:01:17.806Z",
+    "last_updated": "2026-08-22T16:49:46.087Z",
     "original_repository": "xgrommx/awesome-redux",
     "original_repository_id": 38588153,
     "original_repository_sha": "5b472a5d2e7968a74c5e7db9c68b21cf4fb5b0d8",
