@@ -4,6 +4,106 @@
       "description": null,
       "items": [
         {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 36535156,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T02:41:39Z",
+            "owner": "reduxjs",
+            "repo": "redux",
+            "stars": 61508
+          },
+          "title": "Redux"
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 40458061,
+            "language": "JavaScript",
+            "last_commit": "2024-06-20T16:14:21Z",
+            "owner": "nefe",
+            "repo": "redux-in-chinese",
+            "stars": 3454
+          },
+          "title": "Documentation of Redux(Simplified Chinese version)"
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 53275019,
+            "language": null,
+            "last_commit": "2021-08-22T02:30:17Z",
+            "owner": "franzejr",
+            "repo": "redux-in-portuguese",
+            "stars": 97
+          },
+          "title": "Documentation of Redux(Portuguese version) (Work in progress)"
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hot Reload",
+          "description": ":fire:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 41832897,
+            "language": "JavaScript",
+            "last_commit": "2018-03-21T10:47:25Z",
+            "owner": "gaearon",
+            "repo": "react-transform-hmr",
+            "stars": 764
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A introduction about Redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40119542,
+                "language": "JavaScript",
+                "last_commit": "2016-06-03T03:58:28Z",
+                "owner": "chentsulin",
+                "repo": "redux-intro",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Presentations"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -92,7 +192,7 @@
                 "last_commit": "2020-06-12T08:20:09Z",
                 "owner": "rwieruch",
                 "repo": "favesound-redux",
-                "stars": 1588
+                "stars": 1587
               }
             },
             {
@@ -376,7 +476,7 @@
                 "last_commit": "2023-03-23T21:35:09Z",
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29494
+                "stars": 29493
               }
             },
             {
@@ -406,7 +506,7 @@
                 "last_commit": "2024-03-11T08:45:43Z",
                 "owner": "jaredpalmer",
                 "repo": "razzle",
-                "stars": 11026
+                "stars": 11025
               }
             },
             {
@@ -1243,6 +1343,155 @@
           "children": [
             {
               "node_type": "group",
+              "title": "Examples",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "snowflake - mobile app starter: Login, Logout, Reset Password, Update Profile, Hot Reload",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 47422110,
+                    "language": "JavaScript",
+                    "last_commit": "2019-03-07T19:03:55Z",
+                    "owner": "bartonhammond",
+                    "repo": "snowflake",
+                    "stars": 4578
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "noder-react-native - The mobile app of cnodejs.org written in React Native",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 38262513,
+                    "language": "JavaScript",
+                    "last_commit": "2022-02-12T07:34:45Z",
+                    "owner": "osdio",
+                    "repo": "noder-react-native",
+                    "stars": 1955
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "react-native-sound-cloud",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44713673,
+                    "language": "JavaScript",
+                    "last_commit": "2015-12-04T07:24:26Z",
+                    "owner": "fraserxu",
+                    "repo": "soundredux-native",
+                    "stars": 773
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "react-native-redux-groceries - An example app using React Native, Redux, Firebase, and AsyncStorage for offline data",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44118199,
+                    "language": "JavaScript",
+                    "last_commit": "2018-12-27T05:33:18Z",
+                    "owner": "bruz",
+                    "repo": "react-native-redux-groceries",
+                    "stars": 420
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "uestc-bbs-react-native - An iOS client for http://bbs.uestc.edu.cn/ written in React Native with Redux",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 43956343,
+                    "language": "JavaScript",
+                    "last_commit": "2026-03-20T07:32:47Z",
+                    "owner": "just4fun",
+                    "repo": "stuhome",
+                    "stars": 250
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "react-native-counter-ios-android",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 42392590,
+                    "language": "JavaScript",
+                    "last_commit": "2017-09-11T02:25:27Z",
+                    "owner": "chentsulin",
+                    "repo": "react-native-counter-ios-android",
+                    "stars": 238
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CarteJaune - An open source Redux/ExponentJS (React Native) app leveraging redux-saga to keep track of your vaccinations",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 50092057,
+                    "language": "JavaScript",
+                    "last_commit": "2016-09-11T00:17:00Z",
+                    "owner": "nikgraf",
+                    "repo": "CarteJaune",
+                    "stars": 206
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "react-native-redux-todo-list - A sample todo list app developed by using react-native and redux",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 60527676,
+                    "language": "JavaScript",
+                    "last_commit": "2020-02-15T09:33:43Z",
+                    "owner": "uiheros",
+                    "repo": "react-native-redux-todo-list",
+                    "stars": 43
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "movies-redux - redux implementation of react-native movies example that is included in react-native source",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 58836162,
+                    "language": "JavaScript",
+                    "last_commit": "2016-05-15T00:29:06Z",
+                    "owner": "nara",
+                    "repo": "movies-redux",
+                    "stars": 6
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Native - A framework for building native apps using React"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
               "title": "Containers",
               "description": null,
               "children": [
@@ -1307,10 +1556,10 @@
                     "archived": false,
                     "id": 38934449,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-22T06:12:06Z",
+                    "last_commit": "2026-08-24T03:34:12Z",
                     "owner": "reduxjs",
                     "repo": "react-redux",
-                    "stars": 23446
+                    "stars": 23448
                   }
                 },
                 {
@@ -1325,7 +1574,7 @@
                     "last_commit": "2026-08-22T02:10:49Z",
                     "owner": "reduxjs",
                     "repo": "reselect",
-                    "stars": 19020
+                    "stars": 19019
                   }
                 },
                 {
@@ -1355,7 +1604,7 @@
                     "last_commit": "2024-05-01T18:49:34Z",
                     "owner": "rt2zz",
                     "repo": "redux-persist",
-                    "stars": 12959
+                    "stars": 12958
                   }
                 },
                 {
@@ -1370,7 +1619,7 @@
                     "last_commit": "2026-08-11T12:57:00Z",
                     "owner": "redux-observable",
                     "repo": "redux-observable",
-                    "stars": 7805
+                    "stars": 7806
                   }
                 },
                 {
@@ -2397,7 +2646,7 @@
                     "last_commit": "2026-08-23T14:13:18Z",
                     "owner": "redux-saga",
                     "repo": "redux-saga",
-                    "stars": 22425
+                    "stars": 22424
                   }
                 },
                 {
@@ -2412,7 +2661,7 @@
                     "last_commit": "2026-08-13T22:50:44Z",
                     "owner": "infinitered",
                     "repo": "reactotron",
-                    "stars": 15581
+                    "stars": 15580
                   }
                 },
                 {
@@ -2427,7 +2676,7 @@
                     "last_commit": "2022-09-10T03:59:05Z",
                     "owner": "acdlite",
                     "repo": "recompose",
-                    "stars": 14774
+                    "stars": 14773
                   }
                 },
                 {
@@ -2457,7 +2706,7 @@
                     "last_commit": "2023-11-07T11:04:59Z",
                     "owner": "zalmoxisus",
                     "repo": "redux-devtools-extension",
-                    "stars": 13455
+                    "stars": 13454
                   }
                 },
                 {
@@ -2532,7 +2781,7 @@
                     "last_commit": "2022-03-28T21:47:31Z",
                     "owner": "gajus",
                     "repo": "redux-immutable",
-                    "stars": 1868
+                    "stars": 1867
                   }
                 },
                 {
@@ -3769,7 +4018,7 @@
                     "last_commit": "2019-09-03T21:39:46Z",
                     "owner": "este",
                     "repo": "este",
-                    "stars": 5324
+                    "stars": 5323
                   }
                 },
                 {
@@ -3799,7 +4048,7 @@
                     "last_commit": "2018-03-16T12:08:37Z",
                     "owner": "mattkrick",
                     "repo": "meatier",
-                    "stars": 3015
+                    "stars": 3014
                   }
                 },
                 {
@@ -3889,7 +4138,7 @@
                     "last_commit": "2016-07-22T09:25:14Z",
                     "owner": "reactuate",
                     "repo": "reactuate",
-                    "stars": 482
+                    "stars": 481
                   }
                 },
                 {
@@ -4120,7 +4369,7 @@
                 "archived": false,
                 "id": 32215970,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T09:55:45Z",
+                "last_commit": "2026-08-24T02:12:16Z",
                 "owner": "mobxjs",
                 "repo": "mobx",
                 "stars": 28205
@@ -4222,7 +4471,45 @@
           "title": "Similar libraries"
         },
         {
-          "children": [],
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Examples",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "deku-redux - Bindings for redux in deku (Standalone plugin)",
+                  "description": ")",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 45299116,
+                    "language": "JavaScript",
+                    "last_commit": "2016-08-04T00:12:36Z",
+                    "owner": "troch",
+                    "repo": "deku-redux",
+                    "stars": 30
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Deku + Express + Redux + Crossroads Router",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 38083238,
+                    "language": "JavaScript",
+                    "last_commit": "2015-07-25T00:02:47Z",
+                    "owner": "nilsivanson",
+                    "repo": "deku-redux-universal-hot-example",
+                    "stars": 11
+                  }
+                }
+              ]
+            }
+          ],
           "description": null,
           "node_type": "item",
           "repo_info": {
@@ -4235,6 +4522,534 @@
             "stars": 3388
           },
           "title": "Deku - Functional view library for building UI components as an alternative to React"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Examples",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Incremental DOM + Redux Flux = Todo App",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 39090139,
+                    "language": "JavaScript",
+                    "last_commit": "2015-07-14T17:31:26Z",
+                    "owner": "joshthecoder",
+                    "repo": "idom-redux-todomvc-app",
+                    "stars": 19
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Incremental DOM - Incremental DOM is a library for building up DOM trees and updating them in-place when data changes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Examples",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "react-redux-winjs-example",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 39556463,
+                    "language": "JavaScript",
+                    "last_commit": "2017-06-18T18:14:58Z",
+                    "owner": "unindented",
+                    "repo": "react-redux-winjs-example",
+                    "stars": 11
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WinJS - Windows Library for JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Examples",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ng-redux - Standalone plugin",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 39831404,
+                    "language": "JavaScript",
+                    "last_commit": "2023-04-16T16:29:22Z",
+                    "owner": "angular-redux",
+                    "repo": "ng-redux",
+                    "stars": 1144
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "redux-ui-router - ngRedux middleware for AngularJS UI Router",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 41212311,
+                    "language": "JavaScript",
+                    "last_commit": "2018-09-19T19:50:11Z",
+                    "owner": "neilff",
+                    "repo": "redux-ui-router",
+                    "stars": 140
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/InfomediaLtd/angular2-redux-example",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 47117749,
+                    "language": "JavaScript",
+                    "last_commit": "2016-12-08T07:21:34Z",
+                    "owner": "InfomediaLtd",
+                    "repo": "angular2-redux-example",
+                    "stars": 69
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AngularJS + Typescript + Redux",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 39532635,
+                    "language": "TypeScript",
+                    "last_commit": "2015-10-19T11:58:28Z",
+                    "owner": "wbuchwalter",
+                    "repo": "tsRedux",
+                    "stars": 37
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/tomusdrw/angular2-redux-example",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 48184763,
+                    "language": "JavaScript",
+                    "last_commit": "2019-01-21T07:53:19Z",
+                    "owner": "tomusdrw",
+                    "repo": "angular2-redux-example",
+                    "stars": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AngularJS - HTML enhanced for web apps"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Examples",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "@angular-redux/store - Angular bindings for Redux",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 40690081,
+                    "language": "TypeScript",
+                    "last_commit": "2019-05-05T16:20:29Z",
+                    "owner": "angular-redux",
+                    "repo": "store",
+                    "stars": 1330
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "angular2-redux-example - Example project for using pure Redux with Angular and TypeScript",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 47117749,
+                    "language": "JavaScript",
+                    "last_commit": "2016-12-08T07:21:34Z",
+                    "owner": "InfomediaLtd",
+                    "repo": "angular2-redux-example",
+                    "stars": 69
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "angular2-redux - Wrapper components for using Redux in an Angular application",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 47621944,
+                    "language": "TypeScript",
+                    "last_commit": "2018-06-26T06:21:55Z",
+                    "owner": "InfomediaLtd",
+                    "repo": "angular2-redux",
+                    "stars": 57
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ng2redux - Angular bindings for Redux implemented with TypeScript and decorators",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 55440388,
+                    "language": "TypeScript",
+                    "last_commit": "2016-05-31T07:24:32Z",
+                    "owner": "forforeach",
+                    "repo": "ng2redux",
+                    "stars": 5
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Angular - One framework. Mobile and desktop"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Examples",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Vue + Redux",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 38917770,
+                    "language": "JavaScript",
+                    "last_commit": "2017-07-15T04:36:28Z",
+                    "owner": "yang-wei",
+                    "repo": "vue-redux",
+                    "stars": 142
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Meteor + Vue + Redux",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 40187118,
+                    "language": "JavaScript",
+                    "last_commit": "2015-08-29T15:03:49Z",
+                    "owner": "zhongqf",
+                    "repo": "meteor-vue-redux-example",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Revue - Redux binding for Vue",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 121766074,
+                    "language": null,
+                    "last_commit": "2018-02-16T15:38:53Z",
+                    "owner": "revue",
+                    "repo": "revue",
+                    "stars": 2
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vue - A library for building modern web interfaces"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Examples",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "polymer-redux",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 43003744,
+                    "language": "JavaScript",
+                    "last_commit": "2022-12-07T01:05:09Z",
+                    "owner": "tur-nr",
+                    "repo": "polymer-redux",
+                    "stars": 437
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "redux-store-element",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 55186721,
+                    "language": "JavaScript",
+                    "last_commit": "2019-12-21T22:48:49Z",
+                    "owner": "lastmjs",
+                    "repo": "redux-store-element",
+                    "stars": 82
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Polymer - Build modern apps using web components"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Examples",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "meteor-flux-leaderboard",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 39610742,
+                    "language": "JavaScript",
+                    "last_commit": "2015-09-16T20:35:13Z",
+                    "owner": "AdamBrodzinski",
+                    "repo": "meteor-flux-leaderboard",
+                    "stars": 131
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "meteor-react-redux-example",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 39823541,
+                    "language": "JavaScript",
+                    "last_commit": "2015-09-28T12:04:54Z",
+                    "owner": "zhongqf",
+                    "repo": "meteor-react-redux-example",
+                    "stars": 32
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Meteor - Build apps that are a delight to use, faster than you ever thought possible"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Examples",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "mithril-redux-starter-hmr",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 41840654,
+                    "language": "JavaScript",
+                    "last_commit": "2016-02-16T06:03:32Z",
+                    "owner": "mijime",
+                    "repo": "mithril-redux-starter-hmr",
+                    "stars": 19
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mithril - A Javascript Framework for Building Brilliant Applications"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Tools",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "backbone-redux — The easy way to keep your backbone collections and redux store in sync",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 41880929,
+                    "language": "JavaScript",
+                    "last_commit": "2026-06-08T16:10:20Z",
+                    "owner": "redbooth",
+                    "repo": "backbone-redux",
+                    "stars": 190
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Backbone - Give your JS App some Backbone with Models, Views, Collections, and Events"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Examples",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "aurelia-redux-todo - An implementation of the Redux todo demo app using Aurelia",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 43099050,
+                    "language": "JavaScript",
+                    "last_commit": "2020-10-01T21:42:29Z",
+                    "owner": "voidberg-archive",
+                    "repo": "aurelia-redux-todo",
+                    "stars": 20
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Aurelia - is a next gen JavaScript client framework for mobile, desktop and web that leverages simple conventions to empower your creativity"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Examples",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "riotredux-budget",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 41243288,
+                    "language": "JavaScript",
+                    "last_commit": "2015-09-11T22:24:22Z",
+                    "owner": "remyhonig",
+                    "repo": "riotredux-budget",
+                    "stars": 5
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Riot - A React-like user interface micro-library"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "electron-react-boilerplate (Electron + Redux + Hot Reload)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35810174,
+                "language": "TypeScript",
+                "last_commit": "2026-04-29T22:35:26Z",
+                "owner": "electron-react-boilerplate",
+                "repo": "electron-react-boilerplate",
+                "stars": 24252
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Electron - Build cross platform desktop apps with web technologies"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aframe-redux-component",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60213588,
+                "language": "JavaScript",
+                "last_commit": "2026-05-29T16:32:10Z",
+                "owner": "supermedium",
+                "repo": "superframe",
+                "stars": 1412
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "A-Frame - A web framework for building VR experiences"
         },
         {
           "children": [
@@ -4310,10 +5125,10 @@
             "archived": false,
             "id": 41117523,
             "language": "Ruby",
-            "last_commit": "2026-08-23T16:37:29Z",
+            "last_commit": "2026-08-24T11:44:24Z",
             "owner": "shakacode",
             "repo": "react_on_rails",
-            "stars": 5191
+            "stars": 5190
           }
         },
         {
@@ -4443,7 +5258,7 @@
                 "last_commit": "2024-04-22T14:51:58Z",
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7591
+                "stars": 7590
               }
             },
             {
@@ -4458,7 +5273,7 @@
                 "last_commit": "2024-04-22T14:51:58Z",
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7591
+                "stars": 7590
               }
             },
             {
@@ -4505,7 +5320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:51:36.199Z",
+    "last_updated": "2026-08-24T13:54:09.380Z",
     "original_repository": "xgrommx/awesome-redux",
     "original_repository_id": 38588153,
     "original_repository_sha": "5b472a5d2e7968a74c5e7db9c68b21cf4fb5b0d8",
