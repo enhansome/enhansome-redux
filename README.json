@@ -476,7 +476,7 @@
                 "last_commit": "2023-03-23T21:35:09Z",
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29493
+                "stars": 29492
               }
             },
             {
@@ -2661,7 +2661,7 @@
                     "last_commit": "2026-08-13T22:50:44Z",
                     "owner": "infinitered",
                     "repo": "reactotron",
-                    "stars": 15580
+                    "stars": 15581
                   }
                 },
                 {
@@ -5021,7 +5021,7 @@
                 "last_commit": "2026-04-29T22:35:26Z",
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24252
+                "stars": 24251
               }
             }
           ],
@@ -5125,7 +5125,7 @@
             "archived": false,
             "id": 41117523,
             "language": "Ruby",
-            "last_commit": "2026-08-24T11:44:24Z",
+            "last_commit": "2026-08-24T16:57:17Z",
             "owner": "shakacode",
             "repo": "react_on_rails",
             "stars": 5190
@@ -5320,7 +5320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:54:09.380Z",
+    "last_updated": "2026-08-24T17:04:53.091Z",
     "original_repository": "xgrommx/awesome-redux",
     "original_repository_id": 38588153,
     "original_repository_sha": "5b472a5d2e7968a74c5e7db9c68b21cf4fb5b0d8",
