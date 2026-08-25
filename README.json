@@ -14,7 +14,7 @@
             "last_commit": "2026-08-20T02:41:39Z",
             "owner": "reduxjs",
             "repo": "redux",
-            "stars": 61508
+            "stars": 61509
           },
           "title": "Redux"
         }
@@ -476,7 +476,7 @@
                 "last_commit": "2023-03-23T21:35:09Z",
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29492
+                "stars": 29493
               }
             },
             {
@@ -521,7 +521,7 @@
                 "last_commit": "2018-06-03T17:30:08Z",
                 "owner": "dvdzkwsk",
                 "repo": "react-redux-starter-kit",
-                "stars": 10223
+                "stars": 10222
               }
             },
             {
@@ -1504,7 +1504,7 @@
                     "archived": false,
                     "id": 56515832,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-23T11:20:13Z",
+                    "last_commit": "2026-08-24T21:20:22Z",
                     "owner": "LouisBarranqueiro",
                     "repo": "reapop",
                     "stars": 1560
@@ -1589,7 +1589,7 @@
                     "last_commit": "2025-03-16T00:36:10Z",
                     "owner": "reduxjs",
                     "repo": "redux-thunk",
-                    "stars": 17680
+                    "stars": 17679
                   }
                 },
                 {
@@ -1694,7 +1694,7 @@
                     "last_commit": "2021-07-07T15:13:36Z",
                     "owner": "acdlite",
                     "repo": "redux-router",
-                    "stars": 2282
+                    "stars": 2281
                   }
                 },
                 {
@@ -1739,7 +1739,7 @@
                     "last_commit": "2023-01-03T18:59:46Z",
                     "owner": "agraboso",
                     "repo": "redux-api-middleware",
-                    "stars": 1471
+                    "stars": 1472
                   }
                 },
                 {
@@ -2676,7 +2676,7 @@
                     "last_commit": "2022-09-10T03:59:05Z",
                     "owner": "acdlite",
                     "repo": "recompose",
-                    "stars": 14773
+                    "stars": 14772
                   }
                 },
                 {
@@ -2721,7 +2721,7 @@
                     "last_commit": "2024-06-13T12:17:05Z",
                     "owner": "redux-form",
                     "repo": "redux-form",
-                    "stars": 12484
+                    "stars": 12483
                   }
                 },
                 {
@@ -2916,7 +2916,7 @@
                     "last_commit": "2023-01-04T21:41:56Z",
                     "owner": "lexich",
                     "repo": "redux-api",
-                    "stars": 494
+                    "stars": 493
                   }
                 },
                 {
@@ -4620,7 +4620,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/InfomediaLtd/angular2-redux-example",
+                  "title": "InfomediaLtd/angular2-redux-example",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -4650,7 +4650,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/tomusdrw/angular2-redux-example",
+                  "title": "tomusdrw/angular2-redux-example",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -5021,7 +5021,7 @@
                 "last_commit": "2026-04-29T22:35:26Z",
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24251
+                "stars": 24252
               }
             }
           ],
@@ -5125,7 +5125,7 @@
             "archived": false,
             "id": 41117523,
             "language": "Ruby",
-            "last_commit": "2026-08-24T16:57:17Z",
+            "last_commit": "2026-08-25T04:28:44Z",
             "owner": "shakacode",
             "repo": "react_on_rails",
             "stars": 5190
@@ -5159,7 +5159,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/GuillaumeSalles/redux.NET",
+              "title": "GuillaumeSalles/redux.NET",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5174,7 +5174,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/pshomov/reducto",
+              "title": "pshomov/reducto",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5196,7 +5196,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/glung/redux-java",
+              "title": "glung/redux-java",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5211,7 +5211,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/trikita/jedux",
+              "title": "trikita/jedux",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5226,7 +5226,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/izumin5210/Droidux",
+              "title": "izumin5210/Droidux",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5248,7 +5248,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/Swift-Flow/Swift-Flow",
+              "title": "ReSwift/ReSwift",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5263,7 +5263,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/ReSwift/ReSwift",
+              "title": "ReSwift/ReSwift",
               "description": "and docs",
               "children": [],
               "repo_info": {
@@ -5278,7 +5278,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/ReSwift/reduxSwift",
+              "title": "ReduxKit/ReduxKit",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5300,7 +5300,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/brakmic/purescript-redux",
+              "title": "brakmic/purescript-redux",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5320,7 +5320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:04:53.091Z",
+    "last_updated": "2026-08-25T05:45:45.516Z",
     "original_repository": "xgrommx/awesome-redux",
     "original_repository_id": 38588153,
     "original_repository_sha": "5b472a5d2e7968a74c5e7db9c68b21cf4fb5b0d8",
