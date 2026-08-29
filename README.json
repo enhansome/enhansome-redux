@@ -18,7 +18,7 @@
             "open_issues": 49,
             "owner": "reduxjs",
             "repo": "redux",
-            "stars": 61508,
+            "stars": 61507,
             "topics": [
               "redux"
             ]
@@ -157,7 +157,7 @@
                 "open_issues": 75,
                 "owner": "FormidableLabs",
                 "repo": "spectacle",
-                "stars": 10156,
+                "stars": 10157,
                 "topics": [
                   "keynote",
                   "presentation",
@@ -185,7 +185,7 @@
                 "open_issues": 31,
                 "owner": "markerikson",
                 "repo": "redux-ecosystem-links",
-                "stars": 5204,
+                "stars": 5203,
                 "topics": [
                   "action",
                   "addons",
@@ -778,7 +778,7 @@
                 "open_issues": 419,
                 "owner": "erikras",
                 "repo": "react-redux-universal-hot-example",
-                "stars": 12075,
+                "stars": 12074,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:06.588Z"
@@ -2530,7 +2530,7 @@
                     "open_issues": 36,
                     "owner": "reduxjs",
                     "repo": "reselect",
-                    "stars": 19019,
+                    "stars": 19018,
                     "topics": [
                       "memoized-selectors",
                       "redux"
@@ -4159,7 +4159,7 @@
                     "open_issues": 155,
                     "owner": "infinitered",
                     "repo": "reactotron",
-                    "stars": 15586,
+                    "stars": 15587,
                     "topics": [
                       "debugging",
                       "desktop",
@@ -4206,11 +4206,11 @@
                     "id": 38565895,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-28T22:06:39Z",
+                    "last_commit": "2026-08-29T14:47:59Z",
                     "open_issues": 231,
                     "owner": "reduxjs",
                     "repo": "redux-devtools",
-                    "stars": 14365,
+                    "stars": 14364,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:06.588Z"
@@ -4231,7 +4231,7 @@
                     "open_issues": 265,
                     "owner": "zalmoxisus",
                     "repo": "redux-devtools-extension",
-                    "stars": 13453,
+                    "stars": 13452,
                     "topics": [
                       "debug",
                       "devtools",
@@ -7747,7 +7747,7 @@
                 "open_issues": 190,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24255,
+                "stars": 24256,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -7895,7 +7895,7 @@
             "id": 41117523,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T03:22:03Z",
+            "last_commit": "2026-08-29T18:59:53Z",
             "open_issues": 126,
             "owner": "shakacode",
             "repo": "react_on_rails",
@@ -8106,7 +8106,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7591,
+                "stars": 7592,
                 "topics": [
                   "redux",
                   "reswift",
@@ -8132,7 +8132,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7591,
+                "stars": 7592,
                 "topics": [
                   "redux",
                   "reswift",
@@ -8201,7 +8201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:12:10.573Z",
+    "last_updated": "2026-08-29T19:27:55.927Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Redux examples and middlewares",
