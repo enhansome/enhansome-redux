@@ -18,7 +18,7 @@
             "open_issues": 49,
             "owner": "reduxjs",
             "repo": "redux",
-            "stars": 61507,
+            "stars": 61506,
             "topics": [
               "redux"
             ]
@@ -479,7 +479,7 @@
                 "open_issues": 36,
                 "owner": "erikras",
                 "repo": "ducks-modular-redux",
-                "stars": 9547,
+                "stars": 9546,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:06.588Z"
@@ -746,7 +746,7 @@
                 "open_issues": 140,
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29489,
+                "stars": 29486,
                 "topics": [
                   "i18n",
                   "immer",
@@ -778,7 +778,7 @@
                 "open_issues": 419,
                 "owner": "erikras",
                 "repo": "react-redux-universal-hot-example",
-                "stars": 12074,
+                "stars": 12073,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:06.588Z"
@@ -2506,7 +2506,7 @@
                     "open_issues": 58,
                     "owner": "reduxjs",
                     "repo": "react-redux",
-                    "stars": 23448,
+                    "stars": 23446,
                     "topics": [
                       "react",
                       "redux"
@@ -2554,7 +2554,7 @@
                     "open_issues": 2,
                     "owner": "reduxjs",
                     "repo": "redux-thunk",
-                    "stars": 17678,
+                    "stars": 17677,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:06.588Z"
@@ -2601,7 +2601,7 @@
                     "open_issues": 54,
                     "owner": "redux-observable",
                     "repo": "redux-observable",
-                    "stars": 7806,
+                    "stars": 7805,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:06.588Z"
@@ -2643,7 +2643,7 @@
                     "open_issues": 58,
                     "owner": "LogRocket",
                     "repo": "redux-logger",
-                    "stars": 5719,
+                    "stars": 5718,
                     "topics": [
                       "angular",
                       "react",
@@ -2670,7 +2670,7 @@
                     "open_issues": 35,
                     "owner": "omnidan",
                     "repo": "redux-undo",
-                    "stars": 2900,
+                    "stars": 2899,
                     "topics": [
                       "history",
                       "react",
@@ -2741,7 +2741,7 @@
                     "open_issues": 0,
                     "owner": "pburtchaell",
                     "repo": "redux-promise-middleware",
-                    "stars": 1971,
+                    "stars": 1970,
                     "topics": [
                       "async",
                       "async-functions",
@@ -4206,11 +4206,11 @@
                     "id": 38565895,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T14:47:59Z",
+                    "last_commit": "2026-08-30T17:56:04Z",
                     "open_issues": 231,
                     "owner": "reduxjs",
                     "repo": "redux-devtools",
-                    "stars": 14364,
+                    "stars": 14365,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:06.588Z"
@@ -4231,7 +4231,7 @@
                     "open_issues": 265,
                     "owner": "zalmoxisus",
                     "repo": "redux-devtools-extension",
-                    "stars": 13452,
+                    "stars": 13453,
                     "topics": [
                       "debug",
                       "devtools",
@@ -4362,7 +4362,7 @@
                     "open_issues": 10,
                     "owner": "gajus",
                     "repo": "redux-immutable",
-                    "stars": 1867,
+                    "stars": 1866,
                     "topics": [
                       "immutable",
                       "javascript",
@@ -6305,7 +6305,7 @@
                     "open_issues": 0,
                     "owner": "este",
                     "repo": "este",
-                    "stars": 5323,
+                    "stars": 5322,
                     "topics": [
                       "graphql",
                       "nextjs",
@@ -7299,7 +7299,7 @@
                     "open_issues": 67,
                     "owner": "angular-redux",
                     "repo": "store",
-                    "stars": 1330,
+                    "stars": 1329,
                     "topics": [
                       "angular",
                       "ng2-redux",
@@ -7895,8 +7895,8 @@
             "id": 41117523,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T18:59:53Z",
-            "open_issues": 126,
+            "last_commit": "2026-08-30T18:53:53Z",
+            "open_issues": 121,
             "owner": "shakacode",
             "repo": "react_on_rails",
             "stars": 5190,
@@ -8201,7 +8201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:27:55.927Z",
+    "last_updated": "2026-08-30T19:22:57.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Redux examples and middlewares",

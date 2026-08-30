@@ -49,7 +49,7 @@
 
 > List of repositories which use Redux
 
-## [Redux](https://github.com/reactjs/redux) ⭐ 61,507 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-20
+## [Redux](https://github.com/reactjs/redux) ⭐ 61,506 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-20
 
 ## [Documentation of Redux](http://redux.js.org)
 
@@ -117,7 +117,7 @@
 
 ### Articles And Tutorials
 
-* [A proposal for bundling reducers, action types and actions when using Redux](https://github.com/erikras/ducks-modular-redux) ⭐ 9,547 | 🐛 36 | 🌐 JavaScript | 📅 2022-01-31
+* [A proposal for bundling reducers, action types and actions when using Redux](https://github.com/erikras/ducks-modular-redux) ⭐ 9,546 | 🐛 36 | 🌐 JavaScript | 📅 2022-01-31
 * [深入浅出 Redux](https://github.com/berwin/Blog/issues/4) ⭐ 4,155 | 🐛 54 | 🌐 JavaScript | 📅 2022-09-20
 * [Learn how to use Redux step by step](https://github.com/happypoulp/redux-tutorial) ⭐ 3,729 | 🐛 19 | 🌐 JavaScript | 📅 2021-05-01
 * [Redux Chinese Document](https://github.com/camsong/redux-in-chinese) ⭐ 3,454 | 🐛 11 | 🌐 JavaScript | 📅 2024-06-20
@@ -199,8 +199,8 @@
 
 ### Boilerplate
 
-* [**react-boilerplate** - Performance orientated, offline-first boilerplate feat. hot-reloading, PostCSS and the best developer experience.](https://github.com/mxstbr/react-boilerplate) ⭐ 29,489 | 🐛 140 | 🌐 JavaScript | 📅 2023-03-23
-* [**react-redux-universal-hot-example** - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-hot-loader](https://github.com/erikras/react-redux-universal-hot-example) ⭐ 12,074 | 🐛 419 | 🌐 JavaScript | 📅 2024-08-02 :metal:
+* [**react-boilerplate** - Performance orientated, offline-first boilerplate feat. hot-reloading, PostCSS and the best developer experience.](https://github.com/mxstbr/react-boilerplate) ⭐ 29,486 | 🐛 140 | 🌐 JavaScript | 📅 2023-03-23
+* [**react-redux-universal-hot-example** - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-hot-loader](https://github.com/erikras/react-redux-universal-hot-example) ⭐ 12,073 | 🐛 419 | 🌐 JavaScript | 📅 2024-08-02 :metal:
 * [**react-production-starter** - React boilerplate with isomorphic rendering, async react-router routes, async redux reducers, async data fetching, and code-splitting.](https://github.com/jaredpalmer/react-production-starter) ⭐ 11,024 | 🐛 135 | 🌐 JavaScript | 📅 2024-03-11 :metal: :fire:
 * [**react-redux-starter-kit** - Get started with React, Redux, and React-Router.](https://github.com/davezuko/react-redux-starter-kit) ⚠️ Archived
 * [**react-slingshot** - React Redux Starter Kit with hot reloading, tests and example app](https://github.com/coryhouse/react-slingshot) ⭐ 9,639 | 🐛 88 | 🌐 JavaScript | 📅 2023-09-26
@@ -294,17 +294,17 @@
 
 * Middlewares
 
-  * [**react-redux** - React bindings for Redux](https://github.com/rackt/react-redux) ⭐ 23,448 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-27
+  * [**react-redux** - React bindings for Redux](https://github.com/rackt/react-redux) ⭐ 23,446 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-27
   * [**reselect** - Selector library for Redux like in NuclearJS](https://github.com/reactjs/reselect) ⭐ 19,018 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-22
-  * [**redux-thunk** - Thunk middleware for Redux](https://github.com/gaearon/redux-thunk) ⭐ 17,678 | 🐛 2 | 🌐 TypeScript | 📅 2025-03-16
+  * [**redux-thunk** - Thunk middleware for Redux](https://github.com/gaearon/redux-thunk) ⭐ 17,677 | 🐛 2 | 🌐 TypeScript | 📅 2025-03-16
   * [**redux-persist-store** - Persist and rehydrate a redux store](https://github.com/rt2zz/redux-persist-store) ⭐ 12,959 | 🐛 593 | 🌐 TypeScript | 📅 2024-05-01
-  * [**redux-observable** - RxJS 5-based middleware for Redux. Compose and cancel actions as epics.](https://github.com/redux-observable/redux-observable) ⭐ 7,806 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-11
+  * [**redux-observable** - RxJS 5-based middleware for Redux. Compose and cancel actions as epics.](https://github.com/redux-observable/redux-observable) ⭐ 7,805 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-11
   * [**redux-actions** - Flux Standard Action utilities for Redux](https://github.com/acdlite/redux-actions) ⭐ 6,453 | 🐛 49 | 🌐 JavaScript | 📅 2024-07-21
-  * [**redux-logger** - Logger middleware for Redux](https://github.com/fcomb/redux-logger) ⭐ 5,719 | 🐛 58 | 🌐 JavaScript | 📅 2020-08-20
+  * [**redux-logger** - Logger middleware for Redux](https://github.com/fcomb/redux-logger) ⭐ 5,718 | 🐛 58 | 🌐 JavaScript | 📅 2020-08-20
   * [**redux-undo** - Simple undo/redo functionality for redux state containers](https://github.com/omnidan/redux-undo) ⚠️ Archived
   * [**redux-promise** - FSA-compliant promise middleware for Redux](https://github.com/acdlite/redux-promise) ⭐ 2,644 | 🐛 41 | 🌐 JavaScript | 📅 2023-01-21
   * [**redux-react-router** - Redux bindings for React Router – keep your router state inside your Redux store](https://github.com/acdlite/redux-react-router) ⭐ 2,280 | 🐛 31 | 🌐 JavaScript | 📅 2021-07-07
-  * [**redux-promise-middleware** - Redux middleware for resolving and rejecting promises](https://github.com/pburtchaell/redux-promise-middleware) ⭐ 1,971 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-29
+  * [**redux-promise-middleware** - Redux middleware for resolving and rejecting promises](https://github.com/pburtchaell/redux-promise-middleware) ⭐ 1,970 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-29
   * [**redux-act** - An opinionated lib to create actions and reducers for Redux](https://github.com/pauldijou/redux-act) ⭐ 1,474 | 🐛 6 | 🌐 JavaScript | 📅 2023-09-27
   * [**redux-api-middleware** - Redux API middleware based on the real-world example](https://github.com/agraboso/redux-api-middleware) ⭐ 1,472 | 🐛 52 | 🌐 JavaScript | 📅 2023-01-03
   * [**redux-localstorage** - Store enhancer that syncs (a subset) of your Redux store state to localstorage.](https://github.com/elgerlambert/redux-localstorage) ⭐ 1,300 | 🐛 35 | 🌐 JavaScript | 📅 2022-01-23
@@ -376,13 +376,13 @@
   * [**redux-saga** - An alternative side effect model for Redux apps](https://github.com/yelouafi/redux-saga) ⭐ 22,424 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-23
   * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron) ⭐ 15,587 | 🐛 155 | 🌐 TypeScript | 📅 2026-08-13
   * [**recompose** - A microcomponentization toolkit for React](https://github.com/acdlite/recompose) ⚠️ Archived
-  * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools) ⭐ 14,364 | 🐛 231 | 🌐 TypeScript | 📅 2026-08-29
-  * [**redux-devtools-extension** - Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,452 | 🐛 265 | 🌐 JavaScript | 📅 2023-11-07
+  * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools) ⭐ 14,365 | 🐛 231 | 🌐 TypeScript | 📅 2026-08-30
+  * [**redux-devtools-extension** - Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,453 | 🐛 265 | 🌐 JavaScript | 📅 2023-11-07
   * [**redux-form** - An ES7 decorator for forms using Redux and React](https://github.com/erikras/redux-form) ⭐ 12,482 | 🐛 497 | 🌐 JavaScript | 📅 2024-06-13
   * [**react-router-redux** - Ruthlessly simple bindings to keep react-router and redux in sync](https://github.com/rackt/react-router-redux) ⚠️ Archived
   * [**redux-orm** - A small, simple and immutable ORM to manage data in your Redux store](https://github.com/tommikaikkonen/redux-orm) ⭐ 2,931 | 🐛 119 | 🌐 JavaScript | 📅 2023-01-16
   * [**redux-loop** - Sequence your effects naturally and purely by returning them from your reducers](https://github.com/raisemarketplace/redux-loop) ⭐ 1,953 | 🐛 11 | 🌐 JavaScript | 📅 2024-03-19
-  * [**redux-immutable** - Streamlines use of Immutable.js with Redux reducers.](https://github.com/gajus/redux-immutable) ⭐ 1,867 | 🐛 10 | 🌐 TypeScript | 📅 2022-03-28
+  * [**redux-immutable** - Streamlines use of Immutable.js with Redux reducers.](https://github.com/gajus/redux-immutable) ⭐ 1,866 | 🐛 10 | 🌐 TypeScript | 📅 2022-03-28
   * [**remote-redux-devtools** - Use Redux DevTools remotely for React Native, hybrid, desktop and server side Redux apps](https://github.com/zalmoxisus/remote-redux-devtools) ⭐ 1,798 | 🐛 63 | 🌐 JavaScript | 📅 2023-04-25
   * [**updeep** - Easily update nested frozen objects and arrays in a declarative and immutable manner](https://github.com/substantial/updeep) ⭐ 1,180 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-21
   * [**redux-cli** - An opinionated CLI for building redux/react apps quicker](https://github.com/SpencerCDixon/redux-cli) ⭐ 876 | 🐛 23 | 🌐 JavaScript | 📅 2018-03-25
@@ -553,7 +553,7 @@
 ### [Angular - One framework. Mobile and desktop](https://angular.io/)
 
 * Examples
-  * [@angular-redux/store - Angular bindings for Redux](https://github.com/angular-redux/store) ⭐ 1,330 | 🐛 67 | 🌐 TypeScript | 📅 2019-05-05
+  * [@angular-redux/store - Angular bindings for Redux](https://github.com/angular-redux/store) ⭐ 1,329 | 🐛 67 | 🌐 TypeScript | 📅 2019-05-05
   * [angular2-redux-example - Example project for using pure Redux with Angular and TypeScript](https://github.com/InfomediaLtd/angular2-redux-example) ⭐ 69 | 🐛 0 | 🌐 JavaScript | 📅 2016-12-08
   * [angular2-redux - Wrapper components for using Redux in an Angular application](https://github.com/InfomediaLtd/angular2-redux) ⭐ 57 | 🐛 3 | 🌐 TypeScript | 📅 2018-06-26
   * [ng2redux - Angular bindings for Redux implemented with TypeScript and decorators](https://github.com/forforeach/ng2redux) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2016-05-31
@@ -644,7 +644,7 @@
 
 ## Ruby on Rails Resources
 
-* [react\_on\_rails gem](https://github.com/shakacode/react_on_rails) ⭐ 5,190 | 🐛 126 | 🌐 Ruby | 📅 2026-08-29
+* [react\_on\_rails gem](https://github.com/shakacode/react_on_rails) ⭐ 5,190 | 🐛 121 | 🌐 Ruby | 📅 2026-08-30
 * [React Webpack Rails Tutorial Using Redux](https://github.com/shakacode/react-webpack-rails-tutorial) ⭐ 1,719 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-28
 
 ## Other languages
@@ -669,4 +669,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
