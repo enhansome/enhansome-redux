@@ -53,7 +53,7 @@
 
 ## [Documentation of Redux](http://redux.js.org)
 
-## [Documentation of Redux(Simplified Chinese version)](https://github.com/camsong/redux-in-chinese) ⭐ 3,453 | 🐛 11 | 🌐 JavaScript | 📅 2024-06-20
+## [Documentation of Redux(Simplified Chinese version)](https://github.com/camsong/redux-in-chinese) ⭐ 3,452 | 🐛 11 | 🌐 JavaScript | 📅 2024-06-20
 
 ## [Documentation of Redux(Russian version)](https://rajdee.gitbooks.io/redux-in-russian/) (Work in progress)
 
@@ -120,7 +120,7 @@
 * [A proposal for bundling reducers, action types and actions when using Redux](https://github.com/erikras/ducks-modular-redux) ⭐ 9,541 | 🐛 36 | 🌐 JavaScript | 📅 2022-01-31
 * [深入浅出 Redux](https://github.com/berwin/Blog/issues/4) ⭐ 4,151 | 🐛 54 | 🌐 JavaScript | 📅 2022-09-20
 * [Learn how to use Redux step by step](https://github.com/happypoulp/redux-tutorial) ⭐ 3,727 | 🐛 19 | 🌐 JavaScript | 📅 2021-05-01
-* [Redux Chinese Document](https://github.com/camsong/redux-in-chinese) ⭐ 3,453 | 🐛 11 | 🌐 JavaScript | 📅 2024-06-20
+* [Redux Chinese Document](https://github.com/camsong/redux-in-chinese) ⭐ 3,452 | 🐛 11 | 🌐 JavaScript | 📅 2024-06-20
 * [React+Redux系列教程](https://github.com/lewis617/react-redux-tutorial) ⭐ 2,206 | 🐛 2 | 🌐 JavaScript | 📅 2021-10-01
 * [Full-Stack Redux Tutorial - A Comprehensive Guide to Test-First Development with Redux, React, and Immutable](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) Source [Server](https://github.com/teropa/redux-voting-server) ⭐ 578 | 🐛 2 | 🌐 JavaScript | 📅 2017-01-26 + [Client](https://github.com/teropa/redux-voting-client) ⭐ 369 | 🐛 10 | 🌐 JavaScript | 📅 2017-05-25
 * [Redux Document (Traditional Chinese)](https://github.com/chentsulin/redux) ⭐ 200 | 🐛 6 | 🌐 JavaScript | 📅 2017-12-06
@@ -373,10 +373,10 @@
   * [**@reactive-crystal/redux-websocket** - Redux Websocket middleware, reducer and protocol router. ](https://www.npmjs.com/package/@reactive-crystal/redux-websocket)
 
 * Tools
-  * [**redux-saga** - An alternative side effect model for Redux apps](https://github.com/yelouafi/redux-saga) ⭐ 22,417 | 🐛 22 | 🌐 JavaScript | 📅 2026-09-06
-  * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron) ⭐ 15,592 | 🐛 155 | 🌐 TypeScript | 📅 2026-08-13
+  * [**redux-saga** - An alternative side effect model for Redux apps](https://github.com/yelouafi/redux-saga) ⭐ 22,417 | 🐛 22 | 🌐 JavaScript | 📅 2026-09-13
+  * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron) ⭐ 15,593 | 🐛 155 | 🌐 TypeScript | 📅 2026-08-13
   * [**recompose** - A microcomponentization toolkit for React](https://github.com/acdlite/recompose) ⚠️ Archived
-  * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools) ⭐ 14,371 | 🐛 233 | 🌐 TypeScript | 📅 2026-09-12
+  * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools) ⭐ 14,370 | 🐛 233 | 🌐 TypeScript | 📅 2026-09-12
   * [**redux-devtools-extension** - Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,446 | 🐛 265 | 🌐 JavaScript | 📅 2023-11-07
   * [**redux-form** - An ES7 decorator for forms using Redux and React](https://github.com/erikras/redux-form) ⭐ 12,480 | 🐛 497 | 🌐 JavaScript | 📅 2024-06-13
   * [**react-router-redux** - Ruthlessly simple bindings to keep react-router and redux in sync](https://github.com/rackt/react-router-redux) ⚠️ Archived
@@ -644,8 +644,8 @@
 
 ## Ruby on Rails Resources
 
-* [react\_on\_rails gem](https://github.com/shakacode/react_on_rails) ⭐ 5,190 | 🐛 104 | 🌐 Ruby | 📅 2026-09-12
-* [React Webpack Rails Tutorial Using Redux](https://github.com/shakacode/react-webpack-rails-tutorial) ⭐ 1,719 | 🐛 31 | 🌐 JavaScript | 📅 2026-09-10
+* [react\_on\_rails gem](https://github.com/shakacode/react_on_rails) ⭐ 5,189 | 🐛 103 | 🌐 Ruby | 📅 2026-09-13
+* [React Webpack Rails Tutorial Using Redux](https://github.com/shakacode/react-webpack-rails-tutorial) ⭐ 1,719 | 🐛 31 | 🌐 JavaScript | 📅 2026-09-12
 
 ## Other languages
 
@@ -669,4 +669,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._

@@ -47,7 +47,7 @@
             "open_issues": 11,
             "owner": "nefe",
             "repo": "redux-in-chinese",
-            "stars": 3453,
+            "stars": 3452,
             "topics": [
               "react",
               "redux",
@@ -552,7 +552,7 @@
                 "open_issues": 11,
                 "owner": "nefe",
                 "repo": "redux-in-chinese",
-                "stars": 3453,
+                "stars": 3452,
                 "topics": [
                   "react",
                   "redux",
@@ -4128,7 +4128,7 @@
                     "id": 47071941,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-06T14:12:57Z",
+                    "last_commit": "2026-09-13T14:13:14Z",
                     "open_issues": 22,
                     "owner": "redux-saga",
                     "repo": "redux-saga",
@@ -4159,7 +4159,7 @@
                     "open_issues": 155,
                     "owner": "infinitered",
                     "repo": "reactotron",
-                    "stars": 15592,
+                    "stars": 15593,
                     "topics": [
                       "debugging",
                       "desktop",
@@ -4189,7 +4189,7 @@
                     "open_issues": 122,
                     "owner": "acdlite",
                     "repo": "recompose",
-                    "stars": 14768,
+                    "stars": 14767,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:06.588Z"
@@ -4210,7 +4210,7 @@
                     "open_issues": 233,
                     "owner": "reduxjs",
                     "repo": "redux-devtools",
-                    "stars": 14371,
+                    "stars": 14370,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:06.588Z"
@@ -7895,11 +7895,11 @@
             "id": 41117523,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T15:13:24Z",
-            "open_issues": 104,
+            "last_commit": "2026-09-13T10:16:16Z",
+            "open_issues": 103,
             "owner": "shakacode",
             "repo": "react_on_rails",
-            "stars": 5190,
+            "stars": 5189,
             "topics": [
               "heroku-deployment",
               "javascript-api",
@@ -7932,7 +7932,7 @@
             "id": 24088847,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T23:19:38Z",
+            "last_commit": "2026-09-12T23:08:26Z",
             "open_issues": 31,
             "owner": "shakacode",
             "repo": "react-webpack-rails-tutorial",
@@ -8201,7 +8201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T18:35:28.610Z",
+    "last_updated": "2026-09-13T18:52:23.116Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Redux examples and middlewares",
@@ -8213,7 +8213,7 @@
       "open_issues": 32,
       "owner": "xgrommx",
       "repo": "awesome-redux",
-      "stars": 12286,
+      "stars": 12287,
       "topics": [
         "awesome",
         "awesome-list",
