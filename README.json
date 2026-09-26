@@ -157,7 +157,7 @@
                 "open_issues": 77,
                 "owner": "FormidableLabs",
                 "repo": "spectacle",
-                "stars": 10162,
+                "stars": 10163,
                 "topics": [
                   "keynote",
                   "presentation",
@@ -531,7 +531,7 @@
                 "open_issues": 19,
                 "owner": "happypoulp",
                 "repo": "redux-tutorial",
-                "stars": 3726,
+                "stars": 3725,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:06.588Z"
@@ -746,7 +746,7 @@
                 "open_issues": 140,
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29474,
+                "stars": 29473,
                 "topics": [
                   "i18n",
                   "immer",
@@ -4159,7 +4159,7 @@
                     "open_issues": 156,
                     "owner": "infinitered",
                     "repo": "reactotron",
-                    "stars": 15590,
+                    "stars": 15591,
                     "topics": [
                       "debugging",
                       "desktop",
@@ -4206,7 +4206,7 @@
                     "id": 38565895,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-25T10:33:30Z",
+                    "last_commit": "2026-09-26T13:50:57Z",
                     "open_issues": 142,
                     "owner": "reduxjs",
                     "repo": "redux-devtools",
@@ -4231,7 +4231,7 @@
                     "open_issues": 265,
                     "owner": "zalmoxisus",
                     "repo": "redux-devtools-extension",
-                    "stars": 13445,
+                    "stars": 13444,
                     "topics": [
                       "debug",
                       "devtools",
@@ -6221,7 +6221,7 @@
                     "open_issues": 29,
                     "owner": "dvajs",
                     "repo": "dva",
-                    "stars": 16144,
+                    "stars": 16143,
                     "topics": [
                       "dva",
                       "elm",
@@ -6334,7 +6334,7 @@
                     "open_issues": 27,
                     "owner": "ctrlplusb",
                     "repo": "easy-peasy",
-                    "stars": 5041,
+                    "stars": 5040,
                     "topics": [
                       "hooks",
                       "immer",
@@ -7299,7 +7299,7 @@
                     "open_issues": 67,
                     "owner": "angular-redux",
                     "repo": "store",
-                    "stars": 1327,
+                    "stars": 1326,
                     "topics": [
                       "angular",
                       "ng2-redux",
@@ -7747,7 +7747,7 @@
                 "open_issues": 9,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24253,
+                "stars": 24254,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -7895,8 +7895,8 @@
             "id": 41117523,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T12:05:45Z",
-            "open_issues": 114,
+            "last_commit": "2026-09-26T08:52:59Z",
+            "open_issues": 116,
             "owner": "shakacode",
             "repo": "react_on_rails",
             "stars": 5190,
@@ -8201,7 +8201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:05:03.361Z",
+    "last_updated": "2026-09-26T19:18:21.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Redux examples and middlewares",
@@ -8213,7 +8213,7 @@
       "open_issues": 32,
       "owner": "xgrommx",
       "repo": "awesome-redux",
-      "stars": 12287,
+      "stars": 12286,
       "topics": [
         "awesome",
         "awesome-list",
