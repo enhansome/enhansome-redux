@@ -14,11 +14,11 @@
             "id": 36535156,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T20:49:36Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-28T19:20:52Z",
+            "open_issues": 15,
             "owner": "reduxjs",
             "repo": "redux",
-            "stars": 61491,
+            "stars": 61492,
             "topics": [
               "redux"
             ]
@@ -157,7 +157,7 @@
                 "open_issues": 77,
                 "owner": "FormidableLabs",
                 "repo": "spectacle",
-                "stars": 10165,
+                "stars": 10166,
                 "topics": [
                   "keynote",
                   "presentation",
@@ -2498,15 +2498,15 @@
                   "repo_info": {
                     "archived": false,
                     "description": "Official React bindings for Redux",
-                    "homepage": "https://react-redux.js.org",
+                    "homepage": "https://redux.js.org/react-redux",
                     "id": 38934449,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-25T19:45:13Z",
-                    "open_issues": 39,
+                    "last_commit": "2026-09-28T20:14:41Z",
+                    "open_issues": 32,
                     "owner": "reduxjs",
                     "repo": "react-redux",
-                    "stars": 23427,
+                    "stars": 23428,
                     "topics": [
                       "react",
                       "redux"
@@ -2522,15 +2522,15 @@
                   "repo_info": {
                     "archived": false,
                     "description": "Selector library for Redux",
-                    "homepage": null,
+                    "homepage": "https://redux.js.org/reselect",
                     "id": 38366638,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-24T19:39:32Z",
-                    "open_issues": 33,
+                    "last_commit": "2026-09-28T20:17:56Z",
+                    "open_issues": 34,
                     "owner": "reduxjs",
                     "repo": "reselect",
-                    "stars": 19013,
+                    "stars": 19011,
                     "topics": [
                       "memoized-selectors",
                       "redux"
@@ -2554,7 +2554,7 @@
                     "open_issues": 2,
                     "owner": "reduxjs",
                     "repo": "redux-thunk",
-                    "stars": 17661,
+                    "stars": 17660,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:06.588Z"
@@ -2768,7 +2768,7 @@
                     "open_issues": 6,
                     "owner": "pauldijou",
                     "repo": "redux-act",
-                    "stars": 1475,
+                    "stars": 1474,
                     "topics": [
                       "javascript",
                       "redux"
@@ -4132,7 +4132,7 @@
                     "open_issues": 23,
                     "owner": "redux-saga",
                     "repo": "redux-saga",
-                    "stars": 22418,
+                    "stars": 22416,
                     "topics": [
                       "effects",
                       "middleware",
@@ -4159,7 +4159,7 @@
                     "open_issues": 156,
                     "owner": "infinitered",
                     "repo": "reactotron",
-                    "stars": 15591,
+                    "stars": 15592,
                     "topics": [
                       "debugging",
                       "desktop",
@@ -4206,7 +4206,7 @@
                     "id": 38565895,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-26T22:45:01Z",
+                    "last_commit": "2026-09-28T19:39:31Z",
                     "open_issues": 142,
                     "owner": "reduxjs",
                     "repo": "redux-devtools",
@@ -7747,7 +7747,7 @@
                 "open_issues": 9,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24255,
+                "stars": 24253,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -8106,7 +8106,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7588,
+                "stars": 7587,
                 "topics": [
                   "redux",
                   "reswift",
@@ -8132,7 +8132,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7588,
+                "stars": 7587,
                 "topics": [
                   "redux",
                   "reswift",
@@ -8201,7 +8201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:49:37.456Z",
+    "last_updated": "2026-09-28T22:13:17.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Redux examples and middlewares",
@@ -8213,7 +8213,7 @@
       "open_issues": 32,
       "owner": "xgrommx",
       "repo": "awesome-redux",
-      "stars": 12287,
+      "stars": 12288,
       "topics": [
         "awesome",
         "awesome-list",
