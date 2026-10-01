@@ -479,7 +479,7 @@
                 "open_issues": 36,
                 "owner": "erikras",
                 "repo": "ducks-modular-redux",
-                "stars": 9537,
+                "stars": 9536,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:06.588Z"
@@ -778,7 +778,7 @@
                 "open_issues": 419,
                 "owner": "erikras",
                 "repo": "react-redux-universal-hot-example",
-                "stars": 12064,
+                "stars": 12056,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:06.588Z"
@@ -2575,7 +2575,7 @@
                     "open_issues": 592,
                     "owner": "rt2zz",
                     "repo": "redux-persist",
-                    "stars": 12951,
+                    "stars": 12948,
                     "topics": [
                       "persistor",
                       "redux",
@@ -4189,7 +4189,7 @@
                     "open_issues": 122,
                     "owner": "acdlite",
                     "repo": "recompose",
-                    "stars": 14764,
+                    "stars": 14756,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:06.588Z"
@@ -4206,7 +4206,7 @@
                     "id": 38565895,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-30T08:34:14Z",
+                    "last_commit": "2026-10-01T19:01:23Z",
                     "open_issues": 143,
                     "owner": "reduxjs",
                     "repo": "redux-devtools",
@@ -4258,7 +4258,7 @@
                     "open_issues": 497,
                     "owner": "redux-form",
                     "repo": "redux-form",
-                    "stars": 12478,
+                    "stars": 12477,
                     "topics": [
                       "form",
                       "form-validation",
@@ -4655,7 +4655,7 @@
                     "id": 103126229,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-25T01:49:33Z",
+                    "last_commit": "2026-10-01T05:07:19Z",
                     "open_issues": 108,
                     "owner": "klis87",
                     "repo": "redux-requests",
@@ -5293,7 +5293,7 @@
                     "open_issues": 7,
                     "owner": "palantir",
                     "repo": "redoodle",
-                    "stars": 104,
+                    "stars": 105,
                     "topics": [
                       "octo-correct-managed",
                       "redux",
@@ -6871,7 +6871,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-30T09:31:44Z",
-                "open_issues": 45,
+                "open_issues": 47,
                 "owner": "mobxjs",
                 "repo": "mobx",
                 "stars": 28211,
@@ -7747,7 +7747,7 @@
                 "open_issues": 9,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24253,
+                "stars": 24251,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -7895,8 +7895,8 @@
             "id": 41117523,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T20:34:16Z",
-            "open_issues": 118,
+            "last_commit": "2026-10-01T10:20:29Z",
+            "open_issues": 117,
             "owner": "shakacode",
             "repo": "react_on_rails",
             "stars": 5192,
@@ -8201,7 +8201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:55:45.526Z",
+    "last_updated": "2026-10-01T21:11:36.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Redux examples and middlewares",
