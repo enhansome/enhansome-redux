@@ -116,7 +116,7 @@
             {
               "node_type": "item",
               "title": "A introduction about Redux",
-              "description": null,
+              "description": "chentsulin/redux-intro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -144,7 +144,7 @@
             {
               "node_type": "item",
               "title": "Spectacle - ReactJS based Presentation Library",
-              "description": null,
+              "description": "FormidableLabs/spectacle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -157,7 +157,7 @@
                 "open_issues": 77,
                 "owner": "FormidableLabs",
                 "repo": "spectacle",
-                "stars": 10169,
+                "stars": 10170,
                 "topics": [
                   "keynote",
                   "presentation",
@@ -172,7 +172,7 @@
             {
               "node_type": "item",
               "title": "A categorized list of Redux-related addons, libraries, and utilities",
-              "description": null,
+              "description": "markerikson/redux-ecosystem-links",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -202,7 +202,7 @@
             {
               "node_type": "item",
               "title": "Sound Redux - a simple Soundcloud client",
-              "description": null,
+              "description": "andrewngu/sound-redux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -228,7 +228,7 @@
             {
               "node_type": "item",
               "title": "Notes (and partial transcription) of Dan Abramov's Redux course videos on http://egghead.io",
-              "description": null,
+              "description": "tayiorbeii/egghead.io_redux_course_notes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -249,7 +249,7 @@
             {
               "node_type": "item",
               "title": "Flux challenge",
-              "description": null,
+              "description": "staltz/flux-challenge",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -270,7 +270,7 @@
             {
               "node_type": "item",
               "title": "Favesound Redux - SoundCloud Client for Artists",
-              "description": null,
+              "description": "rwieruch/favesound-redux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -305,7 +305,7 @@
             {
               "node_type": "item",
               "title": "React Redux Workflow - Graphical Cheat Sheet",
-              "description": null,
+              "description": "uanders/react-redux-cheatsheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -333,7 +333,7 @@
             {
               "node_type": "item",
               "title": "The Elm Architecture in JavaScript",
-              "description": null,
+              "description": "salsita/prism",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -359,7 +359,7 @@
             {
               "node_type": "item",
               "title": "Comprehensive Notes for Learning (how to use) Redux to manage state in your Web/Mobile Apps",
-              "description": null,
+              "description": "dwyl/learn-redux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -387,7 +387,7 @@
             {
               "node_type": "item",
               "title": "Redux offline docs",
-              "description": null,
+              "description": "paulkoegel/redux-offline-docs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -417,7 +417,7 @@
             {
               "node_type": "item",
               "title": "generator-redux - CLI tools for Redux: next-gen functional Flux/React with devtools",
-              "description": null,
+              "description": "banderson/generator-redux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -438,7 +438,7 @@
             {
               "node_type": "item",
               "title": "generator-reactapp - Yeoman generator for react app with redux",
-              "description": null,
+              "description": "Jackong/generator-reactapp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -466,7 +466,7 @@
             {
               "node_type": "item",
               "title": "A proposal for bundling reducers, action types and actions when using Redux",
-              "description": null,
+              "description": "erikras/ducks-modular-redux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -487,7 +487,7 @@
             {
               "node_type": "item",
               "title": "深入浅出 Redux",
-              "description": null,
+              "description": "berwin/Blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -518,7 +518,7 @@
             {
               "node_type": "item",
               "title": "Learn how to use Redux step by step",
-              "description": null,
+              "description": "happypoulp/redux-tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -539,7 +539,7 @@
             {
               "node_type": "item",
               "title": "Redux Chinese Document",
-              "description": null,
+              "description": "nefe/redux-in-chinese",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -564,7 +564,7 @@
             {
               "node_type": "item",
               "title": "React+Redux系列教程",
-              "description": null,
+              "description": "lewis617/react-redux-tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -606,7 +606,7 @@
             {
               "node_type": "item",
               "title": "Redux Document (Traditional Chinese)",
-              "description": null,
+              "description": "chentsulin/redux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -648,7 +648,7 @@
             {
               "node_type": "item",
               "title": "AngularJS to React/Redux, a Guide for AngularJS Experts Looking to Learn React/Redux",
-              "description": null,
+              "description": "GoTeamEpsilon/angular-to-react-redux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -678,7 +678,7 @@
             {
               "node_type": "item",
               "title": "Redux example using 500px API (with ES6)",
-              "description": null,
+              "description": "yildizberkay/redux-example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -733,7 +733,7 @@
             {
               "node_type": "item",
               "title": "react-boilerplate - Performance orientated, offline-first boilerplate feat. hot-reloading, PostCSS and the best developer experience.",
-              "description": null,
+              "description": "react-boilerplate/react-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -816,7 +816,7 @@
             {
               "node_type": "item",
               "title": "react-redux-starter-kit - Get started with React, Redux, and React-Router.",
-              "description": null,
+              "description": "dvdzkwsk/react-redux-starter-kit",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -837,7 +837,7 @@
             {
               "node_type": "item",
               "title": "react-slingshot - React Redux Starter Kit with hot reloading, tests and example app",
-              "description": null,
+              "description": "coryhouse/react-slingshot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -876,7 +876,7 @@
                 "open_issues": 57,
                 "owner": "Hashnode",
                 "repo": "mern-starter",
-                "stars": 5135,
+                "stars": 5134,
                 "topics": [
                   "archived",
                   "deprecated",
@@ -888,7 +888,7 @@
             {
               "node_type": "item",
               "title": "react-webpack-node - Boilerplate for an universal React + Redux/alt Flux application using Webpack running on a node express server",
-              "description": null,
+              "description": "reactGo/reactGo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -917,7 +917,7 @@
             {
               "node_type": "item",
               "title": "StarHackIt - An React/Redux Node full-stack starter kit with authentication and authorization code",
-              "description": null,
+              "description": "FredericHeem/starhackit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -948,7 +948,7 @@
             {
               "node_type": "item",
               "title": "simplest-redux-example - Simplest Redux + React example for beginners",
-              "description": null,
+              "description": "jackielii/simplest-redux-example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -969,7 +969,7 @@
             {
               "node_type": "item",
               "title": "redux-blog-example - Redux-Webpack-Babel Blog Platform boilerplate",
-              "description": null,
+              "description": "olegakbarov/react-redux-starter-kit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -995,7 +995,7 @@
             {
               "node_type": "item",
               "title": "3ree - Boilerplate & Demo for Universal Realtime Apps built with React + Redux + RethinkDB + Express",
-              "description": null,
+              "description": "GordyD/3ree",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1024,7 +1024,7 @@
             {
               "node_type": "item",
               "title": "vortigern - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.",
-              "description": null,
+              "description": "barbar/vortigern",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1054,7 +1054,7 @@
             {
               "node_type": "item",
               "title": "redux-easy-boilerplate - React Redux easy boilerplate",
-              "description": null,
+              "description": "anorudes/redux-easy-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1115,7 +1115,7 @@
             {
               "node_type": "item",
               "title": "browser-redux - Building Chrome apps and cross-browser extensions with Redux and Webpack",
-              "description": null,
+              "description": "zalmoxisus/crossbuilder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1136,7 +1136,7 @@
             {
               "node_type": "item",
               "title": "Universal Redux Template - A clean, extensible react + redux boilerplate with universal rendering, testing and more",
-              "description": null,
+              "description": "mz026/universal-redux-template",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1164,7 +1164,7 @@
             {
               "node_type": "item",
               "title": "starter-kit - Project boilerplate using React, Redux and Uniloc http://unicornstandard.com/packages/boilerplate.html",
-              "description": null,
+              "description": "jamesknelson/starter-kit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1185,7 +1185,7 @@
             {
               "node_type": "item",
               "title": "simple-redux-boilerplate - Simple and guided React, Redux boilerplate w/ Transform HMR! :fire:",
-              "description": null,
+              "description": "tsaiDavid/simple-redux-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1206,7 +1206,7 @@
             {
               "node_type": "item",
               "title": "isomorphic-redux-app - Redux Isomorphic App (with async content)",
-              "description": null,
+              "description": "caljrimmer/isomorphic-redux-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1227,7 +1227,7 @@
             {
               "node_type": "item",
               "title": "react-hot-redux-firebase-starter - Starter boilerplate for using React/Redux with Firebase 3.0 API, include the new React Hot Loader 3.0 :fire:",
-              "description": null,
+              "description": "douglascorrea/react-hot-redux-firebase-starter",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1256,7 +1256,7 @@
             {
               "node_type": "item",
               "title": "React Redux Starter Kit - Yet another React and Redux based web application starter kit",
-              "description": null,
+              "description": "cloudmu/react-redux-starter-kit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1277,7 +1277,7 @@
             {
               "node_type": "item",
               "title": "React Redux Firebase Boilerplate - Designed for quickly spin up your apps with Firebase, using bunch of awesome new front-end technologies includes webpack build system, hot reloading, routing & sass support. :fire:",
-              "description": null,
+              "description": "bekatom/react-redux-firebase-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1303,7 +1303,7 @@
             {
               "node_type": "item",
               "title": "redux-demo - Redux port of SurviveJS - Webpack and React Kanban app",
-              "description": null,
+              "description": "survivejs-demos/redux-demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1331,7 +1331,7 @@
             {
               "node_type": "item",
               "title": "React Redux SoundCloud Client - Seed Project for a SoundCloud Client with working Login + Extension Seed Projects",
-              "description": null,
+              "description": "rwieruch/react-redux-soundcloud",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1352,7 +1352,7 @@
             {
               "node_type": "item",
               "title": "express-redux-sample - Express-Redux-PassportJs-MySQL Boilerplate",
-              "description": null,
+              "description": "aybmab/express-redux-sample",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1373,7 +1373,7 @@
             {
               "node_type": "item",
               "title": "React Universal Saga - Universal React Starter Kit ft. Redux Saga",
-              "description": null,
+              "description": "xkawi/react-universal-saga",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1400,7 +1400,7 @@
             {
               "node_type": "item",
               "title": "Hapi React Starter Kit - Universal, Redux, Redis, Socket.io, Intl",
-              "description": null,
+              "description": "Dindaleon/hapi-react-starter-kit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1421,7 +1421,7 @@
             {
               "node_type": "item",
               "title": "React Redux Universal Boilerplate - An Universal ReactJS/Redux Boilerplate.",
-              "description": null,
+              "description": "kiki-le-singe/react-redux-universal-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1484,7 +1484,7 @@
             {
               "node_type": "item",
               "title": "breko-hub - Babel React Koa Hot Universal Boilerplate -- A simple, clean and consistent boilerplate for creating universal webapps with universal data fetching and SocketIO integration",
-              "description": null,
+              "description": "tomatau/breko-hub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1516,7 +1516,7 @@
             {
               "node_type": "item",
               "title": "fast-redux - Redux extension with O(1) speed and dynamic importing of reducers/actions.",
-              "description": null,
+              "description": "dogada/fast-redux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1537,7 +1537,7 @@
             {
               "node_type": "item",
               "title": "redux-undo-boilerplate - a magical boilerplate with hot reloading and awesome error handling",
-              "description": null,
+              "description": "omnidan/redux-undo-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1596,7 +1596,7 @@
             {
               "node_type": "item",
               "title": "loopback-redux-react-boilerplate - A boilerplate for a Redux-React application using LoopBack",
-              "description": null,
+              "description": "tngan/loopback-redux-react-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1617,7 +1617,7 @@
             {
               "node_type": "item",
               "title": "react-redux-scaffold - Combination of redux, react-router and ES6+ support",
-              "description": null,
+              "description": "lcjnil/react-redux-scaffold",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1638,7 +1638,7 @@
             {
               "node_type": "item",
               "title": "react-redux-boilerplate - React Redux Boilerplate",
-              "description": null,
+              "description": "knowbody/react-redux-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1659,7 +1659,7 @@
             {
               "node_type": "item",
               "title": "Redux universal boilerplate - boilerplate for react universal application building on flux architecture based on redux implementation.",
-              "description": null,
+              "description": "ufocoder/redux-universal-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1684,7 +1684,7 @@
             {
               "node_type": "item",
               "title": "react-workflow - A large SPA boilerplate for web development built on top of Facebook's React library,use redux architecture",
-              "description": null,
+              "description": "cloudfroster/react-workflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1708,7 +1708,7 @@
             {
               "node_type": "item",
               "title": "ReacToGo - A simple ES6 boilerplate with Redux architecture and ImmutableJS: Hot Reload, React UI Comp, Firebase, Router",
-              "description": null,
+              "description": "PBRT/reactogo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1729,7 +1729,7 @@
             {
               "node_type": "item",
               "title": "Docker + React/Redux + Node + PostgreSQL - full stack boilerplate with fully dockerized workflows for development, deployment, testing",
-              "description": null,
+              "description": "Producters/docker-node-react-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1750,7 +1750,7 @@
             {
               "node_type": "item",
               "title": "angular2-redux-contact-list - Simple contact list built with Angular, Immutable.js and Redux",
-              "description": null,
+              "description": "housseindjirdeh/angular2-redux-contact-list",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1771,7 +1771,7 @@
             {
               "node_type": "item",
               "title": "Reduxible - The Fast and Easy way to make a React + Redux apps",
-              "description": null,
+              "description": "pitzcarraldo/reduxible",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1792,7 +1792,7 @@
             {
               "node_type": "item",
               "title": "redux-boilerplate - Boilerplate for Redux",
-              "description": null,
+              "description": "ellbee/redux-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1813,7 +1813,7 @@
             {
               "node_type": "item",
               "title": "cra-template-redux-auth-starter - A Redux auth starter boilerplate for CRA",
-              "description": null,
+              "description": "Nilanth/cra-template-redux-auth-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1843,7 +1843,7 @@
             {
               "node_type": "item",
               "title": "react-boilerplate - React + Typescript + Sass boilerplate",
-              "description": null,
+              "description": "Keats/react-ts-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1864,7 +1864,7 @@
             {
               "node_type": "item",
               "title": "redux-react-material-boilerplate - Simple boilerplate inc. React, Redux, Hot reload and Material-ui",
-              "description": null,
+              "description": "wapgear/redux-react-material-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1885,7 +1885,7 @@
             {
               "node_type": "item",
               "title": "react_scaffolding - React + React Router 1.0 + Redux + Webpack & Hot Module Replacement",
-              "description": null,
+              "description": "rafaelchiti/react_scaffolding",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1906,7 +1906,7 @@
             {
               "node_type": "item",
               "title": "React/Redux simple CRUD with persistent state and local async actions (add a manifest file and you get an offline webapp)",
-              "description": null,
+              "description": "cristianszwarc/react_crud_localStorage",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1927,7 +1927,7 @@
             {
               "node_type": "item",
               "title": "React/Redux with Auth boilerplate - Very simple boilerplate, good for fast creating admin panels / dashboard. Included: React, Redux, ReduxForm, React-Router, Simple Authenticate, Hot Reload and Webpack (with babel) :fire:",
-              "description": null,
+              "description": "wapgear/react-redux-template-system-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1948,7 +1948,7 @@
             {
               "node_type": "item",
               "title": "stapp - A Frontend boilerplate for High productivity :fire:",
-              "description": null,
+              "description": "theaidem/stapp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1976,7 +1976,7 @@
             {
               "node_type": "item",
               "title": "rde - Reactive Live Programming Environment",
-              "description": null,
+              "description": "levjj/rde",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1997,7 +1997,7 @@
             {
               "node_type": "item",
               "title": "react-for-hipsters-boilerplate - Fresh boilerplate with brand new hot reloading confing and other hipster stuff",
-              "description": null,
+              "description": "chicoxyzzy/react-for-hipsters-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2018,7 +2018,7 @@
             {
               "node_type": "item",
               "title": "React Redux Cordova Boilerplate",
-              "description": null,
+              "description": "inderps/react-redux-cordova-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2039,7 +2039,7 @@
             {
               "node_type": "item",
               "title": "zero-boilerplate-redux - An example real-world Redux CRUD application with no boilerplate",
-              "description": null,
+              "description": "jamesplease/zero-boilerplate-redux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2063,7 +2063,7 @@
             {
               "node_type": "item",
               "title": "React Seed - A barebones scalable directory structure and package.json for facilitating new React + Redux projects. No fat to trim here!",
-              "description": null,
+              "description": "andrewcoelho/react-seed",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2084,7 +2084,7 @@
             {
               "node_type": "item",
               "title": "edux - fast Redux without constants and switches. Actions and reducers are generated from single source.",
-              "description": null,
+              "description": "dogada/edux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2105,7 +2105,7 @@
             {
               "node_type": "item",
               "title": "skeleton - A simple project-stub to show the basic ideas. Also serves you as a quick start for your project (Mori + Redux)",
-              "description": null,
+              "description": "mightyaleksey/skeleton",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2126,7 +2126,7 @@
             {
               "node_type": "item",
               "title": "react-redux-seed - 使用 React 与 Redux 实现 Universal 渲染的种子工程",
-              "description": null,
+              "description": "lewis617/react-redux-seed",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2159,7 +2159,7 @@
                 {
                   "node_type": "item",
                   "title": "snowflake - mobile app starter: Login, Logout, Reset Password, Update Profile, Hot Reload",
-                  "description": null,
+                  "description": "bartonhammond/snowflake",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2199,7 +2199,7 @@
                 {
                   "node_type": "item",
                   "title": "noder-react-native - The mobile app of cnodejs.org written in React Native",
-                  "description": null,
+                  "description": "osdio/noder-react-native",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2228,7 +2228,7 @@
                 {
                   "node_type": "item",
                   "title": "react-native-sound-cloud",
-                  "description": null,
+                  "description": "fraserxu/soundredux-native",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2249,7 +2249,7 @@
                 {
                   "node_type": "item",
                   "title": "react-native-redux-groceries - An example app using React Native, Redux, Firebase, and AsyncStorage for offline data",
-                  "description": null,
+                  "description": "bruz/react-native-redux-groceries",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2274,7 +2274,7 @@
                 {
                   "node_type": "item",
                   "title": "uestc-bbs-react-native - An iOS client for http://bbs.uestc.edu.cn/ written in React Native with Redux",
-                  "description": null,
+                  "description": "just4fun/stuhome",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2302,7 +2302,7 @@
                 {
                   "node_type": "item",
                   "title": "react-native-counter-ios-android",
-                  "description": null,
+                  "description": "chentsulin/react-native-counter-ios-android",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2323,7 +2323,7 @@
                 {
                   "node_type": "item",
                   "title": "CarteJaune - An open source Redux/ExponentJS (React Native) app leveraging redux-saga to keep track of your vaccinations",
-                  "description": null,
+                  "description": "nikgraf/CarteJaune",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2344,7 +2344,7 @@
                 {
                   "node_type": "item",
                   "title": "react-native-redux-todo-list - A sample todo list app developed by using react-native and redux",
-                  "description": null,
+                  "description": "uiheros/react-native-redux-todo-list",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2365,7 +2365,7 @@
                 {
                   "node_type": "item",
                   "title": "movies-redux - redux implementation of react-native movies example that is included in react-native source",
-                  "description": null,
+                  "description": "nara/movies-redux",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2400,7 +2400,7 @@
                 {
                   "node_type": "item",
                   "title": "reapop - A React & Redux notifications system",
-                  "description": null,
+                  "description": "LouisBarranqueiro/reapop",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2430,7 +2430,7 @@
                 {
                   "node_type": "item",
                   "title": "react-redux-modal-provider - Redux-powered abstract React modal state manager",
-                  "description": null,
+                  "description": "mayask/react-redux-modal-provider",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2456,7 +2456,7 @@
                 {
                   "node_type": "item",
                   "title": "react-redux-modal-flex - Accessible modal dialog component for React, easy to install and use with Redux",
-                  "description": null,
+                  "description": "nghiepdev/react-redux-modal-flex",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2493,7 +2493,7 @@
                 {
                   "node_type": "item",
                   "title": "react-redux - React bindings for Redux",
-                  "description": null,
+                  "description": "reduxjs/react-redux",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2517,7 +2517,7 @@
                 {
                   "node_type": "item",
                   "title": "reselect - Selector library for Redux like in NuclearJS",
-                  "description": null,
+                  "description": "reduxjs/reselect",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2541,7 +2541,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-thunk - Thunk middleware for Redux",
-                  "description": null,
+                  "description": "reduxjs/redux-thunk",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2562,7 +2562,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-persist-store - Persist and rehydrate a redux store",
-                  "description": null,
+                  "description": "endograph/redux-persist",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2571,9 +2571,9 @@
                     "id": 39546089,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2024-05-01T18:49:34Z",
-                    "open_issues": 592,
-                    "owner": "rt2zz",
+                    "last_commit": "2026-10-03T04:30:00Z",
+                    "open_issues": 551,
+                    "owner": "endograph",
                     "repo": "redux-persist",
                     "stars": 12948,
                     "topics": [
@@ -2588,7 +2588,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-observable - RxJS 5-based middleware for Redux. Compose and cancel actions as epics.",
-                  "description": null,
+                  "description": "redux-observable/redux-observable",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2609,7 +2609,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-actions - Flux Standard Action utilities for Redux",
-                  "description": null,
+                  "description": "redux-utilities/redux-actions",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2630,7 +2630,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-logger - Logger middleware for Redux",
-                  "description": null,
+                  "description": "LogRocket/redux-logger",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2657,7 +2657,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-undo - Simple undo/redo functionality for redux state containers",
-                  "description": null,
+                  "description": "omnidan/redux-undo",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2686,7 +2686,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-promise - FSA-compliant promise middleware for Redux",
-                  "description": null,
+                  "description": "redux-utilities/redux-promise",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2707,7 +2707,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-react-router - Redux bindings for React Router – keep your router state inside your Redux store",
-                  "description": null,
+                  "description": "acdlite/redux-router",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2728,7 +2728,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-promise-middleware - Redux middleware for resolving and rejecting promises",
-                  "description": null,
+                  "description": "pburtchaell/redux-promise-middleware",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2755,7 +2755,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-act - An opinionated lib to create actions and reducers for Redux",
-                  "description": null,
+                  "description": "pauldijou/redux-act",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2779,7 +2779,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-api-middleware - Redux API middleware based on the real-world example",
-                  "description": null,
+                  "description": "agraboso/redux-api-middleware",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2800,7 +2800,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-localstorage - Store enhancer that syncs (a subset) of your Redux store state to localstorage.",
-                  "description": null,
+                  "description": "elgerlambert/redux-localstorage",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2821,7 +2821,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-rx - RxJS utilities for Redux",
-                  "description": null,
+                  "description": "acdlite/redux-rx",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2842,7 +2842,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-ignore - Ignore redux actions by array or filter function",
-                  "description": null,
+                  "description": "omnidan/redux-ignore",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2863,7 +2863,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-cycles - Handle async actions with functional and reactive programming.",
-                  "description": null,
+                  "description": "cyclejs-community/redux-cycles",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2895,7 +2895,7 @@
                 {
                   "node_type": "item",
                   "title": "adrenaline - React bindings for Redux with Relay in mind",
-                  "description": null,
+                  "description": "gyzerok/adrenaline",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2920,7 +2920,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-storage - Persistence layer for redux with flexible backends",
-                  "description": null,
+                  "description": "michaelcontento/redux-storage",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2949,7 +2949,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-batched-subscribe - Batch calls to subscribe handlers with a custom function, including debouncing or React batched updates.",
-                  "description": null,
+                  "description": "tappleby/redux-batched-subscribe",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2975,7 +2975,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-analytics - Trigger analytics events based on your event metadata",
-                  "description": null,
+                  "description": "markdalgleish/redux-analytics",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2996,7 +2996,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-falcor - Connect your redux front-end to your falcor back-end",
-                  "description": null,
+                  "description": "ekosz/redux-falcor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3017,7 +3017,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-requests - Avoid issuing duplicate HTTP requests",
-                  "description": null,
+                  "description": "idolize/redux-requests",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3038,7 +3038,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-raven-middleware - Redux middleware for sending error reports to Sentry through raven-js",
-                  "description": null,
+                  "description": "ngokevin/redux-raven-middleware",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3059,7 +3059,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-batched-updates - Batch React updates that occur as a result of Redux dispatches, to prevent cascading renders.",
-                  "description": null,
+                  "description": "acdlite/redux-batched-updates",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3080,7 +3080,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-pouchdb - sync store state to pouchdb",
-                  "description": null,
+                  "description": "vicentedealencar/redux-pouchdb",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3101,7 +3101,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-callbag - Redux middleware for action side effects with callbag + Extremely lightweight and highly scalable",
-                  "description": null,
+                  "description": "janryWang/redux-callbag",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3130,7 +3130,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-diff-logger - Diff logger between states for Redux",
-                  "description": null,
+                  "description": "imevro/redux-diff-logger",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3151,7 +3151,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-combine-actions - Redux middleware that allows you to easy combine actions and dispatch them sequentially",
-                  "description": null,
+                  "description": "itsmepetrov/redux-combine-actions",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3172,7 +3172,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-await - Manage async redux actions sanely",
-                  "description": null,
+                  "description": "kolodny/redux-await",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3214,7 +3214,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-catch - Error catcher middleware for Redux reducers and middlewares",
-                  "description": null,
+                  "description": "PlatziDev/redux-catch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3242,7 +3242,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-elm-middleware - Elm middleware for redux",
-                  "description": null,
+                  "description": "stoeffel/redux-elm-middleware",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3263,7 +3263,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-recycle - Reset the redux state on certain actions",
-                  "description": null,
+                  "description": "omnidan/redux-recycle",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3284,7 +3284,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-transduce - Transducer utilities for Redux",
-                  "description": null,
+                  "description": "acdlite/redux-transducers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3305,7 +3305,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-act-async - Reducing boilerplate when creating asynchronous actions in Redux",
-                  "description": null,
+                  "description": "FredericHeem/redux-act-async",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3329,7 +3329,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-async-initial-state - Set initial Redux state asynchronously",
-                  "description": null,
+                  "description": "KELiON/redux-async-initial-state",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3350,7 +3350,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-async-queue - Manage queues of thunk actions",
-                  "description": null,
+                  "description": "zackargyle/redux-async-queue",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3371,7 +3371,7 @@
                 {
                   "node_type": "item",
                   "title": "socket.io-redux - Redux middleware to emit action via socket.io",
-                  "description": null,
+                  "description": "PlatziDev/socket.io-redux",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3397,7 +3397,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-task - A simple Side Effects manager for redux",
-                  "description": null,
+                  "description": "sskyy/redux-task",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3418,7 +3418,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-mediaquery - Redux ActionCreator to put responsive-design breakpoints in your store",
-                  "description": null,
+                  "description": "Yaska/redux-mediaquery",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3439,7 +3439,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-cookies-middleware - a Redux middleware which syncs a subset of your Redux store state with cookies.",
-                  "description": null,
+                  "description": "grofers/redux-cookies-middleware",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3466,7 +3466,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-pagan - internationalization via redux",
-                  "description": null,
+                  "description": "alexkuz/redux-pagan",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3487,7 +3487,7 @@
                 {
                   "node_type": "item",
                   "title": "rn-redux-mixpanel - Configurable Redux middleware that sends your actions & user profile data to Mixpanel",
-                  "description": null,
+                  "description": "danscan/rn-redux-mixpanel",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3508,7 +3508,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-catch-promise - Extended replacement of redux-thunk middleware to supporting async-await functions and implement server-side rendering for React components with async state",
-                  "description": null,
+                  "description": "DenisIzmaylov/redux-catch-promise",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3529,7 +3529,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-io - FSA-compliant io monad middleware for redux",
-                  "description": null,
+                  "description": "stoeffel/redux-io",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3550,7 +3550,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-routing - Universal routing built on top of redux",
-                  "description": null,
+                  "description": "callum/redux-routing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3576,7 +3576,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-observable-middleware - Redux middleware for subscribing to observables",
-                  "description": null,
+                  "description": "d6u/redux-observable-middleware",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3597,7 +3597,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-simple-promise - FSA-compliant promise middleware for Redux with simple behaviour with minimal boilerplate declarations",
-                  "description": null,
+                  "description": "alanrubin/redux-simple-promise",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3618,7 +3618,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-future - FSA-compliant future monad middleware for redux",
-                  "description": null,
+                  "description": "stoeffel/redux-future",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3639,7 +3639,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-gen - Generator based middleware for redux",
-                  "description": null,
+                  "description": "weo-edu/redux-gen",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3660,7 +3660,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-debug - debug(...) middleware for Redux",
-                  "description": null,
+                  "description": "lapwinglabs/redux-debug",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3681,7 +3681,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-async - FSA-compliant promise property middleware for Redux",
-                  "description": null,
+                  "description": "nwwells/redux-async",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3702,7 +3702,7 @@
                 {
                   "node_type": "item",
                   "title": "routex - Simple router for Redux universal applications. Can be used with React too",
-                  "description": null,
+                  "description": "michalkvasnicak/routex",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3723,7 +3723,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-authentication - Authentication component for Redux",
-                  "description": null,
+                  "description": "Jackong/redux-authentication",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3744,7 +3744,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-fetch-middleware - Redux middleware that help user to treat simple request via fetch api",
-                  "description": null,
+                  "description": "zslucky/redux-fetch-middleware",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3768,7 +3768,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-amrc - Redux async middleware and reducer creator",
-                  "description": null,
+                  "description": "lewis617/redux-amrc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3789,7 +3789,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-lunr - Make your redux store searchable with Lunr.js",
-                  "description": null,
+                  "description": "swennemans/redux-lunr",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3810,7 +3810,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-timeout - Trigger actions based on timeouts",
-                  "description": null,
+                  "description": "gpfunk/redux-timeout",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3831,7 +3831,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-node-logger - A Redux Logger for Node Environments",
-                  "description": null,
+                  "description": "low-ghost/redux-node-logger",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3852,7 +3852,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-either - FSA-compliant either monad middleware for redux",
-                  "description": null,
+                  "description": "stoeffel/redux-either",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3873,7 +3873,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-reporter - Report actions & metadata to 3rd party providers, extremely useful for analytics and error handling (New Relic, Sentry, Adobe DTM, Keen, etc.)",
-                  "description": null,
+                  "description": "ezekielchentnik/redux-reporter",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3894,7 +3894,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-ensure-fsa - Development middleware to check for FSA-compliant actions",
-                  "description": null,
+                  "description": "meadow/redux-ensure-fsa",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3915,7 +3915,7 @@
                 {
                   "node_type": "item",
                   "title": "react-redux-persist-sentry-middleware - Redux middleware for sending error reports along with persisted data as payload to Sentry through raven-js",
-                  "description": null,
+                  "description": "rishantagarwal/react-redux-persist-sentry-middleware",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3936,7 +3936,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-owl - Redux One Way Linking",
-                  "description": null,
+                  "description": "rt2zz/redux-owl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3957,7 +3957,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-url - A Redux middleware for synchronizing the URL with the state",
-                  "description": null,
+                  "description": "jedirandy/redux-url",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3986,7 +3986,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-cheerio - Make HTTP requests and then parse the responses with jQuery selectors using Cheerio",
-                  "description": null,
+                  "description": "therewillbecode/redux-cheerio",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4007,7 +4007,7 @@
                 {
                   "node_type": "item",
                   "title": "eslint-plugin-redux-reselect - Eslint rules for Selector library",
-                  "description": null,
+                  "description": "viktor-ku/eslint-plugin-redux-reselect",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4028,7 +4028,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-create-store",
-                  "description": null,
+                  "description": "phated/redux-create-store",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4049,7 +4049,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-sync-promise - Middleware for writing asynchronous actions in synchronous style",
-                  "description": null,
+                  "description": "shanhaichik/redux-sync-promise",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4070,7 +4070,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-deferred - Redux middleware for jQuery Deferred Object",
-                  "description": null,
+                  "description": "longtian/redux-deferred",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4091,7 +4091,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-vstack-router - Helpers to bind vstack-router to redux",
-                  "description": null,
+                  "description": "vslinko/redux-vstack-router",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4119,7 +4119,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-saga - An alternative side effect model for Redux apps",
-                  "description": null,
+                  "description": "redux-saga/redux-saga",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4146,7 +4146,7 @@
                 {
                   "node_type": "item",
                   "title": "reactotron - Control, monitor, and instrument your React Native apps from the comfort of your TTY",
-                  "description": null,
+                  "description": "infinitered/reactotron",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4176,7 +4176,7 @@
                 {
                   "node_type": "item",
                   "title": "recompose - A microcomponentization toolkit for React",
-                  "description": null,
+                  "description": "acdlite/recompose",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4197,7 +4197,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI",
-                  "description": null,
+                  "description": "reduxjs/redux-devtools",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4206,7 +4206,7 @@
                     "id": 38565895,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T12:50:32Z",
+                    "last_commit": "2026-10-03T00:27:59Z",
                     "open_issues": 143,
                     "owner": "reduxjs",
                     "repo": "redux-devtools",
@@ -4218,7 +4218,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-devtools-extension - Redux DevTools Extension",
-                  "description": null,
+                  "description": "zalmoxisus/redux-devtools-extension",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4245,7 +4245,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-form - An ES7 decorator for forms using Redux and React",
-                  "description": null,
+                  "description": "redux-form/redux-form",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4274,7 +4274,7 @@
                 {
                   "node_type": "item",
                   "title": "react-router-redux - Ruthlessly simple bindings to keep react-router and redux in sync",
-                  "description": null,
+                  "description": "reactjs/react-router-redux",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4295,7 +4295,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-orm - A small, simple and immutable ORM to manage data in your Redux store",
-                  "description": null,
+                  "description": "redux-orm/redux-orm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4328,7 +4328,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-loop - Sequence your effects naturally and purely by returning them from your reducers",
-                  "description": null,
+                  "description": "redux-loop/redux-loop",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4349,7 +4349,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-immutable - Streamlines use of Immutable.js with Redux reducers.",
-                  "description": null,
+                  "description": "gajus/redux-immutable",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4375,7 +4375,7 @@
                 {
                   "node_type": "item",
                   "title": "remote-redux-devtools - Use Redux DevTools remotely for React Native, hybrid, desktop and server side Redux apps",
-                  "description": null,
+                  "description": "zalmoxisus/remote-redux-devtools",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4401,7 +4401,7 @@
                 {
                   "node_type": "item",
                   "title": "updeep - Easily update nested frozen objects and arrays in a declarative and immutable manner",
-                  "description": null,
+                  "description": "substantial/updeep",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4422,7 +4422,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-cli - An opinionated CLI for building redux/react apps quicker",
-                  "description": null,
+                  "description": "SpencerCDixon/redux-cli",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4443,7 +4443,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-optimist - Optimistically apply actions that can be later commited or reverted.",
-                  "description": null,
+                  "description": "ForbesLindesay/redux-optimist",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4464,7 +4464,7 @@
                 {
                   "node_type": "item",
                   "title": "Redux & ImmutableJs - Integration of Redux & ImmutableJs that 100% conforms Redux standards",
-                  "description": null,
+                  "description": "indexiatech/redux-immutablejs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4485,7 +4485,7 @@
                 {
                   "node_type": "item",
                   "title": "Generate standard action creators and reducers for CRUD applications",
-                  "description": null,
+                  "description": "Versent/redux-crud",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4509,7 +4509,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-ship - Composable, testable and typable side effects",
-                  "description": null,
+                  "description": "clarus/redux-ship",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4534,7 +4534,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-bees - A nice, declarative way of managing JSON API calls with Redux.",
-                  "description": null,
+                  "description": "cantierecreativo/redux-bees",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4555,7 +4555,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-api - Flux REST API for redux infrastructure",
-                  "description": null,
+                  "description": "lexich/redux-api",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4583,7 +4583,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-test-recorder - Redux test recorder is a redux middleware + included component for automagically generating tests for your reducers based on the actions in your app",
-                  "description": null,
+                  "description": "conorhastings/redux-test-recorder",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4604,7 +4604,7 @@
                 {
                   "node_type": "item",
                   "title": "subdivide - User defined UI layout: Every pane can be subdivided and any widget assigned to any pane",
-                  "description": null,
+                  "description": "philholden/subdivide",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4625,7 +4625,7 @@
                 {
                   "node_type": "item",
                   "title": "multireducer - A utility to wrap many copies of a single Redux reducer into a single key-based reducer",
-                  "description": null,
+                  "description": "erikras/multireducer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4646,7 +4646,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-saga-requests - Redux-Saga addon to simplify handling of AJAX requests. It supports Axios and Fetch API.",
-                  "description": null,
+                  "description": "klis87/redux-requests",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4687,7 +4687,7 @@
                 {
                   "node_type": "item",
                   "title": "immu - A tiny, fail-fast, lazy, immutable Javascript objects library",
-                  "description": null,
+                  "description": "scottcorgan/immu",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4708,7 +4708,7 @@
                 {
                   "node_type": "item",
                   "title": "blue-chip - Accepts payloads from GraphQL or JsonAPI servers, normalizes them into your store and provides an ORM like syntax for retrieving the data for use",
-                  "description": null,
+                  "description": "blue-chip-js/blue-chip",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4734,7 +4734,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-store-visualizer - Visualize Redux store in real time",
-                  "description": null,
+                  "description": "romseguy/redux-store-visualizer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4755,7 +4755,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-watch - Watch/monitor for state changes on an object path",
-                  "description": null,
+                  "description": "ExodusOSS/redux-watch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4776,7 +4776,7 @@
                 {
                   "node_type": "item",
                   "title": "generator-redux - CLI tools for Redux: next-gen functional Flux/React with devtools",
-                  "description": null,
+                  "description": "banderson/generator-redux",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4797,7 +4797,7 @@
                 {
                   "node_type": "item",
                   "title": "generator-redux - CLI tools for Redux: next-gen functional Flux/React with devtools",
-                  "description": null,
+                  "description": "banderson/generator-redux",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4818,7 +4818,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-devtools-inspector - Another Redux DevTools Monitor",
-                  "description": null,
+                  "description": "alexkuz/redux-devtools-inspector",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4839,7 +4839,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-resource - Lightweight remote resource management for Redux.",
-                  "description": null,
+                  "description": "jamesplease/redux-resource",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4864,7 +4864,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-tcomb - Immutable and type-checked state and actions for Redux",
-                  "description": null,
+                  "description": "gcanti/redux-tcomb",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4885,7 +4885,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-slider-monitor - A custom monitor for Redux DevTools to replay recorded Redux actions",
-                  "description": null,
+                  "description": "calesce/redux-slider-monitor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4906,7 +4906,7 @@
                 {
                   "node_type": "item",
                   "title": "actionware - Redux with less boilerplate + error/busy status for every action",
-                  "description": null,
+                  "description": "wellguimaraes/actionware",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4933,7 +4933,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-actions-assertions - Assertions for redux actions testing",
-                  "description": null,
+                  "description": "redux-things/redux-actions-assertions",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4962,7 +4962,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-rest - Automatically create Flux action constants, action creators and Redux reducers for your REST API",
-                  "description": null,
+                  "description": "Kvoti/redux-rest",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4983,7 +4983,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-devtools-diff-monitor - Redux DevTools – Diff Monitor",
-                  "description": null,
+                  "description": "whetstone/redux-devtools-diff-monitor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5004,7 +5004,7 @@
                 {
                   "node_type": "item",
                   "title": "react-inline-grid - Predictable flexbox based grid for React using Redux and Immutable-js.",
-                  "description": null,
+                  "description": "broucz/react-inline-grid",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5025,7 +5025,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-react-router-transitions - Attach react-router transitions to arbitrary actions",
-                  "description": null,
+                  "description": "johanneslumpe/redux-history-transitions",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5046,7 +5046,7 @@
                 {
                   "node_type": "item",
                   "title": "rereduce - Reducer library for Redux",
-                  "description": null,
+                  "description": "slorber/rereduce",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5067,7 +5067,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-devtools-filterable-log-monitor - Filterable tree view monitor for Redux DevTools",
-                  "description": null,
+                  "description": "bvaughn/redux-devtools-filterable-log-monitor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5088,7 +5088,7 @@
                 {
                   "node_type": "item",
                   "title": "firedux - Firebase + Redux for ReactJS",
-                  "description": null,
+                  "description": "AndersDJohnson/firedux",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5117,7 +5117,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-devtools-dispatch - Dispatch your actions manually to test if your app reacts well",
-                  "description": null,
+                  "description": "YoruNoHikage/redux-devtools-dispatch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5143,7 +5143,7 @@
                 {
                   "node_type": "item",
                   "title": "react-reach - A library to communicate with Graphql through Redux",
-                  "description": null,
+                  "description": "kennetpostigo/react-reach",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5168,7 +5168,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-multi - Dispatch multiple actions from one action creator",
-                  "description": null,
+                  "description": "ashaffer/redux-multi",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5189,7 +5189,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-tiny-router - A Router made for Redux, stop using the router as a controller it's just state!",
-                  "description": null,
+                  "description": "Agamennon/redux-tiny-router",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5210,7 +5210,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-devtools-gentest-plugin - Generate mocha like tests from redux-devtools session",
-                  "description": null,
+                  "description": "sergey-lapin/redux-devtools-gentest-plugin",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -5231,7 +5231,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-saga-rxjs - RxJS implementation of Saga pattern for redux",
-                  "description": null,
+                  "description": "salsita/redux-saga-rxjs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5252,7 +5252,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-autoform - Create Redux-Forms dynamically out of metadata",
-                  "description": null,
+                  "description": "redux-autoform/redux-autoform",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5280,7 +5280,7 @@
                 {
                   "node_type": "item",
                   "title": "redoodle - Enhances Redux integration with TypeScript with Typed Actions and typesafe reducers.",
-                  "description": null,
+                  "description": "palantir/redoodle",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5305,7 +5305,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-decorators - A ridiculously good syntax for working with Redux and TypeScript. Currently limited to Angular but could potentially be used elsewhere",
-                  "description": null,
+                  "description": "KarlPurk/redux-decorators",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5326,7 +5326,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-router5 - router5 integration with Redux",
-                  "description": null,
+                  "description": "router5/redux-router5",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -5347,7 +5347,7 @@
                 {
                   "node_type": "item",
                   "title": "yax - Yet another store using redux and inspired by vuex",
-                  "description": null,
+                  "description": "d-band/yax",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5373,7 +5373,7 @@
                 {
                   "node_type": "item",
                   "title": "actiontyper - Helper to create less verbose action types for Redux",
-                  "description": null,
+                  "description": "alnorris/redux-actiontyper",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5394,7 +5394,7 @@
                 {
                   "node_type": "item",
                   "title": "generator-redux-app - Scaffold out a redux app with counter example and react-router",
-                  "description": null,
+                  "description": "chentsulin/generator-redux-app",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5415,7 +5415,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-flash-notification - A flash notification component for Redux",
-                  "description": null,
+                  "description": "posabsolute/redux-flash-notification",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5443,7 +5443,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-data-fx - Declarative side effects for Redux",
-                  "description": null,
+                  "description": "mt-bt/redux-data-fx",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5470,7 +5470,7 @@
                 {
                   "node_type": "item",
                   "title": "vstack-router - Universal router",
-                  "description": null,
+                  "description": "vslinko/vstack-router",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -5491,7 +5491,7 @@
                 {
                   "node_type": "item",
                   "title": "icedam - Just-in-time immutability: freezes data sent to views.",
-                  "description": null,
+                  "description": "winkler1/icedam",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5512,7 +5512,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-easy-actions - Sugar library for creating Redux or Flux actions",
-                  "description": null,
+                  "description": "grigory-leonenko/redux-easy-actions",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5533,7 +5533,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-immutable-reducer - Immutable reducer states with Redux",
-                  "description": null,
+                  "description": "zackargyle/redux-immutable-reducer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5554,7 +5554,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-loader - A high order component for Redux. This components loads resources and passes them to the child components via props",
-                  "description": null,
+                  "description": "Versent/redux-loader",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5575,7 +5575,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-form-validation - Form validation for controlled & uncontrolled inputs",
-                  "description": null,
+                  "description": "posabsolute/redux-form-validator",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5603,7 +5603,7 @@
                 {
                   "node_type": "item",
                   "title": "reswitch — Write reducers with less boilerplate",
-                  "description": null,
+                  "description": "chiefGui/reswitch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5632,7 +5632,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-import-export-monitor - A monitor for copying your serialized action log to the clipboard, as well as pasting it in from somewhere else",
-                  "description": null,
+                  "description": "sergey-lapin/redux-import-export-monitor",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -5653,7 +5653,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-dispatch-cli - A CLI tool for Redux remote dispatch. Used in remote-redux-devtools",
-                  "description": null,
+                  "description": "jhen0409/redux-dispatch-cli",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5674,7 +5674,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-viewmodel - ViewModel wrapping for Redux & React",
-                  "description": null,
+                  "description": "tdzl2003/redux-viewmodel",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5695,7 +5695,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-store-validator - Add validation to your Redux reducers",
-                  "description": null,
+                  "description": "alixander/redux-store-validator",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -5720,7 +5720,7 @@
                 {
                   "node_type": "item",
                   "title": "replux - Self contained components and enhancements for Redux",
-                  "description": null,
+                  "description": "gregthebusker/replux",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -5741,7 +5741,7 @@
                 {
                   "node_type": "item",
                   "title": "entman - A simple library to manage normalizr entities in a Redux store",
-                  "description": null,
+                  "description": "Drawbotics/entman",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5762,7 +5762,7 @@
                 {
                   "node_type": "item",
                   "title": "generator-reactapp - Yeoman generator for react app with redux",
-                  "description": null,
+                  "description": "Jackong/generator-reactapp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5783,7 +5783,7 @@
                 {
                   "node_type": "item",
                   "title": "generator-reactapp - Yeoman generator for react app with redux",
-                  "description": null,
+                  "description": "Jackong/generator-reactapp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5804,7 +5804,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-reducer-async - Create redux reducers for async behaviors of multiple actions.",
-                  "description": null,
+                  "description": "AndersDJohnson/redux-reducer-async",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5842,7 +5842,7 @@
                 {
                   "node_type": "item",
                   "title": "simple-redux-form - A tiny redux-form alternative Higher Order Component for forms",
-                  "description": ".",
+                  "description": "mihirsoni/simple-redux-form",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5869,7 +5869,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-test-reducer - Simple and clean testing mechanism for Redux reducers",
-                  "description": null,
+                  "description": "amsardesai/redux-test-reducer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5890,7 +5890,7 @@
                 {
                   "node_type": "item",
                   "title": "asyncdataloader-react -AsyncDataLoader is a React Higher Order Component which takes responsibility of fetching data of the Wrapped Component and offers many options like showing an interface preview of the Wrapped Component while data is being fetched, refetch data after specified time.",
-                  "description": null,
+                  "description": "harshitkumar31/asyncdataloader-react",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5911,7 +5911,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-ecommerce - E-commerce flux with redux",
-                  "description": null,
+                  "description": "Tom-Alexander/redux-ecommerce",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5932,7 +5932,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-duck - Helper function to create Redux modules using the ducks-modular-redux proposal",
-                  "description": null,
+                  "description": "sergiodxa/redux-duck",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -5960,7 +5960,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-lift - Lifting for Redux",
-                  "description": null,
+                  "description": "izaakschroeder/redux-lift",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5981,7 +5981,7 @@
                 {
                   "node_type": "item",
                   "title": "listate - Library to listen/observe/watch changes of Redux store state",
-                  "description": null,
+                  "description": "gamtiq/listate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6017,7 +6017,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-browser-extension-sync - Redux state synchronization between browser extension components (background/popup etc.). Works in Chrome, Firefox and Opera.",
-                  "description": null,
+                  "description": "perry-mitchell/redux-browser-extension-sync",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -6043,7 +6043,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-autoreducers - Redux Auto reducers generator.",
-                  "description": null,
+                  "description": "oxyno-zeta/redux-autoreducers",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -6069,7 +6069,7 @@
                 {
                   "node_type": "item",
                   "title": "entities-reducer - High order reducer to handle updates to entities from normalizr actions",
-                  "description": null,
+                  "description": "kwelch/entities-reducer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6096,7 +6096,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-mount - Mount state data and change its state values on the fly",
-                  "description": null,
+                  "description": "apisurfer/redux-mount",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -6117,7 +6117,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-bacon - Utilities for attaching Bacon.js to Redux",
-                  "description": null,
+                  "description": "aparticka/redux-bacon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6138,7 +6138,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-immutable-utils - Utilities for using Immutable with Redux",
-                  "description": null,
+                  "description": "aparticka/redux-immutable-utils",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6159,7 +6159,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-director - Redux bindings to director router",
-                  "description": null,
+                  "description": "mandeepbrar/redux-director",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6180,7 +6180,7 @@
                 {
                   "node_type": "item",
                   "title": "encaps - a library to create independent, reusable and extensible modules for redux applications.",
-                  "description": null,
+                  "description": "megazazik/encaps",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6208,7 +6208,7 @@
                 {
                   "node_type": "item",
                   "title": "dva - Front-end framework based on react, redux, react-redux, react-router and redux-saga.",
-                  "description": null,
+                  "description": "dvajs/dva",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6235,7 +6235,7 @@
                 {
                   "node_type": "item",
                   "title": "Rematch - Redux best practices without the boilerplate",
-                  "description": null,
+                  "description": "rematch/rematch",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -6271,7 +6271,7 @@
                 {
                   "node_type": "item",
                   "title": "relax - New generation CMS on top of React, Redux and GraphQL",
-                  "description": null,
+                  "description": "relax/relax",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6292,7 +6292,7 @@
                 {
                   "node_type": "item",
                   "title": "Este - The most complete minimal dev stack / boilerplate for React & Redux universal web apps",
-                  "description": null,
+                  "description": "este/este",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -6321,7 +6321,7 @@
                 {
                   "node_type": "item",
                   "title": "Easy Peasy - Easy peasy redux-powered state management",
-                  "description": null,
+                  "description": "ctrlplusb/easy-peasy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6350,7 +6350,7 @@
                 {
                   "node_type": "item",
                   "title": "meatier - Like meteor, but meatier",
-                  "description": null,
+                  "description": "mattkrick/meatier",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6402,7 +6402,7 @@
                 {
                   "node_type": "item",
                   "title": "Mirror - A simple and powerful React framework with minimal API and zero boilerplate",
-                  "description": null,
+                  "description": "mirrorjs/mirror",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6429,7 +6429,7 @@
                 {
                   "node_type": "item",
                   "title": "Jumpsuit - A powerful & efficient React framework. Jump in. Zip up. Build great apps.",
-                  "description": null,
+                  "description": "jsonmaur/jumpsuit",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -6450,7 +6450,7 @@
                 {
                   "node_type": "item",
                   "title": "Redux-Box - Modular and easy-to-grasp redux container",
-                  "description": null,
+                  "description": "anish000kumar/redux-box",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6475,7 +6475,7 @@
                 {
                   "node_type": "item",
                   "title": "lovli.js - A boilerplate for developing react+redux applications with rethinkdb/horizon as realtime database and express for the server",
-                  "description": null,
+                  "description": "flipace/lovli.js",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6496,7 +6496,7 @@
                 {
                   "node_type": "item",
                   "title": "reactuate — A React/Redux stack (not a boilerplate!) with a focus on Domain-Driven Design",
-                  "description": null,
+                  "description": "reactuate/reactuate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6517,7 +6517,7 @@
                 {
                   "node_type": "item",
                   "title": "Jumpstate - Simple and powerful state management for Redux",
-                  "description": null,
+                  "description": "jumpsuit/jumpstate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6542,7 +6542,7 @@
                 {
                   "node_type": "item",
                   "title": "Keo - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as compose, memoize, etc... for free",
-                  "description": null,
+                  "description": "Wildhoney/Keo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6563,7 +6563,7 @@
                 {
                   "node_type": "item",
                   "title": "Conventional-Redux - A wrapper for react-redux which provides API based on convention over configuration pattern.",
-                  "description": null,
+                  "description": "mjaneczek/conventional-redux",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6584,7 +6584,7 @@
                 {
                   "node_type": "item",
                   "title": "Vdux - World's smallest framework. Stateless Virtual DOM <-> Redux",
-                  "description": null,
+                  "description": "vdux/vdux",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6605,7 +6605,7 @@
                 {
                   "node_type": "item",
                   "title": "Ripster",
-                  "description": null,
+                  "description": "vslinko/ripster",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -6626,7 +6626,7 @@
                 {
                   "node_type": "item",
                   "title": "Feeble - A framework built on top of React/Redux/redux-saga which aims to make building React/Redux applications easier and better.",
-                  "description": null,
+                  "description": "feeblejs/feeble",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -6652,7 +6652,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-react-i18n - An i18n solution for redux/react✌🏿✊🏽🤘🏻",
-                  "description": null,
+                  "description": "derzunov/redux-react-i18n",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6693,7 +6693,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-ts-utils - Everything you need to create type-safe applications with Redux with a strong emphasis on simplicity",
-                  "description": null,
+                  "description": "knpwrs/redux-ts-utils",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -6718,7 +6718,7 @@
                 {
                   "node_type": "item",
                   "title": "plait - A minimal JavaScript framework for building reactive web components",
-                  "description": null,
+                  "description": "wildlyinaccurate/plait",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6747,7 +6747,7 @@
                 {
                   "node_type": "item",
                   "title": "Esex - Full-stack Universal JavaScript Framework (Redux+RxJs)",
-                  "description": null,
+                  "description": "vslinko/esex",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -6768,7 +6768,7 @@
                 {
                   "node_type": "item",
                   "title": "nux - A Push-Based Functional Reactive Web Application Framework",
-                  "description": null,
+                  "description": "marknutter/nux",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6789,7 +6789,7 @@
                 {
                   "node_type": "item",
                   "title": "Rechyons - makes redux no longer verbose, allows you use redux without writing actions and reducers, and still keep immutable",
-                  "description": null,
+                  "description": "ZhouHansen/rechyons",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6810,7 +6810,7 @@
                 {
                   "node_type": "item",
                   "title": "stardux - Functional DOM containers based on starplate, IncrementalDOM, and redux",
-                  "description": null,
+                  "description": "littlstar/stardux",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6831,7 +6831,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-action-host - Redux middleware to add the hostname of the originating computer to action metadata",
-                  "description": null,
+                  "description": "sabrehagen/redux-action-host",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6861,7 +6861,7 @@
             {
               "node_type": "item",
               "title": "mobx - Simple, scalable state management",
-              "description": null,
+              "description": "mobxjs/mobx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6888,7 +6888,7 @@
             {
               "node_type": "item",
               "title": "rx-redux - A reimplementation of redux using RxJS",
-              "description": null,
+              "description": "jas-chen/rx-redux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6909,7 +6909,7 @@
             {
               "node_type": "item",
               "title": "fluxette - Minimalist, functional, and concise Flux",
-              "description": null,
+              "description": "alkhe/fluxette",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6930,7 +6930,7 @@
             {
               "node_type": "item",
               "title": "bobflux - Bobflux is pure functional implementation of FLUX pattern and is fitted to Bobril",
-              "description": null,
+              "description": "karelsteinmetz/bobflux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6951,7 +6951,7 @@
             {
               "node_type": "item",
               "title": "refer - Redux-like library for handling global state on functional style",
-              "description": null,
+              "description": "Lucifier129/refer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6972,7 +6972,7 @@
             {
               "node_type": "item",
               "title": "understate - A simple state manager",
-              "description": null,
+              "description": "johnhenry/understate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6993,7 +6993,7 @@
             {
               "node_type": "item",
               "title": "chopped-redux - A very small Flux implementation based on Redux",
-              "description": null,
+              "description": "acstll/chopped-redux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7026,7 +7026,7 @@
                 {
                   "node_type": "item",
                   "title": "deku-redux - Bindings for redux in deku (Standalone plugin)",
-                  "description": ")",
+                  "description": "troch/deku-redux",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7047,7 +7047,7 @@
                 {
                   "node_type": "item",
                   "title": "Deku + Express + Redux + Crossroads Router",
-                  "description": null,
+                  "description": "nilsivanson/deku-redux-universal-hot-example",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -7097,7 +7097,7 @@
                 {
                   "node_type": "item",
                   "title": "Incremental DOM + Redux Flux = Todo App",
-                  "description": null,
+                  "description": "joshthecoder/idom-redux-todomvc-app",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7132,7 +7132,7 @@
                 {
                   "node_type": "item",
                   "title": "react-redux-winjs-example",
-                  "description": null,
+                  "description": "unindented/react-redux-winjs-example",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -7167,7 +7167,7 @@
                 {
                   "node_type": "item",
                   "title": "ng-redux - Standalone plugin",
-                  "description": null,
+                  "description": "angular-redux/ng-redux",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7188,7 +7188,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-ui-router - ngRedux middleware for AngularJS UI Router",
-                  "description": null,
+                  "description": "neilff/redux-ui-router",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7209,7 +7209,7 @@
                 {
                   "node_type": "item",
                   "title": "InfomediaLtd/angular2-redux-example",
-                  "description": null,
+                  "description": "InfomediaLtd/angular2-redux-example",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7230,7 +7230,7 @@
                 {
                   "node_type": "item",
                   "title": "AngularJS + Typescript + Redux",
-                  "description": null,
+                  "description": "wbuchwalter/tsRedux",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7251,7 +7251,7 @@
                 {
                   "node_type": "item",
                   "title": "tomusdrw/angular2-redux-example",
-                  "description": null,
+                  "description": "tomusdrw/angular2-redux-example",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -7286,7 +7286,7 @@
                 {
                   "node_type": "item",
                   "title": "@angular-redux/store - Angular bindings for Redux",
-                  "description": null,
+                  "description": "angular-redux/store",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7312,7 +7312,7 @@
                 {
                   "node_type": "item",
                   "title": "angular2-redux-example - Example project for using pure Redux with Angular and TypeScript",
-                  "description": null,
+                  "description": "InfomediaLtd/angular2-redux-example",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7333,7 +7333,7 @@
                 {
                   "node_type": "item",
                   "title": "angular2-redux - Wrapper components for using Redux in an Angular application",
-                  "description": null,
+                  "description": "InfomediaLtd/angular2-redux",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7354,7 +7354,7 @@
                 {
                   "node_type": "item",
                   "title": "ng2redux - Angular bindings for Redux implemented with TypeScript and decorators",
-                  "description": null,
+                  "description": "forforeach/ng2redux",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7389,7 +7389,7 @@
                 {
                   "node_type": "item",
                   "title": "Vue + Redux",
-                  "description": null,
+                  "description": "yang-wei/vue-redux",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7410,7 +7410,7 @@
                 {
                   "node_type": "item",
                   "title": "Meteor + Vue + Redux",
-                  "description": null,
+                  "description": "zhongqf/meteor-vue-redux-example",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7431,7 +7431,7 @@
                 {
                   "node_type": "item",
                   "title": "Revue - Redux binding for Vue",
-                  "description": null,
+                  "description": "revue/revue",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -7466,7 +7466,7 @@
                 {
                   "node_type": "item",
                   "title": "polymer-redux",
-                  "description": null,
+                  "description": "tur-nr/polymer-redux",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7492,7 +7492,7 @@
                 {
                   "node_type": "item",
                   "title": "redux-store-element",
-                  "description": null,
+                  "description": "lastmjs/redux-store-element",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7536,7 +7536,7 @@
                 {
                   "node_type": "item",
                   "title": "meteor-flux-leaderboard",
-                  "description": null,
+                  "description": "AdamBrodzinski/meteor-flux-leaderboard",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7557,7 +7557,7 @@
                 {
                   "node_type": "item",
                   "title": "meteor-react-redux-example",
-                  "description": null,
+                  "description": "zhongqf/meteor-react-redux-example",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7592,7 +7592,7 @@
                 {
                   "node_type": "item",
                   "title": "mithril-redux-starter-hmr",
-                  "description": null,
+                  "description": "mijime/mithril-redux-starter-hmr",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7627,7 +7627,7 @@
                 {
                   "node_type": "item",
                   "title": "backbone-redux — The easy way to keep your backbone collections and redux store in sync",
-                  "description": null,
+                  "description": "redbooth/backbone-redux",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7669,7 +7669,7 @@
                 {
                   "node_type": "item",
                   "title": "aurelia-redux-todo - An implementation of the Redux todo demo app using Aurelia",
-                  "description": null,
+                  "description": "voidberg-archive/aurelia-redux-todo",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -7704,7 +7704,7 @@
                 {
                   "node_type": "item",
                   "title": "riotredux-budget",
-                  "description": null,
+                  "description": "remyhonig/riotredux-budget",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7734,7 +7734,7 @@
             {
               "node_type": "item",
               "title": "electron-react-boilerplate (Electron + Redux + Hot Reload)",
-              "description": null,
+              "description": "electron-react-boilerplate/electron-react-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7771,7 +7771,7 @@
             {
               "node_type": "item",
               "title": "aframe-redux-component",
-              "description": null,
+              "description": "supermedium/superframe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7805,7 +7805,7 @@
             {
               "node_type": "item",
               "title": "React Chrome Extension Boilerplate (Webpack + Redux + Babel and etc",
-              "description": null,
+              "description": "jhen0409/react-chrome-extension-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7826,7 +7826,7 @@
             {
               "node_type": "item",
               "title": "Redux Chrome Extension",
-              "description": null,
+              "description": "ladas-larry/redux-chrome-extension",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7852,7 +7852,7 @@
                 {
                   "node_type": "item",
                   "title": "Pumgrana Plugin",
-                  "description": null,
+                  "description": "Pumgrana/plugin",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7886,7 +7886,7 @@
         {
           "node_type": "item",
           "title": "react_on_rails gem",
-          "description": null,
+          "description": "shakacode/react_on_rails",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7895,8 +7895,8 @@
             "id": 41117523,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T13:48:12Z",
-            "open_issues": 119,
+            "last_commit": "2026-10-03T04:35:25Z",
+            "open_issues": 118,
             "owner": "shakacode",
             "repo": "react_on_rails",
             "stars": 5192,
@@ -7923,7 +7923,7 @@
         {
           "node_type": "item",
           "title": "React Webpack Rails Tutorial Using Redux",
-          "description": null,
+          "description": "shakacode/react-webpack-rails-tutorial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7964,7 +7964,7 @@
             {
               "node_type": "item",
               "title": "GuillaumeSalles/redux.NET",
-              "description": null,
+              "description": "GuillaumeSalles/redux.NET",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7985,7 +7985,7 @@
             {
               "node_type": "item",
               "title": "pshomov/reducto",
-              "description": null,
+              "description": "pshomov/reducto",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8013,7 +8013,7 @@
             {
               "node_type": "item",
               "title": "glung/redux-java",
-              "description": null,
+              "description": "glung/redux-java",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8034,7 +8034,7 @@
             {
               "node_type": "item",
               "title": "trikita/jedux",
-              "description": null,
+              "description": "trikita/jedux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8061,7 +8061,7 @@
             {
               "node_type": "item",
               "title": "izumin5210/Droidux",
-              "description": null,
+              "description": "izumin5210/Droidux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8093,7 +8093,7 @@
             {
               "node_type": "item",
               "title": "ReSwift/ReSwift",
-              "description": null,
+              "description": "ReSwift/ReSwift",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8145,7 +8145,7 @@
             {
               "node_type": "item",
               "title": "ReduxKit/ReduxKit",
-              "description": null,
+              "description": "ReduxKit/ReduxKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8173,7 +8173,7 @@
             {
               "node_type": "item",
               "title": "brakmic/purescript-redux",
-              "description": null,
+              "description": "brakmic/purescript-redux",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8201,7 +8201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:52:16.355Z",
+    "last_updated": "2026-10-03T05:04:27.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Redux examples and middlewares",
