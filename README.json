@@ -18,7 +18,7 @@
             "open_issues": 15,
             "owner": "reduxjs",
             "repo": "redux",
-            "stars": 61484,
+            "stars": 61483,
             "topics": [
               "redux"
             ]
@@ -185,7 +185,7 @@
                 "open_issues": 31,
                 "owner": "markerikson",
                 "repo": "redux-ecosystem-links",
-                "stars": 5197,
+                "stars": 5196,
                 "topics": [
                   "action",
                   "addons",
@@ -241,7 +241,7 @@
                 "open_issues": 7,
                 "owner": "tayiorbeii",
                 "repo": "egghead.io_redux_course_notes",
-                "stars": 2560,
+                "stars": 2561,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:06.588Z"
@@ -1386,7 +1386,7 @@
                 "open_issues": 2,
                 "owner": "xkawi",
                 "repo": "react-universal-saga",
-                "stars": 183,
+                "stars": 182,
                 "topics": [
                   "react",
                   "redux",
@@ -2571,8 +2571,8 @@
                     "id": 39546089,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-03T04:30:00Z",
-                    "open_issues": 551,
+                    "last_commit": "2026-10-03T16:28:49Z",
+                    "open_issues": 146,
                     "owner": "endograph",
                     "repo": "redux-persist",
                     "stars": 12948,
@@ -2876,7 +2876,7 @@
                     "open_issues": 9,
                     "owner": "cyclejs-community",
                     "repo": "redux-cycles",
-                    "stars": 739,
+                    "stars": 738,
                     "topics": [
                       "cycle",
                       "cycle-driver",
@@ -4159,7 +4159,7 @@
                     "open_issues": 156,
                     "owner": "infinitered",
                     "repo": "reactotron",
-                    "stars": 15592,
+                    "stars": 15593,
                     "topics": [
                       "debugging",
                       "desktop",
@@ -4206,7 +4206,7 @@
                     "id": 38565895,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-03T00:27:59Z",
+                    "last_commit": "2026-10-03T17:48:07Z",
                     "open_issues": 143,
                     "owner": "reduxjs",
                     "repo": "redux-devtools",
@@ -4228,7 +4228,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2023-11-07T11:04:59Z",
-                    "open_issues": 265,
+                    "open_issues": 266,
                     "owner": "zalmoxisus",
                     "repo": "redux-devtools-extension",
                     "stars": 13441,
@@ -4341,7 +4341,7 @@
                     "open_issues": 11,
                     "owner": "redux-loop",
                     "repo": "redux-loop",
-                    "stars": 1949,
+                    "stars": 1948,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:06.588Z"
@@ -6871,7 +6871,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T18:02:29Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "mobxjs",
                 "repo": "mobx",
                 "stars": 28210,
@@ -7899,7 +7899,7 @@
             "open_issues": 118,
             "owner": "shakacode",
             "repo": "react_on_rails",
-            "stars": 5192,
+            "stars": 5193,
             "topics": [
               "heroku-deployment",
               "javascript-api",
@@ -8201,7 +8201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:04:27.567Z",
+    "last_updated": "2026-10-03T19:21:16.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Redux examples and middlewares",
@@ -8213,7 +8213,7 @@
       "open_issues": 32,
       "owner": "xgrommx",
       "repo": "awesome-redux",
-      "stars": 12287,
+      "stars": 12288,
       "topics": [
         "awesome",
         "awesome-list",
