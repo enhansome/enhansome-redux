@@ -4,7 +4,7 @@
 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,469 | 🐛 28 | 🌐 JavaScript | 📅 2026-09-30*
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,468 | 🐛 28 | 🌐 JavaScript | 📅 2026-09-30*
 
 * [Awesome Redux \*](#awesome-redux-)
   * [Redux](#redux)
@@ -49,7 +49,7 @@
 
 > List of repositories which use Redux
 
-## [Redux](https://github.com/reactjs/redux) ⭐ 61,483 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-30
+## [Redux](https://github.com/reactjs/redux) ⭐ 61,484 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-30
 
 ## [Documentation of Redux](http://redux.js.org)
 
@@ -294,12 +294,12 @@
 
 * Middlewares
 
-  * [**react-redux** - React bindings for Redux](https://github.com/rackt/react-redux) ⭐ 23,425 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-30
-  * [**reselect** - Selector library for Redux like in NuclearJS](https://github.com/reactjs/reselect) ⭐ 19,007 | 🐛 33 | 🌐 TypeScript | 📅 2026-09-30
-  * [**redux-thunk** - Thunk middleware for Redux](https://github.com/gaearon/redux-thunk) ⭐ 17,656 | 🐛 2 | 🌐 TypeScript | 📅 2025-03-16
-  * [**redux-persist-store** - Persist and rehydrate a redux store](https://github.com/rt2zz/redux-persist-store) ⭐ 12,948 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-03
-  * [**redux-observable** - RxJS 5-based middleware for Redux. Compose and cancel actions as epics.](https://github.com/redux-observable/redux-observable) ⭐ 7,804 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-11
-  * [**redux-actions** - Flux Standard Action utilities for Redux](https://github.com/acdlite/redux-actions) ⭐ 6,450 | 🐛 49 | 🌐 JavaScript | 📅 2024-07-21
+  * [**react-redux** - React bindings for Redux](https://github.com/rackt/react-redux) ⭐ 23,424 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-30
+  * [**reselect** - Selector library for Redux like in NuclearJS](https://github.com/reactjs/reselect) ⭐ 19,006 | 🐛 34 | 🌐 TypeScript | 📅 2026-09-30
+  * [**redux-thunk** - Thunk middleware for Redux](https://github.com/gaearon/redux-thunk) ⭐ 17,657 | 🐛 2 | 🌐 TypeScript | 📅 2025-03-16
+  * [**redux-persist-store** - Persist and rehydrate a redux store](https://github.com/rt2zz/redux-persist-store) ⭐ 12,948 | 🐛 29 | 🌐 TypeScript | 📅 2026-10-04
+  * [**redux-observable** - RxJS 5-based middleware for Redux. Compose and cancel actions as epics.](https://github.com/redux-observable/redux-observable) ⭐ 7,803 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-11
+  * [**redux-actions** - Flux Standard Action utilities for Redux](https://github.com/acdlite/redux-actions) ⭐ 6,449 | 🐛 49 | 🌐 JavaScript | 📅 2024-07-21
   * [**redux-logger** - Logger middleware for Redux](https://github.com/fcomb/redux-logger) ⭐ 5,710 | 🐛 58 | 🌐 JavaScript | 📅 2020-08-20
   * [**redux-undo** - Simple undo/redo functionality for redux state containers](https://github.com/omnidan/redux-undo) ⚠️ Archived
   * [**redux-promise** - FSA-compliant promise middleware for Redux](https://github.com/acdlite/redux-promise) ⭐ 2,643 | 🐛 41 | 🌐 JavaScript | 📅 2023-01-21
@@ -374,10 +374,10 @@
 
 * Tools
   * [**redux-saga** - An alternative side effect model for Redux apps](https://github.com/yelouafi/redux-saga) ⭐ 22,412 | 🐛 23 | 🌐 JavaScript | 📅 2026-09-13
-  * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron) ⭐ 15,593 | 🐛 156 | 🌐 TypeScript | 📅 2026-08-13
+  * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron) ⭐ 15,592 | 🐛 156 | 🌐 TypeScript | 📅 2026-08-13
   * [**recompose** - A microcomponentization toolkit for React](https://github.com/acdlite/recompose) ⚠️ Archived
-  * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools) ⭐ 14,367 | 🐛 143 | 🌐 TypeScript | 📅 2026-10-03
-  * [**redux-devtools-extension** - Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,441 | 🐛 266 | 🌐 JavaScript | 📅 2023-11-07
+  * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools) ⭐ 14,367 | 🐛 143 | 🌐 TypeScript | 📅 2026-10-04
+  * [**redux-devtools-extension** - Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,442 | 🐛 266 | 🌐 JavaScript | 📅 2023-11-07
   * [**redux-form** - An ES7 decorator for forms using Redux and React](https://github.com/erikras/redux-form) ⭐ 12,477 | 🐛 497 | 🌐 JavaScript | 📅 2024-06-13
   * [**react-router-redux** - Ruthlessly simple bindings to keep react-router and redux in sync](https://github.com/rackt/react-router-redux) ⚠️ Archived
   * [**redux-orm** - A small, simple and immutable ORM to manage data in your Redux store](https://github.com/tommikaikkonen/redux-orm) ⭐ 2,929 | 🐛 119 | 🌐 JavaScript | 📅 2023-01-16
@@ -395,7 +395,7 @@
   * [**redux-test-recorder** - Redux test recorder is a redux middleware + included component for automagically generating tests for your reducers based on the actions in your app](https://github.com/conorhastings/redux-test-recorder) ⭐ 490 | 🐛 2 | 🌐 JavaScript | 📅 2016-10-11
   * [**subdivide** - User defined UI layout: Every pane can be subdivided and any widget assigned to any pane](https://github.com/philholden/subdivide) ⭐ 434 | 🐛 9 | 🌐 JavaScript | 📅 2018-11-20
   * [**multireducer** - A utility to wrap many copies of a single Redux reducer into a single key-based reducer](https://github.com/erikras/multireducer) ⭐ 421 | 🐛 5 | 🌐 JavaScript | 📅 2018-05-04
-  * [**redux-saga-requests** - Redux-Saga addon to simplify handling of AJAX requests. It supports Axios and Fetch API.](https://github.com/klis87/redux-saga-requests) ⭐ 366 | 🐛 108 | 🌐 JavaScript | 📅 2026-10-01
+  * [**redux-saga-requests** - Redux-Saga addon to simplify handling of AJAX requests. It supports Axios and Fetch API.](https://github.com/klis87/redux-saga-requests) ⭐ 366 | 🐛 108 | 🌐 JavaScript | 📅 2026-10-04
   * [**immu** - A tiny, fail-fast, lazy, immutable Javascript objects library](https://github.com/scottcorgan/immu) ⭐ 353 | 🐛 5 | 🌐 JavaScript | 📅 2019-03-06
   * [**blue-chip** - Accepts payloads from GraphQL or JsonAPI servers, normalizes them into your store and provides an ORM like syntax for retrieving the data for use](https://github.com/mfpiccolo/blue-chip) ⭐ 330 | 🐛 17 | 🌐 JavaScript | 📅 2023-07-10
   * [**redux-store-visualizer** - Visualize Redux store in real time](https://github.com/romseguy/redux-store-visualizer) ⭐ 326 | 🐛 1 | 🌐 JavaScript | 📅 2024-06-28
@@ -504,10 +504,10 @@
 
 ### Similar libraries
 
-* [**mobx** - Simple, scalable state management](https://github.com/mobxjs/mobx) ⭐ 28,210 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-02
+* [**mobx** - Simple, scalable state management](https://github.com/mobxjs/mobx) ⭐ 28,212 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-02
 * [**rx-redux** - A reimplementation of redux using RxJS](https://github.com/jas-chen/rx-redux) ⭐ 415 | 🐛 0 | 🌐 JavaScript | 📅 2015-08-06
 * [**fluxette** - Minimalist, functional, and concise Flux](https://github.com/edge/fluxette) ⭐ 51 | 🐛 2 | 🌐 JavaScript | 📅 2015-09-10
-* [**bobflux** - Bobflux is pure functional implementation of FLUX pattern and is fitted to Bobril](https://github.com/karelsteinmetz/bobflux) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2022-10-04
+* [**bobflux** - Bobflux is pure functional implementation of FLUX pattern and is fitted to Bobril](https://github.com/karelsteinmetz/bobflux) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-04
 * [**refer** - Redux-like library for handling global state on functional style](https://github.com/Lucifier129/refer) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-25
 * [**understate** - A simple state manager](https://github.com/johnhenry/understate) ⭐ 7 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-24
 * [**chopped-redux** - A very small Flux implementation based on Redux](https://github.com/acstll/chopped-redux) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-08-26
@@ -644,7 +644,7 @@
 
 ## Ruby on Rails Resources
 
-* [react\_on\_rails gem](https://github.com/shakacode/react_on_rails) ⭐ 5,193 | 🐛 118 | 🌐 Ruby | 📅 2026-10-03
+* [react\_on\_rails gem](https://github.com/shakacode/react_on_rails) ⭐ 5,193 | 🐛 116 | 🌐 Ruby | 📅 2026-10-04
 * [React Webpack Rails Tutorial Using Redux](https://github.com/shakacode/react-webpack-rails-tutorial) ⭐ 1,718 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-02
 
 ## Other languages
@@ -669,4 +669,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
