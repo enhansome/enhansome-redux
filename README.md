@@ -49,7 +49,7 @@
 
 > List of repositories which use Redux
 
-## [Redux](https://github.com/reactjs/redux) ⭐ 61,482 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-05
+## [Redux](https://github.com/reactjs/redux) ⭐ 61,481 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-05
 
 ## [Documentation of Redux](http://redux.js.org)
 
@@ -92,8 +92,8 @@
 
 ### Resources
 
-* [Spectacle - ReactJS based Presentation Library](https://github.com/FormidableLabs/spectacle) ⭐ 10,170 | 🐛 77 | 🌐 TypeScript | 📅 2026-09-24
-* [A categorized list of Redux-related addons, libraries, and utilities](https://github.com/markerikson/redux-ecosystem-links) ⭐ 5,196 | 🐛 31 | 📅 2023-06-16
+* [Spectacle - ReactJS based Presentation Library](https://github.com/FormidableLabs/spectacle) ⭐ 10,171 | 🐛 77 | 🌐 TypeScript | 📅 2026-09-24
+* [A categorized list of Redux-related addons, libraries, and utilities](https://github.com/markerikson/redux-ecosystem-links) ⭐ 5,195 | 🐛 31 | 📅 2023-06-16
 * [Sound Redux - a simple Soundcloud client](https://github.com/andrewngu/sound-redux) ⭐ 4,972 | 🐛 71 | 🌐 JavaScript | 📅 2022-12-10
 * [Notes (and partial transcription) of Dan Abramov's Redux course videos on http://egghead.io](https://github.com/tayiorbeii/egghead.io_redux_course_notes) ⭐ 2,560 | 🐛 7 | 📅 2023-10-08
 * [Flux challenge](https://github.com/staltz/flux-challenge) ⚠️ Archived
@@ -374,11 +374,11 @@
 
 * Tools
   * [**redux-saga** - An alternative side effect model for Redux apps](https://github.com/yelouafi/redux-saga) ⭐ 22,412 | 🐛 23 | 🌐 JavaScript | 📅 2026-09-13
-  * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron) ⭐ 15,592 | 🐛 156 | 🌐 TypeScript | 📅 2026-08-13
+  * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron) ⭐ 15,591 | 🐛 156 | 🌐 TypeScript | 📅 2026-08-13
   * [**recompose** - A microcomponentization toolkit for React](https://github.com/acdlite/recompose) ⚠️ Archived
-  * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools) ⭐ 14,366 | 🐛 143 | 🌐 TypeScript | 📅 2026-10-05
-  * [**redux-devtools-extension** - Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,442 | 🐛 266 | 🌐 JavaScript | 📅 2023-11-07
-  * [**redux-form** - An ES7 decorator for forms using Redux and React](https://github.com/erikras/redux-form) ⭐ 12,477 | 🐛 497 | 🌐 JavaScript | 📅 2024-06-13
+  * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools) ⭐ 14,365 | 🐛 143 | 🌐 TypeScript | 📅 2026-10-05
+  * [**redux-devtools-extension** - Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,441 | 🐛 266 | 🌐 JavaScript | 📅 2023-11-07
+  * [**redux-form** - An ES7 decorator for forms using Redux and React](https://github.com/erikras/redux-form) ⭐ 12,476 | 🐛 497 | 🌐 JavaScript | 📅 2024-06-13
   * [**react-router-redux** - Ruthlessly simple bindings to keep react-router and redux in sync](https://github.com/rackt/react-router-redux) ⚠️ Archived
   * [**redux-orm** - A small, simple and immutable ORM to manage data in your Redux store](https://github.com/tommikaikkonen/redux-orm) ⭐ 2,929 | 🐛 119 | 🌐 JavaScript | 📅 2023-01-16
   * [**redux-loop** - Sequence your effects naturally and purely by returning them from your reducers](https://github.com/raisemarketplace/redux-loop) ⭐ 1,948 | 🐛 11 | 🌐 JavaScript | 📅 2024-03-19
@@ -623,7 +623,7 @@
 
 ### [Electron - Build cross platform desktop apps with web technologies](http://electron.atom.io/)
 
-* [electron-react-boilerplate (Electron + Redux + Hot Reload)](https://github.com/chentsulin/electron-react-boilerplate) ⭐ 24,251 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-15
+* [electron-react-boilerplate (Electron + Redux + Hot Reload)](https://github.com/chentsulin/electron-react-boilerplate) ⭐ 24,252 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-15
 
 ***
 
@@ -644,7 +644,7 @@
 
 ## Ruby on Rails Resources
 
-* [react\_on\_rails gem](https://github.com/shakacode/react_on_rails) ⭐ 5,193 | 🐛 120 | 🌐 Ruby | 📅 2026-10-05
+* [react\_on\_rails gem](https://github.com/shakacode/react_on_rails) ⭐ 5,193 | 🐛 119 | 🌐 Ruby | 📅 2026-10-06
 * [React Webpack Rails Tutorial Using Redux](https://github.com/shakacode/react-webpack-rails-tutorial) ⭐ 1,719 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-02
 
 ## Other languages
@@ -669,4 +669,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
