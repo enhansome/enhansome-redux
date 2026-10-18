@@ -4,7 +4,7 @@
 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,469 | 🐛 28 | 🌐 JavaScript | 📅 2026-09-30*
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,468 | 🐛 28 | 🌐 JavaScript | 📅 2026-09-30*
 
 * [Awesome Redux \*](#awesome-redux-)
   * [Redux](#redux)
@@ -49,7 +49,7 @@
 
 > List of repositories which use Redux
 
-## [Redux](https://github.com/reactjs/redux) ⭐ 61,475 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-05
+## [Redux](https://github.com/reactjs/redux) ⭐ 61,472 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-05
 
 ## [Documentation of Redux](http://redux.js.org)
 
@@ -199,8 +199,8 @@
 
 ### Boilerplate
 
-* [**react-boilerplate** - Performance orientated, offline-first boilerplate feat. hot-reloading, PostCSS and the best developer experience.](https://github.com/mxstbr/react-boilerplate) ⭐ 29,463 | 🐛 141 | 🌐 JavaScript | 📅 2023-03-23
-* [**react-redux-universal-hot-example** - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-hot-loader](https://github.com/erikras/react-redux-universal-hot-example) ⭐ 12,051 | 🐛 419 | 🌐 JavaScript | 📅 2024-08-02 :metal:
+* [**react-boilerplate** - Performance orientated, offline-first boilerplate feat. hot-reloading, PostCSS and the best developer experience.](https://github.com/mxstbr/react-boilerplate) ⭐ 29,462 | 🐛 141 | 🌐 JavaScript | 📅 2023-03-23
+* [**react-redux-universal-hot-example** - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-hot-loader](https://github.com/erikras/react-redux-universal-hot-example) ⭐ 12,052 | 🐛 419 | 🌐 JavaScript | 📅 2024-08-02 :metal:
 * [**react-production-starter** - React boilerplate with isomorphic rendering, async react-router routes, async redux reducers, async data fetching, and code-splitting.](https://github.com/jaredpalmer/react-production-starter) ⭐ 11,018 | 🐛 135 | 🌐 JavaScript | 📅 2024-03-11 :metal: :fire:
 * [**react-redux-starter-kit** - Get started with React, Redux, and React-Router.](https://github.com/davezuko/react-redux-starter-kit) ⚠️ Archived
 * [**react-slingshot** - React Redux Starter Kit with hot reloading, tests and example app](https://github.com/coryhouse/react-slingshot) ⭐ 9,626 | 🐛 88 | 🌐 JavaScript | 📅 2023-09-26
@@ -209,7 +209,7 @@
 * [**StarHackIt** - An React/Redux Node full-stack starter kit with authentication and authorization code](https://github.com/FredericHeem/starhackit) ⭐ 1,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-12-16
 * [**simplest-redux-example** - Simplest Redux + React example for beginners](https://github.com/jackielii/simplest-redux-example) ⭐ 1,171 | 🐛 8 | 🌐 JavaScript | 📅 2023-05-20
 * [**redux-blog-example** - Redux-Webpack-Babel Blog Platform boilerplate](https://github.com/GetExpert/redux-blog-example) ⭐ 993 | 🐛 14 | 🌐 JavaScript | 📅 2025-06-26
-* [**3ree** - Boilerplate & Demo for Universal Realtime Apps built with React + Redux + RethinkDB + Express](https://github.com/GordyD/3ree) ⭐ 840 | 🐛 4 | 🌐 JavaScript | 📅 2018-10-06
+* [**3ree** - Boilerplate & Demo for Universal Realtime Apps built with React + Redux + RethinkDB + Express](https://github.com/GordyD/3ree) ⭐ 839 | 🐛 4 | 🌐 JavaScript | 📅 2018-10-06
 * [**vortigern** - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.](https://github.com/barbar/vortigern) ⭐ 635 | 🐛 24 | 🌐 TypeScript | 📅 2020-06-13
 * [**redux-easy-boilerplate** - React Redux easy boilerplate](https://github.com/anorudes/redux-easy-boilerplate) ⭐ 630 | 🐛 5 | 🌐 JavaScript | 📅 2017-02-05
 * [**Modern and Scalable React/Redux Boilerplate** - Flexible starter kit using Webpack 2 (tree-shaking) / React Hot Loader v3 / Code Splitting for React Router / PostCSS / CSS Modules / custom *Ducks pattern* app architecture / best practices / Sentry error tracking / Enzyme test environment](https://github.com/nicksp/redux-webpack-es6-boilerplate) ⚠️ Archived :rocket:
@@ -373,12 +373,12 @@
   * [**@reactive-crystal/redux-websocket** - Redux Websocket middleware, reducer and protocol router. ](https://www.npmjs.com/package/@reactive-crystal/redux-websocket)
 
 * Tools
-  * [**redux-saga** - An alternative side effect model for Redux apps](https://github.com/yelouafi/redux-saga) ⭐ 22,411 | 🐛 24 | 🌐 JavaScript | 📅 2026-09-13
-  * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron) ⭐ 15,590 | 🐛 156 | 🌐 TypeScript | 📅 2026-08-13
+  * [**redux-saga** - An alternative side effect model for Redux apps](https://github.com/yelouafi/redux-saga) ⭐ 22,410 | 🐛 25 | 🌐 JavaScript | 📅 2026-10-18
+  * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron) ⭐ 15,592 | 🐛 156 | 🌐 TypeScript | 📅 2026-08-13
   * [**recompose** - A microcomponentization toolkit for React](https://github.com/acdlite/recompose) ⚠️ Archived
-  * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools) ⭐ 14,368 | 🐛 142 | 🌐 TypeScript | 📅 2026-10-17
-  * [**redux-devtools-extension** - Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,436 | 🐛 265 | 🌐 JavaScript | 📅 2023-11-07
-  * [**redux-form** - An ES7 decorator for forms using Redux and React](https://github.com/erikras/redux-form) ⭐ 12,474 | 🐛 496 | 🌐 JavaScript | 📅 2024-06-13
+  * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools) ⭐ 14,368 | 🐛 144 | 🌐 TypeScript | 📅 2026-10-18
+  * [**redux-devtools-extension** - Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,437 | 🐛 265 | 🌐 JavaScript | 📅 2023-11-07
+  * [**redux-form** - An ES7 decorator for forms using Redux and React](https://github.com/erikras/redux-form) ⭐ 12,473 | 🐛 496 | 🌐 JavaScript | 📅 2024-06-13
   * [**react-router-redux** - Ruthlessly simple bindings to keep react-router and redux in sync](https://github.com/rackt/react-router-redux) ⚠️ Archived
   * [**redux-orm** - A small, simple and immutable ORM to manage data in your Redux store](https://github.com/tommikaikkonen/redux-orm) ⭐ 2,929 | 🐛 119 | 🌐 JavaScript | 📅 2023-01-16
   * [**redux-loop** - Sequence your effects naturally and purely by returning them from your reducers](https://github.com/raisemarketplace/redux-loop) ⭐ 1,948 | 🐛 11 | 🌐 JavaScript | 📅 2024-03-19
@@ -623,13 +623,13 @@
 
 ### [Electron - Build cross platform desktop apps with web technologies](http://electron.atom.io/)
 
-* [electron-react-boilerplate (Electron + Redux + Hot Reload)](https://github.com/chentsulin/electron-react-boilerplate) ⭐ 24,253 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-12
+* [electron-react-boilerplate (Electron + Redux + Hot Reload)](https://github.com/chentsulin/electron-react-boilerplate) ⭐ 24,255 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-12
 
 ***
 
 ### [A-Frame - A web framework for building VR experiences](https://aframe.io)
 
-* [aframe-redux-component](https://github.com/ngokevin/kframe/tree/master/components/redux) ⭐ 1,411 | 🐛 92 | 🌐 JavaScript | 📅 2026-05-29
+* [aframe-redux-component](https://github.com/ngokevin/kframe/tree/master/components/redux) ⭐ 1,412 | 🐛 92 | 🌐 JavaScript | 📅 2026-05-29
 
 ***
 
@@ -644,7 +644,7 @@
 
 ## Ruby on Rails Resources
 
-* [react\_on\_rails gem](https://github.com/shakacode/react_on_rails) ⭐ 5,193 | 🐛 118 | 🌐 Ruby | 📅 2026-10-17
+* [react\_on\_rails gem](https://github.com/shakacode/react_on_rails) ⭐ 5,193 | 🐛 121 | 🌐 Ruby | 📅 2026-10-18
 * [React Webpack Rails Tutorial Using Redux](https://github.com/shakacode/react-webpack-rails-tutorial) ⭐ 1,720 | 🐛 19 | 🌐 JavaScript | 📅 2026-10-17
 
 ## Other languages
@@ -669,4 +669,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

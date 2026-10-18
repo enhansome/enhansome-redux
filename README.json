@@ -18,7 +18,7 @@
             "open_issues": 15,
             "owner": "reduxjs",
             "repo": "redux",
-            "stars": 61475,
+            "stars": 61472,
             "topics": [
               "redux"
             ]
@@ -746,7 +746,7 @@
                 "open_issues": 141,
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29463,
+                "stars": 29462,
                 "topics": [
                   "i18n",
                   "immer",
@@ -778,7 +778,7 @@
                 "open_issues": 419,
                 "owner": "erikras",
                 "repo": "react-redux-universal-hot-example",
-                "stars": 12051,
+                "stars": 12052,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:06.588Z"
@@ -1008,7 +1008,7 @@
                 "open_issues": 4,
                 "owner": "GordyD",
                 "repo": "3ree",
-                "stars": 840,
+                "stars": 839,
                 "topics": [
                   "boilerplate",
                   "express",
@@ -4128,11 +4128,11 @@
                     "id": 47071941,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-13T14:13:14Z",
-                    "open_issues": 24,
+                    "last_commit": "2026-10-18T14:12:30Z",
+                    "open_issues": 25,
                     "owner": "redux-saga",
                     "repo": "redux-saga",
-                    "stars": 22411,
+                    "stars": 22410,
                     "topics": [
                       "effects",
                       "middleware",
@@ -4159,7 +4159,7 @@
                     "open_issues": 156,
                     "owner": "infinitered",
                     "repo": "reactotron",
-                    "stars": 15590,
+                    "stars": 15592,
                     "topics": [
                       "debugging",
                       "desktop",
@@ -4206,8 +4206,8 @@
                     "id": 38565895,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-17T13:27:35Z",
-                    "open_issues": 142,
+                    "last_commit": "2026-10-18T08:28:09Z",
+                    "open_issues": 144,
                     "owner": "reduxjs",
                     "repo": "redux-devtools",
                     "stars": 14368,
@@ -4231,7 +4231,7 @@
                     "open_issues": 265,
                     "owner": "zalmoxisus",
                     "repo": "redux-devtools-extension",
-                    "stars": 13436,
+                    "stars": 13437,
                     "topics": [
                       "debug",
                       "devtools",
@@ -4258,7 +4258,7 @@
                     "open_issues": 496,
                     "owner": "redux-form",
                     "repo": "redux-form",
-                    "stars": 12474,
+                    "stars": 12473,
                     "topics": [
                       "form",
                       "form-validation",
@@ -6248,7 +6248,7 @@
                     "open_issues": 26,
                     "owner": "rematch",
                     "repo": "rematch",
-                    "stars": 8394,
+                    "stars": 8393,
                     "topics": [
                       "angular",
                       "hacktoberfest",
@@ -7747,7 +7747,7 @@
                 "open_issues": 11,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24253,
+                "stars": 24255,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -7784,7 +7784,7 @@
                 "open_issues": 92,
                 "owner": "supermedium",
                 "repo": "superframe",
-                "stars": 1411,
+                "stars": 1412,
                 "topics": [
                   "aframe",
                   "virtual-reality",
@@ -7895,8 +7895,8 @@
             "id": 41117523,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-17T12:16:33Z",
-            "open_issues": 118,
+            "last_commit": "2026-10-18T12:06:03Z",
+            "open_issues": 121,
             "owner": "shakacode",
             "repo": "react_on_rails",
             "stars": 5193,
@@ -8201,7 +8201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T18:43:05.931Z",
+    "last_updated": "2026-10-18T18:47:04.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Redux examples and middlewares",
