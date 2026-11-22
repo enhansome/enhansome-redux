@@ -479,7 +479,7 @@
                 "open_issues": 36,
                 "owner": "erikras",
                 "repo": "ducks-modular-redux",
-                "stars": 9526,
+                "stars": 9525,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:06.588Z"
@@ -746,7 +746,7 @@
                 "open_issues": 141,
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29440,
+                "stars": 29439,
                 "topics": [
                   "i18n",
                   "immer",
@@ -2502,11 +2502,11 @@
                     "id": 38934449,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-21T21:46:03Z",
-                    "open_issues": 16,
+                    "last_commit": "2026-11-22T16:42:36Z",
+                    "open_issues": 12,
                     "owner": "reduxjs",
                     "repo": "react-redux",
-                    "stars": 23421,
+                    "stars": 23422,
                     "topics": [
                       "react",
                       "redux"
@@ -4206,7 +4206,7 @@
                     "id": 38565895,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-21T21:24:41Z",
+                    "last_commit": "2026-11-22T12:51:32Z",
                     "open_issues": 149,
                     "owner": "reduxjs",
                     "repo": "redux-devtools",
@@ -6248,7 +6248,7 @@
                     "open_issues": 26,
                     "owner": "rematch",
                     "repo": "rematch",
-                    "stars": 8389,
+                    "stars": 8388,
                     "topics": [
                       "angular",
                       "hacktoberfest",
@@ -6284,7 +6284,7 @@
                     "open_issues": 80,
                     "owner": "relax",
                     "repo": "relax",
-                    "stars": 8087,
+                    "stars": 8088,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:06.588Z"
@@ -6334,7 +6334,7 @@
                     "open_issues": 27,
                     "owner": "ctrlplusb",
                     "repo": "easy-peasy",
-                    "stars": 5040,
+                    "stars": 5039,
                     "topics": [
                       "hooks",
                       "immer",
@@ -6871,10 +6871,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-21T15:40:17Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28216,
+                "stars": 28217,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -7747,7 +7747,7 @@
                 "open_issues": 15,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24250,
+                "stars": 24249,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -7895,8 +7895,8 @@
             "id": 41117523,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-21T20:03:48Z",
-            "open_issues": 88,
+            "last_commit": "2026-11-22T17:00:58Z",
+            "open_issues": 87,
             "owner": "shakacode",
             "repo": "react_on_rails",
             "stars": 5191,
@@ -8201,7 +8201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T21:48:07.174Z",
+    "last_updated": "2026-11-22T21:55:40.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Redux examples and middlewares",
@@ -8213,7 +8213,7 @@
       "open_issues": 32,
       "owner": "xgrommx",
       "repo": "awesome-redux",
-      "stars": 12302,
+      "stars": 12303,
       "topics": [
         "awesome",
         "awesome-list",
