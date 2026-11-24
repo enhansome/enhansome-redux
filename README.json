@@ -14,11 +14,11 @@
             "id": 36535156,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T15:15:47Z",
+            "last_commit": "2026-11-24T01:27:39Z",
             "open_issues": 17,
             "owner": "reduxjs",
             "repo": "redux",
-            "stars": 61438,
+            "stars": 61433,
             "topics": [
               "redux"
             ]
@@ -153,11 +153,11 @@
                 "id": 38331796,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-15T11:04:03Z",
-                "open_issues": 85,
+                "last_commit": "2026-11-23T17:16:38Z",
+                "open_issues": 75,
                 "owner": "FormidableLabs",
                 "repo": "spectacle",
-                "stars": 10197,
+                "stars": 10198,
                 "topics": [
                   "keynote",
                   "presentation",
@@ -479,7 +479,7 @@
                 "open_issues": 36,
                 "owner": "erikras",
                 "repo": "ducks-modular-redux",
-                "stars": 9525,
+                "stars": 9524,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:06.588Z"
@@ -746,7 +746,7 @@
                 "open_issues": 141,
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29439,
+                "stars": 29436,
                 "topics": [
                   "i18n",
                   "immer",
@@ -2502,11 +2502,11 @@
                     "id": 38934449,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-22T16:42:36Z",
+                    "last_commit": "2026-11-24T02:34:27Z",
                     "open_issues": 12,
                     "owner": "reduxjs",
                     "repo": "react-redux",
-                    "stars": 23422,
+                    "stars": 23423,
                     "topics": [
                       "react",
                       "redux"
@@ -2527,7 +2527,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-28T14:18:11Z",
-                    "open_issues": 43,
+                    "open_issues": 42,
                     "owner": "reduxjs",
                     "repo": "reselect",
                     "stars": 19000,
@@ -2554,7 +2554,7 @@
                     "open_issues": 3,
                     "owner": "reduxjs",
                     "repo": "redux-thunk",
-                    "stars": 17653,
+                    "stars": 17654,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:06.588Z"
@@ -2575,7 +2575,7 @@
                     "open_issues": 1,
                     "owner": "endograph",
                     "repo": "redux-persist",
-                    "stars": 12950,
+                    "stars": 12951,
                     "topics": [
                       "persistor",
                       "redux",
@@ -4132,7 +4132,7 @@
                     "open_issues": 18,
                     "owner": "redux-saga",
                     "repo": "redux-saga",
-                    "stars": 22410,
+                    "stars": 22409,
                     "topics": [
                       "effects",
                       "middleware",
@@ -4206,7 +4206,7 @@
                     "id": 38565895,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-22T12:51:32Z",
+                    "last_commit": "2026-11-23T22:47:25Z",
                     "open_issues": 149,
                     "owner": "reduxjs",
                     "repo": "redux-devtools",
@@ -4231,7 +4231,7 @@
                     "open_issues": 265,
                     "owner": "zalmoxisus",
                     "repo": "redux-devtools-extension",
-                    "stars": 13430,
+                    "stars": 13429,
                     "topics": [
                       "debug",
                       "devtools",
@@ -5694,31 +5694,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "redux-store-validator - Add validation to your Redux reducers",
-                  "description": "alixander/redux-store-validator",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": "Add validation to your Redux reducers",
-                    "homepage": null,
-                    "id": 81676099,
-                    "language": "JavaScript",
-                    "license": "MIT",
-                    "last_commit": "2017-02-19T02:18:32Z",
-                    "open_issues": 0,
-                    "owner": "alixander",
-                    "repo": "redux-store-validator",
-                    "stars": 25,
-                    "topics": [
-                      "javascript",
-                      "react",
-                      "redux"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T00:37:06.588Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "replux - Self contained components and enhancements for Redux",
                   "description": "gregthebusker/replux",
                   "children": [],
@@ -5756,6 +5731,31 @@
                     "repo": "entman",
                     "stars": 25,
                     "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:37:06.588Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "redux-store-validator - Add validation to your Redux reducers",
+                  "description": "alixander/redux-store-validator",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "Add validation to your Redux reducers",
+                    "homepage": null,
+                    "id": 81676099,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2017-02-19T02:18:32Z",
+                    "open_issues": 0,
+                    "owner": "alixander",
+                    "repo": "redux-store-validator",
+                    "stars": 24,
+                    "topics": [
+                      "javascript",
+                      "react",
+                      "redux"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:37:06.588Z"
                 },
@@ -6221,7 +6221,7 @@
                     "open_issues": 30,
                     "owner": "dvajs",
                     "repo": "dva",
-                    "stars": 16123,
+                    "stars": 16122,
                     "topics": [
                       "dva",
                       "elm",
@@ -6334,7 +6334,7 @@
                     "open_issues": 27,
                     "owner": "ctrlplusb",
                     "repo": "easy-peasy",
-                    "stars": 5039,
+                    "stars": 5040,
                     "topics": [
                       "hooks",
                       "immer",
@@ -6460,7 +6460,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-05-09T22:25:10Z",
-                    "open_issues": 9,
+                    "open_issues": 8,
                     "owner": "anish000kumar",
                     "repo": "redux-box",
                     "stars": 703,
@@ -6870,11 +6870,11 @@
                 "id": 32215970,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-21T15:40:17Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-23T17:10:06Z",
+                "open_issues": 18,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28217,
+                "stars": 28215,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -7747,7 +7747,7 @@
                 "open_issues": 15,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24249,
+                "stars": 24248,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -7895,8 +7895,8 @@
             "id": 41117523,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-22T17:00:58Z",
-            "open_issues": 87,
+            "last_commit": "2026-11-23T20:49:08Z",
+            "open_issues": 91,
             "owner": "shakacode",
             "repo": "react_on_rails",
             "stars": 5191,
@@ -8106,7 +8106,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7581,
+                "stars": 7580,
                 "topics": [
                   "redux",
                   "reswift",
@@ -8132,7 +8132,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7581,
+                "stars": 7580,
                 "topics": [
                   "redux",
                   "reswift",
@@ -8201,7 +8201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T21:55:40.287Z",
+    "last_updated": "2026-11-24T02:58:52.693Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Redux examples and middlewares",
