@@ -18,7 +18,7 @@
             "open_issues": 17,
             "owner": "reduxjs",
             "repo": "redux",
-            "stars": 61433,
+            "stars": 61427,
             "topics": [
               "redux"
             ]
@@ -153,7 +153,7 @@
                 "id": 38331796,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-23T17:16:38Z",
+                "last_commit": "2026-11-24T15:46:15Z",
                 "open_issues": 75,
                 "owner": "FormidableLabs",
                 "repo": "spectacle",
@@ -262,7 +262,7 @@
                 "open_issues": 12,
                 "owner": "staltz",
                 "repo": "flux-challenge",
-                "stars": 1641,
+                "stars": 1640,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:06.588Z"
@@ -577,7 +577,7 @@
                 "open_issues": 2,
                 "owner": "lewis617",
                 "repo": "react-redux-tutorial",
-                "stars": 2200,
+                "stars": 2199,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:06.588Z"
@@ -746,7 +746,7 @@
                 "open_issues": 141,
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29436,
+                "stars": 29435,
                 "topics": [
                   "i18n",
                   "immer",
@@ -778,7 +778,7 @@
                 "open_issues": 419,
                 "owner": "erikras",
                 "repo": "react-redux-universal-hot-example",
-                "stars": 12051,
+                "stars": 12050,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:06.588Z"
@@ -799,7 +799,7 @@
                 "open_issues": 135,
                 "owner": "jaredpalmer",
                 "repo": "razzle",
-                "stars": 11021,
+                "stars": 11020,
                 "topics": [
                   "isomorphic",
                   "javascript",
@@ -1846,7 +1846,7 @@
               "description": "Keats/react-ts-boilerplate",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "A React + Typescript + Sass boilerplate",
                 "homepage": null,
                 "id": 37415307,
@@ -2506,7 +2506,7 @@
                     "open_issues": 12,
                     "owner": "reduxjs",
                     "repo": "react-redux",
-                    "stars": 23423,
+                    "stars": 23422,
                     "topics": [
                       "react",
                       "redux"
@@ -2530,7 +2530,7 @@
                     "open_issues": 42,
                     "owner": "reduxjs",
                     "repo": "reselect",
-                    "stars": 19000,
+                    "stars": 18999,
                     "topics": [
                       "memoized-selectors",
                       "redux"
@@ -2554,7 +2554,7 @@
                     "open_issues": 3,
                     "owner": "reduxjs",
                     "repo": "redux-thunk",
-                    "stars": 17654,
+                    "stars": 17653,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:06.588Z"
@@ -4128,11 +4128,11 @@
                     "id": 47071941,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-15T14:12:59Z",
-                    "open_issues": 18,
+                    "last_commit": "2026-11-24T17:33:17Z",
+                    "open_issues": 15,
                     "owner": "redux-saga",
                     "repo": "redux-saga",
-                    "stars": 22409,
+                    "stars": 22410,
                     "topics": [
                       "effects",
                       "middleware",
@@ -4159,7 +4159,7 @@
                     "open_issues": 157,
                     "owner": "infinitered",
                     "repo": "reactotron",
-                    "stars": 15601,
+                    "stars": 15600,
                     "topics": [
                       "debugging",
                       "desktop",
@@ -4189,7 +4189,7 @@
                     "open_issues": 122,
                     "owner": "acdlite",
                     "repo": "recompose",
-                    "stars": 14753,
+                    "stars": 14752,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:06.588Z"
@@ -4206,7 +4206,7 @@
                     "id": 38565895,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-23T22:47:25Z",
+                    "last_commit": "2026-11-25T00:32:01Z",
                     "open_issues": 149,
                     "owner": "reduxjs",
                     "repo": "redux-devtools",
@@ -4231,7 +4231,7 @@
                     "open_issues": 265,
                     "owner": "zalmoxisus",
                     "repo": "redux-devtools-extension",
-                    "stars": 13429,
+                    "stars": 13428,
                     "topics": [
                       "debug",
                       "devtools",
@@ -4258,7 +4258,7 @@
                     "open_issues": 496,
                     "owner": "redux-form",
                     "repo": "redux-form",
-                    "stars": 12473,
+                    "stars": 12472,
                     "topics": [
                       "form",
                       "form-validation",
@@ -4287,7 +4287,7 @@
                     "open_issues": 1,
                     "owner": "reactjs",
                     "repo": "react-router-redux",
-                    "stars": 7731,
+                    "stars": 7730,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:06.588Z"
@@ -4655,7 +4655,7 @@
                     "id": 103126229,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-20T19:13:58Z",
+                    "last_commit": "2026-11-25T00:12:35Z",
                     "open_issues": 109,
                     "owner": "klis87",
                     "repo": "redux-requests",
@@ -6221,7 +6221,7 @@
                     "open_issues": 30,
                     "owner": "dvajs",
                     "repo": "dva",
-                    "stars": 16122,
+                    "stars": 16121,
                     "topics": [
                       "dva",
                       "elm",
@@ -6874,7 +6874,7 @@
                 "open_issues": 18,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28215,
+                "stars": 28214,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -7081,7 +7081,7 @@
             "open_issues": 32,
             "owner": "anthonyshort",
             "repo": "deku",
-            "stars": 3385,
+            "stars": 3384,
             "topics": []
           },
           "title": "Deku - Functional view library for building UI components as an alternative to React",
@@ -7747,7 +7747,7 @@
                 "open_issues": 15,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24248,
+                "stars": 24247,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -7895,8 +7895,8 @@
             "id": 41117523,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T20:49:08Z",
-            "open_issues": 91,
+            "last_commit": "2026-11-24T21:14:35Z",
+            "open_issues": 93,
             "owner": "shakacode",
             "repo": "react_on_rails",
             "stars": 5191,
@@ -8201,7 +8201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T02:58:52.693Z",
+    "last_updated": "2026-11-25T00:58:45.762Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Redux examples and middlewares",

@@ -49,7 +49,7 @@
 
 > List of repositories which use Redux
 
-## [Redux](https://github.com/reactjs/redux) ⭐ 61,433 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-24
+## [Redux](https://github.com/reactjs/redux) ⭐ 61,427 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-24
 
 ## [Documentation of Redux](http://redux.js.org)
 
@@ -92,7 +92,7 @@
 
 ### Resources
 
-* [Spectacle - ReactJS based Presentation Library](https://github.com/FormidableLabs/spectacle) ⭐ 10,198 | 🐛 75 | 🌐 TypeScript | 📅 2026-11-23
+* [Spectacle - ReactJS based Presentation Library](https://github.com/FormidableLabs/spectacle) ⭐ 10,198 | 🐛 75 | 🌐 TypeScript | 📅 2026-11-24
 * [A categorized list of Redux-related addons, libraries, and utilities](https://github.com/markerikson/redux-ecosystem-links) ⭐ 5,192 | 🐛 31 | 📅 2023-06-16
 * [Sound Redux - a simple Soundcloud client](https://github.com/andrewngu/sound-redux) ⭐ 4,965 | 🐛 71 | 🌐 JavaScript | 📅 2022-12-10
 * [Notes (and partial transcription) of Dan Abramov's Redux course videos on http://egghead.io](https://github.com/tayiorbeii/egghead.io_redux_course_notes) ⭐ 2,558 | 🐛 7 | 📅 2023-10-08
@@ -121,7 +121,7 @@
 * [深入浅出 Redux](https://github.com/berwin/Blog/issues/4) ⭐ 4,141 | 🐛 54 | 🌐 JavaScript | 📅 2022-09-20
 * [Learn how to use Redux step by step](https://github.com/happypoulp/redux-tutorial) ⭐ 3,723 | 🐛 19 | 🌐 JavaScript | 📅 2021-05-01
 * [Redux Chinese Document](https://github.com/camsong/redux-in-chinese) ⭐ 3,451 | 🐛 11 | 🌐 JavaScript | 📅 2024-06-20
-* [React+Redux系列教程](https://github.com/lewis617/react-redux-tutorial) ⭐ 2,200 | 🐛 2 | 🌐 JavaScript | 📅 2021-10-01
+* [React+Redux系列教程](https://github.com/lewis617/react-redux-tutorial) ⭐ 2,199 | 🐛 2 | 🌐 JavaScript | 📅 2021-10-01
 * [Full-Stack Redux Tutorial - A Comprehensive Guide to Test-First Development with Redux, React, and Immutable](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) Source [Server](https://github.com/teropa/redux-voting-server) ⭐ 578 | 🐛 2 | 🌐 JavaScript | 📅 2017-01-26 + [Client](https://github.com/teropa/redux-voting-client) ⭐ 368 | 🐛 10 | 🌐 JavaScript | 📅 2017-05-25
 * [Redux Document (Traditional Chinese)](https://github.com/chentsulin/redux) ⭐ 199 | 🐛 6 | 🌐 JavaScript | 📅 2017-12-06
 * [Building a boilerplate for a Koa, Redux, React application including Webpack, Mocha and SASS](http://blog.joanboixados.com/building-a-boilerplate-for-a-koa-redux-react-application-including-webpack-mocha-and-sass/) - This article explains in detail how [this koa-redux-react-boilerplate](https://github.com/mezod/boilerplate-koa-redux-react) ⭐ 160 | 🐛 1 | 🌐 JavaScript | 📅 2017-07-04 was built and the technologies it uses.
@@ -199,9 +199,9 @@
 
 ### Boilerplate
 
-* [**react-boilerplate** - Performance orientated, offline-first boilerplate feat. hot-reloading, PostCSS and the best developer experience.](https://github.com/mxstbr/react-boilerplate) ⭐ 29,436 | 🐛 141 | 🌐 JavaScript | 📅 2023-03-23
-* [**react-redux-universal-hot-example** - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-hot-loader](https://github.com/erikras/react-redux-universal-hot-example) ⭐ 12,051 | 🐛 419 | 🌐 JavaScript | 📅 2024-08-02 :metal:
-* [**react-production-starter** - React boilerplate with isomorphic rendering, async react-router routes, async redux reducers, async data fetching, and code-splitting.](https://github.com/jaredpalmer/react-production-starter) ⭐ 11,021 | 🐛 135 | 🌐 JavaScript | 📅 2024-03-11 :metal: :fire:
+* [**react-boilerplate** - Performance orientated, offline-first boilerplate feat. hot-reloading, PostCSS and the best developer experience.](https://github.com/mxstbr/react-boilerplate) ⭐ 29,435 | 🐛 141 | 🌐 JavaScript | 📅 2023-03-23
+* [**react-redux-universal-hot-example** - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-hot-loader](https://github.com/erikras/react-redux-universal-hot-example) ⭐ 12,050 | 🐛 419 | 🌐 JavaScript | 📅 2024-08-02 :metal:
+* [**react-production-starter** - React boilerplate with isomorphic rendering, async react-router routes, async redux reducers, async data fetching, and code-splitting.](https://github.com/jaredpalmer/react-production-starter) ⭐ 11,020 | 🐛 135 | 🌐 JavaScript | 📅 2024-03-11 :metal: :fire:
 * [**react-redux-starter-kit** - Get started with React, Redux, and React-Router.](https://github.com/davezuko/react-redux-starter-kit) ⚠️ Archived
 * [**react-slingshot** - React Redux Starter Kit with hot reloading, tests and example app](https://github.com/coryhouse/react-slingshot) ⭐ 9,621 | 🐛 87 | 🌐 JavaScript | 📅 2023-09-26
 * [**mern.io** - Simple full-stack boilerplate to get started with building isomorphic/universal apps, handles api part and also offers a cli to generate the boilerplate](https://github.com/hashnode/mern-starter) ⭐ 5,131 | 🐛 57 | 🌐 JavaScript | 📅 2023-02-02 :metal: :fire:
@@ -243,7 +243,7 @@
 * [**Reduxible** - The Fast and Easy way to make a React + Redux apps](https://github.com/Pitzcarraldo/reduxible) ⚠️ Archived
 * [**redux-boilerplate** - Boilerplate for Redux](https://github.com/ellbee/redux-boilerplate) ⭐ 40 | 🐛 0 | 🌐 JavaScript | 📅 2017-03-25
 * [**cra-template-redux-auth-starter** - A Redux auth starter boilerplate for CRA](https://github.com/Nilanth/cra-template-redux-auth-starter) ⭐ 35 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-27
-* [**react-boilerplate** - React + Typescript + Sass boilerplate](https://github.com/Keats/react-boilerplate) ⭐ 33 | 🐛 1 | 🌐 TypeScript | 📅 2015-08-19
+* [**react-boilerplate** - React + Typescript + Sass boilerplate](https://github.com/Keats/react-boilerplate) ⚠️ Archived
 * [**redux-react-material-boilerplate** - Simple boilerplate inc. React, Redux, Hot reload and Material-ui](https://github.com/WapGeaR/redux-react-material-boilerplate) ⭐ 33 | 🐛 1 | 🌐 JavaScript | 📅 2016-01-27
 * [**react\_scaffolding** - React + React Router 1.0 + Redux + Webpack & Hot Module Replacement](https://github.com/rafaelchiti/react_scaffolding) ⚠️ Archived
 * [**React/Redux simple CRUD** with persistent state and local async actions (add a manifest file and you get an offline webapp) ](https://github.com/cristianszwarc/react_crud_localStorage) ⭐ 28 | 🐛 0 | 🌐 JavaScript | 📅 2016-04-01
@@ -294,9 +294,9 @@
 
 * Middlewares
 
-  * [**react-redux** - React bindings for Redux](https://github.com/rackt/react-redux) ⭐ 23,423 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-24
-  * [**reselect** - Selector library for Redux like in NuclearJS](https://github.com/reactjs/reselect) ⭐ 19,000 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-28
-  * [**redux-thunk** - Thunk middleware for Redux](https://github.com/gaearon/redux-thunk) ⭐ 17,654 | 🐛 3 | 🌐 TypeScript | 📅 2025-03-16
+  * [**react-redux** - React bindings for Redux](https://github.com/rackt/react-redux) ⭐ 23,422 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-24
+  * [**reselect** - Selector library for Redux like in NuclearJS](https://github.com/reactjs/reselect) ⭐ 18,999 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-28
+  * [**redux-thunk** - Thunk middleware for Redux](https://github.com/gaearon/redux-thunk) ⭐ 17,653 | 🐛 3 | 🌐 TypeScript | 📅 2025-03-16
   * [**redux-persist-store** - Persist and rehydrate a redux store](https://github.com/rt2zz/redux-persist-store) ⭐ 12,951 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-03
   * [**redux-observable** - RxJS 5-based middleware for Redux. Compose and cancel actions as epics.](https://github.com/redux-observable/redux-observable) ⭐ 7,804 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-11
   * [**redux-actions** - Flux Standard Action utilities for Redux](https://github.com/acdlite/redux-actions) ⭐ 6,443 | 🐛 49 | 🌐 JavaScript | 📅 2024-07-21
@@ -373,12 +373,12 @@
   * [**@reactive-crystal/redux-websocket** - Redux Websocket middleware, reducer and protocol router. ](https://www.npmjs.com/package/@reactive-crystal/redux-websocket)
 
 * Tools
-  * [**redux-saga** - An alternative side effect model for Redux apps](https://github.com/yelouafi/redux-saga) ⭐ 22,409 | 🐛 18 | 🌐 JavaScript | 📅 2026-11-15
-  * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron) ⭐ 15,601 | 🐛 157 | 🌐 TypeScript | 📅 2026-11-12
+  * [**redux-saga** - An alternative side effect model for Redux apps](https://github.com/yelouafi/redux-saga) ⭐ 22,410 | 🐛 15 | 🌐 JavaScript | 📅 2026-11-24
+  * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron) ⭐ 15,600 | 🐛 157 | 🌐 TypeScript | 📅 2026-11-12
   * [**recompose** - A microcomponentization toolkit for React](https://github.com/acdlite/recompose) ⚠️ Archived
-  * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools) ⭐ 14,375 | 🐛 149 | 🌐 TypeScript | 📅 2026-11-23
-  * [**redux-devtools-extension** - Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,429 | 🐛 265 | 🌐 JavaScript | 📅 2023-11-07
-  * [**redux-form** - An ES7 decorator for forms using Redux and React](https://github.com/erikras/redux-form) ⭐ 12,473 | 🐛 496 | 🌐 JavaScript | 📅 2024-06-13
+  * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools) ⭐ 14,375 | 🐛 149 | 🌐 TypeScript | 📅 2026-11-25
+  * [**redux-devtools-extension** - Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,428 | 🐛 265 | 🌐 JavaScript | 📅 2023-11-07
+  * [**redux-form** - An ES7 decorator for forms using Redux and React](https://github.com/erikras/redux-form) ⭐ 12,472 | 🐛 496 | 🌐 JavaScript | 📅 2024-06-13
   * [**react-router-redux** - Ruthlessly simple bindings to keep react-router and redux in sync](https://github.com/rackt/react-router-redux) ⚠️ Archived
   * [**redux-orm** - A small, simple and immutable ORM to manage data in your Redux store](https://github.com/tommikaikkonen/redux-orm) ⭐ 2,926 | 🐛 119 | 🌐 JavaScript | 📅 2023-01-16
   * [**redux-loop** - Sequence your effects naturally and purely by returning them from your reducers](https://github.com/raisemarketplace/redux-loop) ⭐ 1,949 | 🐛 11 | 🌐 JavaScript | 📅 2024-03-19
@@ -395,7 +395,7 @@
   * [**redux-test-recorder** - Redux test recorder is a redux middleware + included component for automagically generating tests for your reducers based on the actions in your app](https://github.com/conorhastings/redux-test-recorder) ⭐ 490 | 🐛 2 | 🌐 JavaScript | 📅 2016-10-11
   * [**subdivide** - User defined UI layout: Every pane can be subdivided and any widget assigned to any pane](https://github.com/philholden/subdivide) ⭐ 435 | 🐛 9 | 🌐 JavaScript | 📅 2018-11-20
   * [**multireducer** - A utility to wrap many copies of a single Redux reducer into a single key-based reducer](https://github.com/erikras/multireducer) ⭐ 421 | 🐛 5 | 🌐 JavaScript | 📅 2018-05-04
-  * [**redux-saga-requests** - Redux-Saga addon to simplify handling of AJAX requests. It supports Axios and Fetch API.](https://github.com/klis87/redux-saga-requests) ⭐ 366 | 🐛 109 | 🌐 JavaScript | 📅 2026-11-20
+  * [**redux-saga-requests** - Redux-Saga addon to simplify handling of AJAX requests. It supports Axios and Fetch API.](https://github.com/klis87/redux-saga-requests) ⭐ 366 | 🐛 109 | 🌐 JavaScript | 📅 2026-11-25
   * [**immu** - A tiny, fail-fast, lazy, immutable Javascript objects library](https://github.com/scottcorgan/immu) ⭐ 353 | 🐛 5 | 🌐 JavaScript | 📅 2019-03-06
   * [**blue-chip** - Accepts payloads from GraphQL or JsonAPI servers, normalizes them into your store and provides an ORM like syntax for retrieving the data for use](https://github.com/mfpiccolo/blue-chip) ⭐ 331 | 🐛 17 | 🌐 JavaScript | 📅 2023-07-10
   * [**redux-store-visualizer** - Visualize Redux store in real time](https://github.com/romseguy/redux-store-visualizer) ⭐ 326 | 🐛 1 | 🌐 JavaScript | 📅 2024-06-28
@@ -469,7 +469,7 @@
   * [**redux-apist** - Creator API actions for redux-thunk](https://github.com/exeto/redux-apist)
 
 * Frameworks
-  * [**dva** - Front-end framework based on react, redux, react-redux, react-router and redux-saga.](https://github.com/sorrycc/dva) ⭐ 16,122 | 🐛 30 | 🌐 JavaScript | 📅 2025-08-06
+  * [**dva** - Front-end framework based on react, redux, react-redux, react-router and redux-saga.](https://github.com/sorrycc/dva) ⭐ 16,121 | 🐛 30 | 🌐 JavaScript | 📅 2025-08-06
   * [**Rematch** - Redux best practices without the boilerplate](https://github.com/rematch/rematch) ⚠️ Archived
   * [**relax** - New generation CMS on top of React, Redux and GraphQL](https://github.com/relax/relax) ⭐ 8,088 | 🐛 80 | 🌐 JavaScript | 📅 2021-07-13
   * [**Este** - The most complete minimal dev stack / boilerplate for React & Redux universal web apps](https://github.com/este/este) ⚠️ Archived
@@ -504,7 +504,7 @@
 
 ### Similar libraries
 
-* [**mobx** - Simple, scalable state management](https://github.com/mobxjs/mobx) ⭐ 28,215 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-23
+* [**mobx** - Simple, scalable state management](https://github.com/mobxjs/mobx) ⭐ 28,214 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-23
 * [**rx-redux** - A reimplementation of redux using RxJS](https://github.com/jas-chen/rx-redux) ⭐ 414 | 🐛 0 | 🌐 JavaScript | 📅 2015-08-06
 * [**fluxette** - Minimalist, functional, and concise Flux](https://github.com/edge/fluxette) ⭐ 51 | 🐛 2 | 🌐 JavaScript | 📅 2015-09-10
 * [**bobflux** - Bobflux is pure functional implementation of FLUX pattern and is fitted to Bobril](https://github.com/karelsteinmetz/bobflux) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-04
@@ -515,7 +515,7 @@
 
 ***
 
-### [Deku - Functional view library for building UI components as an alternative to React](https://github.com/dekujs/deku) ⭐ 3,385 | 🐛 32 | 🌐 JavaScript | 📅 2018-07-10
+### [Deku - Functional view library for building UI components as an alternative to React](https://github.com/dekujs/deku) ⭐ 3,384 | 🐛 32 | 🌐 JavaScript | 📅 2018-07-10
 
 * Examples
   * [deku-redux - Bindings for redux in deku (Standalone plugin)](https://github.com/troch/deku-redux) ⭐ 30 | 🐛 1 | 🌐 JavaScript | 📅 2016-08-04
@@ -623,7 +623,7 @@
 
 ### [Electron - Build cross platform desktop apps with web technologies](http://electron.atom.io/)
 
-* [electron-react-boilerplate (Electron + Redux + Hot Reload)](https://github.com/chentsulin/electron-react-boilerplate) ⭐ 24,248 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-30
+* [electron-react-boilerplate (Electron + Redux + Hot Reload)](https://github.com/chentsulin/electron-react-boilerplate) ⭐ 24,247 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-30
 
 ***
 
@@ -644,7 +644,7 @@
 
 ## Ruby on Rails Resources
 
-* [react\_on\_rails gem](https://github.com/shakacode/react_on_rails) ⭐ 5,191 | 🐛 91 | 🌐 Ruby | 📅 2026-11-23
+* [react\_on\_rails gem](https://github.com/shakacode/react_on_rails) ⭐ 5,191 | 🐛 93 | 🌐 Ruby | 📅 2026-11-24
 * [React Webpack Rails Tutorial Using Redux](https://github.com/shakacode/react-webpack-rails-tutorial) ⭐ 1,719 | 🐛 21 | 🌐 JavaScript | 📅 2026-11-19
 
 ## Other languages
@@ -669,4 +669,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
